@@ -1,0 +1,8 @@
+mini-swe-agent>=2.4
+arize-phoenix>=21
+openinference-instrumentation-litellm
+opentelemetry-exporter-otlp
+pandas
+matplotlib
+jupyter
+pytest

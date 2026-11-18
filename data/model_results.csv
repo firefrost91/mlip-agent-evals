@@ -1,0 +1,3501 @@
+instance_id,model,resolved,cost_usd
+astropy__astropy-12907,Claude Haiku 4.5,True,0.21235584999999996
+astropy__astropy-13033,Claude Haiku 4.5,False,0.22841509999999998
+astropy__astropy-13236,Claude Haiku 4.5,False,0.27040635
+astropy__astropy-13398,Claude Haiku 4.5,False,0.5525912500000001
+astropy__astropy-13453,Claude Haiku 4.5,True,0.42437880000000006
+astropy__astropy-13579,Claude Haiku 4.5,True,0.3130656499999999
+astropy__astropy-13977,Claude Haiku 4.5,False,0.32630174999999995
+astropy__astropy-14096,Claude Haiku 4.5,True,0.25571465
+astropy__astropy-14182,Claude Haiku 4.5,False,0.3906106
+astropy__astropy-14309,Claude Haiku 4.5,True,0.3086006000000001
+astropy__astropy-14365,Claude Haiku 4.5,False,0.15952645000000001
+astropy__astropy-14369,Claude Haiku 4.5,False,0.5600392999999999
+astropy__astropy-14508,Claude Haiku 4.5,True,0.24036994999999997
+astropy__astropy-14539,Claude Haiku 4.5,True,0.4114843
+astropy__astropy-14598,Claude Haiku 4.5,False,0.45325290000000007
+astropy__astropy-14995,Claude Haiku 4.5,True,0.31699895000000006
+astropy__astropy-7166,Claude Haiku 4.5,True,0.19189395000000004
+astropy__astropy-7336,Claude Haiku 4.5,True,0.17082755
+astropy__astropy-7606,Claude Haiku 4.5,False,0.1569305
+astropy__astropy-7671,Claude Haiku 4.5,True,0.21568155
+astropy__astropy-8707,Claude Haiku 4.5,False,0.24583010000000005
+astropy__astropy-8872,Claude Haiku 4.5,False,0.3066504000000001
+django__django-10097,Claude Haiku 4.5,False,0.4082544000000001
+django__django-10554,Claude Haiku 4.5,False,0.79668505
+django__django-10880,Claude Haiku 4.5,True,0.20039265
+django__django-10914,Claude Haiku 4.5,True,0.2935313
+django__django-10973,Claude Haiku 4.5,True,0.1293478
+django__django-10999,Claude Haiku 4.5,False,0.1003992
+django__django-11066,Claude Haiku 4.5,True,0.06932275000000002
+django__django-11087,Claude Haiku 4.5,False,0.36984239999999985
+django__django-11095,Claude Haiku 4.5,True,0.16086065
+django__django-11099,Claude Haiku 4.5,True,0.06307175
+django__django-11119,Claude Haiku 4.5,True,0.16316460000000005
+django__django-11133,Claude Haiku 4.5,True,0.11333935
+django__django-11138,Claude Haiku 4.5,False,0.4952426
+django__django-11141,Claude Haiku 4.5,False,0.305071
+django__django-11149,Claude Haiku 4.5,True,0.4552724500000001
+django__django-11163,Claude Haiku 4.5,True,0.11756544999999999
+django__django-11179,Claude Haiku 4.5,True,0.23931675000000005
+django__django-11206,Claude Haiku 4.5,False,0.24698855000000006
+django__django-11211,Claude Haiku 4.5,True,0.2589258
+django__django-11239,Claude Haiku 4.5,True,0.16906800000000005
+django__django-11265,Claude Haiku 4.5,True,1.0449757
+django__django-11276,Claude Haiku 4.5,True,0.195284
+django__django-11292,Claude Haiku 4.5,True,0.2929668
+django__django-11299,Claude Haiku 4.5,True,0.21058335000000006
+django__django-11333,Claude Haiku 4.5,True,0.19309925
+django__django-11400,Claude Haiku 4.5,False,0.30839695000000006
+django__django-11433,Claude Haiku 4.5,False,0.38229895000000014
+django__django-11451,Claude Haiku 4.5,True,0.13738555
+django__django-11477,Claude Haiku 4.5,False,0.4843322499999999
+django__django-11490,Claude Haiku 4.5,True,0.2766785
+django__django-11532,Claude Haiku 4.5,False,0.144482
+django__django-11551,Claude Haiku 4.5,True,0.25099085
+django__django-11555,Claude Haiku 4.5,True,0.44265925000000006
+django__django-11603,Claude Haiku 4.5,True,0.1438818
+django__django-11728,Claude Haiku 4.5,False,0.1978712
+django__django-11734,Claude Haiku 4.5,False,1.03708065
+django__django-11740,Claude Haiku 4.5,True,0.4319301999999999
+django__django-11749,Claude Haiku 4.5,True,0.29666535
+django__django-11790,Claude Haiku 4.5,False,0.28336355
+django__django-11815,Claude Haiku 4.5,True,0.3971193500000001
+django__django-11820,Claude Haiku 4.5,False,0.33594555
+django__django-11848,Claude Haiku 4.5,False,0.14353089999999996
+django__django-11880,Claude Haiku 4.5,True,0.12742235000000002
+django__django-11885,Claude Haiku 4.5,True,0.50620005
+django__django-11951,Claude Haiku 4.5,True,0.20112975
+django__django-11964,Claude Haiku 4.5,False,0.5226240499999997
+django__django-11999,Claude Haiku 4.5,True,0.24187415000000004
+django__django-12039,Claude Haiku 4.5,True,0.29991385
+django__django-12050,Claude Haiku 4.5,True,0.2209478
+django__django-12125,Claude Haiku 4.5,True,0.31492895
+django__django-12143,Claude Haiku 4.5,True,0.11140890000000002
+django__django-12155,Claude Haiku 4.5,True,0.15346195
+django__django-12193,Claude Haiku 4.5,True,0.24307625
+django__django-12209,Claude Haiku 4.5,True,0.6749929999999998
+django__django-12262,Claude Haiku 4.5,True,0.29783855000000004
+django__django-12273,Claude Haiku 4.5,False,0.27245625000000007
+django__django-12276,Claude Haiku 4.5,True,0.22312875000000004
+django__django-12304,Claude Haiku 4.5,True,0.23302734999999997
+django__django-12308,Claude Haiku 4.5,False,0.24457150000000005
+django__django-12325,Claude Haiku 4.5,False,0.43396735000000003
+django__django-12406,Claude Haiku 4.5,False,0.48961625
+django__django-12419,Claude Haiku 4.5,True,0.3265014499999999
+django__django-12663,Claude Haiku 4.5,False,0.6180746000000003
+django__django-12708,Claude Haiku 4.5,True,0.26402115000000015
+django__django-12713,Claude Haiku 4.5,True,0.13718640000000004
+django__django-12741,Claude Haiku 4.5,True,0.18615354999999997
+django__django-12754,Claude Haiku 4.5,True,0.7623149
+django__django-12774,Claude Haiku 4.5,True,0.15993274999999998
+django__django-12858,Claude Haiku 4.5,True,0.39837674999999995
+django__django-12965,Claude Haiku 4.5,True,0.4060472
+django__django-13012,Claude Haiku 4.5,True,0.30162615
+django__django-13023,Claude Haiku 4.5,True,0.15666979999999997
+django__django-13028,Claude Haiku 4.5,True,0.23248475
+django__django-13033,Claude Haiku 4.5,True,0.5522999999999997
+django__django-13089,Claude Haiku 4.5,True,0.1580806
+django__django-13109,Claude Haiku 4.5,True,0.19758780000000006
+django__django-13112,Claude Haiku 4.5,True,1.0786963500000004
+django__django-13121,Claude Haiku 4.5,True,0.34328260000000005
+django__django-13128,Claude Haiku 4.5,True,0.31617144999999997
+django__django-13158,Claude Haiku 4.5,True,0.24198425000000007
+django__django-13195,Claude Haiku 4.5,False,0.4127710500000001
+django__django-13212,Claude Haiku 4.5,False,0.4455333500000002
+django__django-13279,Claude Haiku 4.5,True,0.27460235000000005
+django__django-13297,Claude Haiku 4.5,True,0.3103692
+django__django-13315,Claude Haiku 4.5,True,0.36029869999999986
+django__django-13343,Claude Haiku 4.5,True,0.30200925000000006
+django__django-13344,Claude Haiku 4.5,False,0.6778224000000003
+django__django-13346,Claude Haiku 4.5,True,0.9581265500000005
+django__django-13363,Claude Haiku 4.5,True,0.21594724999999998
+django__django-13401,Claude Haiku 4.5,False,0.1983069
+django__django-13406,Claude Haiku 4.5,False,0.5232862999999999
+django__django-13410,Claude Haiku 4.5,True,0.08003775
+django__django-13417,Claude Haiku 4.5,True,0.33370299999999986
+django__django-13449,Claude Haiku 4.5,True,0.2974245500000001
+django__django-13512,Claude Haiku 4.5,False,0.2791844500000001
+django__django-13513,Claude Haiku 4.5,False,0.2631680999999999
+django__django-13516,Claude Haiku 4.5,True,0.23799594999999998
+django__django-13551,Claude Haiku 4.5,False,0.21057405
+django__django-13568,Claude Haiku 4.5,False,0.2654601
+django__django-13569,Claude Haiku 4.5,True,0.34397025
+django__django-13590,Claude Haiku 4.5,True,0.23731234999999998
+django__django-13658,Claude Haiku 4.5,True,0.0906416
+django__django-13670,Claude Haiku 4.5,True,0.10166950000000001
+django__django-13741,Claude Haiku 4.5,True,0.14014495
+django__django-13786,Claude Haiku 4.5,True,0.35572804999999996
+django__django-13794,Claude Haiku 4.5,False,0.3084509
+django__django-13807,Claude Haiku 4.5,True,0.25475784999999995
+django__django-13809,Claude Haiku 4.5,True,0.19566705
+django__django-13810,Claude Haiku 4.5,True,0.9429139999999999
+django__django-13820,Claude Haiku 4.5,True,0.19017155000000005
+django__django-13821,Claude Haiku 4.5,True,0.14932034999999994
+django__django-13837,Claude Haiku 4.5,True,0.22494630000000002
+django__django-13925,Claude Haiku 4.5,True,0.46222389999999985
+django__django-13933,Claude Haiku 4.5,True,0.47761699999999996
+django__django-13964,Claude Haiku 4.5,False,0.6490221999999998
+django__django-14007,Claude Haiku 4.5,True,0.3935059499999999
+django__django-14011,Claude Haiku 4.5,False,0.21330785000000002
+django__django-14017,Claude Haiku 4.5,True,0.49034475
+django__django-14034,Claude Haiku 4.5,False,0.42088194999999995
+django__django-14053,Claude Haiku 4.5,True,0.33701849999999983
+django__django-14089,Claude Haiku 4.5,True,0.07534405000000001
+django__django-14122,Claude Haiku 4.5,True,0.3911837
+django__django-14140,Claude Haiku 4.5,False,0.1800872
+django__django-14155,Claude Haiku 4.5,False,0.3718611
+django__django-14170,Claude Haiku 4.5,False,0.5438821999999998
+django__django-14238,Claude Haiku 4.5,True,0.18756925000000002
+django__django-14311,Claude Haiku 4.5,True,0.24451025000000004
+django__django-14315,Claude Haiku 4.5,False,0.3397681
+django__django-14349,Claude Haiku 4.5,True,0.19605784999999995
+django__django-14351,Claude Haiku 4.5,True,1.0684106000000002
+django__django-14373,Claude Haiku 4.5,True,0.08615144999999999
+django__django-14376,Claude Haiku 4.5,False,0.063956
+django__django-14404,Claude Haiku 4.5,False,0.12829745
+django__django-14434,Claude Haiku 4.5,True,0.21474159999999998
+django__django-14493,Claude Haiku 4.5,True,0.1246774
+django__django-14500,Claude Haiku 4.5,True,0.37582020000000005
+django__django-14534,Claude Haiku 4.5,False,0.25016040000000006
+django__django-14539,Claude Haiku 4.5,True,0.24468029999999993
+django__django-14559,Claude Haiku 4.5,True,0.2811219999999999
+django__django-14580,Claude Haiku 4.5,True,0.250736
+django__django-14608,Claude Haiku 4.5,True,0.30965535000000005
+django__django-14631,Claude Haiku 4.5,True,0.53759205
+django__django-14672,Claude Haiku 4.5,True,0.17499214999999999
+django__django-14725,Claude Haiku 4.5,False,0.42700659999999996
+django__django-14752,Claude Haiku 4.5,True,0.10981645000000001
+django__django-14765,Claude Haiku 4.5,True,0.12071884999999999
+django__django-14771,Claude Haiku 4.5,True,0.22330464999999994
+django__django-14787,Claude Haiku 4.5,True,0.22567179999999998
+django__django-14792,Claude Haiku 4.5,False,0.5781601499999999
+django__django-14855,Claude Haiku 4.5,True,0.33964264999999993
+django__django-14915,Claude Haiku 4.5,True,0.13600194999999993
+django__django-14999,Claude Haiku 4.5,True,0.3173771500000001
+django__django-15022,Claude Haiku 4.5,False,0.7774499499999997
+django__django-15037,Claude Haiku 4.5,True,0.3926545500000001
+django__django-15098,Claude Haiku 4.5,False,0.4762445500000001
+django__django-15103,Claude Haiku 4.5,True,0.2246065
+django__django-15104,Claude Haiku 4.5,True,0.1160033
+django__django-15127,Claude Haiku 4.5,False,0.19665350000000006
+django__django-15128,Claude Haiku 4.5,False,0.44346905
+django__django-15161,Claude Haiku 4.5,True,0.4070625
+django__django-15252,Claude Haiku 4.5,False,0.7428211500000002
+django__django-15268,Claude Haiku 4.5,True,0.6520518500000002
+django__django-15277,Claude Haiku 4.5,True,0.19218860000000001
+django__django-15278,Claude Haiku 4.5,True,0.36717010000000005
+django__django-15280,Claude Haiku 4.5,False,1.83573185
+django__django-15315,Claude Haiku 4.5,True,0.25917045
+django__django-15368,Claude Haiku 4.5,True,0.35821915
+django__django-15375,Claude Haiku 4.5,True,0.26671295000000006
+django__django-15380,Claude Haiku 4.5,True,0.26018205
+django__django-15382,Claude Haiku 4.5,True,0.4921151
+django__django-15467,Claude Haiku 4.5,True,0.16551159999999998
+django__django-15499,Claude Haiku 4.5,True,0.2951557
+django__django-15503,Claude Haiku 4.5,True,0.6700961999999999
+django__django-15525,Claude Haiku 4.5,True,0.5054721
+django__django-15554,Claude Haiku 4.5,False,1.5654124
+django__django-15561,Claude Haiku 4.5,True,0.33988785
+django__django-15563,Claude Haiku 4.5,False,0.3958738999999999
+django__django-15569,Claude Haiku 4.5,True,0.16089784999999998
+django__django-15572,Claude Haiku 4.5,True,0.13383439999999996
+django__django-15629,Claude Haiku 4.5,False,0.5093736
+django__django-15695,Claude Haiku 4.5,False,0.6216789
+django__django-15731,Claude Haiku 4.5,True,0.12328639999999999
+django__django-15732,Claude Haiku 4.5,False,0.29541744999999997
+django__django-15741,Claude Haiku 4.5,True,0.20521100000000003
+django__django-15814,Claude Haiku 4.5,True,0.38113800000000003
+django__django-15851,Claude Haiku 4.5,True,0.12622554999999996
+django__django-15863,Claude Haiku 4.5,True,0.12732905000000005
+django__django-15916,Claude Haiku 4.5,False,0.5151491499999998
+django__django-15930,Claude Haiku 4.5,True,0.40929934999999995
+django__django-15957,Claude Haiku 4.5,False,0.47767395000000007
+django__django-15973,Claude Haiku 4.5,False,0.54726455
+django__django-15987,Claude Haiku 4.5,True,0.1997772
+django__django-16032,Claude Haiku 4.5,False,2.228701100000001
+django__django-16082,Claude Haiku 4.5,True,0.2889532000000001
+django__django-16100,Claude Haiku 4.5,False,0.7236270999999999
+django__django-16116,Claude Haiku 4.5,True,0.43269180000000007
+django__django-16136,Claude Haiku 4.5,False,0.2810682500000001
+django__django-16139,Claude Haiku 4.5,True,0.35625365
+django__django-16145,Claude Haiku 4.5,True,0.18110274999999998
+django__django-16255,Claude Haiku 4.5,True,0.14240304999999998
+django__django-16256,Claude Haiku 4.5,False,0.5483081
+django__django-16263,Claude Haiku 4.5,False,0.5983474500000001
+django__django-16315,Claude Haiku 4.5,True,0.3656354500000001
+django__django-16333,Claude Haiku 4.5,True,0.23984135
+django__django-16429,Claude Haiku 4.5,True,0.10476575000000002
+django__django-16454,Claude Haiku 4.5,False,0.32799739999999994
+django__django-16485,Claude Haiku 4.5,True,0.18330125
+django__django-16493,Claude Haiku 4.5,True,0.23031725000000003
+django__django-16502,Claude Haiku 4.5,False,0.4308592
+django__django-16527,Claude Haiku 4.5,True,0.2266377
+django__django-16560,Claude Haiku 4.5,False,0.39695770000000014
+django__django-16569,Claude Haiku 4.5,True,0.12340860000000001
+django__django-16595,Claude Haiku 4.5,True,0.24046375000000003
+django__django-16612,Claude Haiku 4.5,True,0.16636910000000002
+django__django-16631,Claude Haiku 4.5,False,0.34814419999999996
+django__django-16642,Claude Haiku 4.5,False,0.13277405
+django__django-16661,Claude Haiku 4.5,True,0.5426484999999999
+django__django-16662,Claude Haiku 4.5,True,0.20699380000000003
+django__django-16667,Claude Haiku 4.5,False,0.17297305000000002
+django__django-16801,Claude Haiku 4.5,True,0.16901695
+django__django-16819,Claude Haiku 4.5,True,0.3439473500000001
+django__django-16877,Claude Haiku 4.5,False,0.16902824999999996
+django__django-16899,Claude Haiku 4.5,True,0.2255901
+django__django-16901,Claude Haiku 4.5,True,0.24342979999999997
+django__django-16938,Claude Haiku 4.5,False,0.45293525
+django__django-16950,Claude Haiku 4.5,True,0.7577128499999998
+django__django-17029,Claude Haiku 4.5,True,0.17139084999999996
+django__django-17084,Claude Haiku 4.5,True,0.7265120499999999
+django__django-17087,Claude Haiku 4.5,True,0.14240890000000003
+django__django-7530,Claude Haiku 4.5,True,0.22104685000000002
+django__django-9296,Claude Haiku 4.5,True,0.08589075
+matplotlib__matplotlib-13989,Claude Haiku 4.5,True,0.14876260000000002
+matplotlib__matplotlib-14623,Claude Haiku 4.5,True,0.6236379499999999
+matplotlib__matplotlib-20488,Claude Haiku 4.5,True,0.35848350000000007
+matplotlib__matplotlib-20676,Claude Haiku 4.5,False,0.26933795
+matplotlib__matplotlib-20826,Claude Haiku 4.5,False,0.6610828
+matplotlib__matplotlib-20859,Claude Haiku 4.5,True,0.19526695
+matplotlib__matplotlib-21568,Claude Haiku 4.5,False,0.9062292000000004
+matplotlib__matplotlib-22719,Claude Haiku 4.5,True,0.12209065000000002
+matplotlib__matplotlib-22865,Claude Haiku 4.5,False,0.24497100000000002
+matplotlib__matplotlib-22871,Claude Haiku 4.5,True,0.33340404999999995
+matplotlib__matplotlib-23299,Claude Haiku 4.5,False,0.3380882500000001
+matplotlib__matplotlib-23314,Claude Haiku 4.5,True,0.10721490000000003
+matplotlib__matplotlib-23412,Claude Haiku 4.5,True,0.2559449500000001
+matplotlib__matplotlib-23476,Claude Haiku 4.5,False,0.3733139000000002
+matplotlib__matplotlib-24026,Claude Haiku 4.5,True,0.13000949999999997
+matplotlib__matplotlib-24149,Claude Haiku 4.5,True,0.28473655
+matplotlib__matplotlib-24177,Claude Haiku 4.5,True,0.6455684000000002
+matplotlib__matplotlib-24570,Claude Haiku 4.5,True,0.15758095
+matplotlib__matplotlib-24627,Claude Haiku 4.5,True,0.3596292
+matplotlib__matplotlib-24637,Claude Haiku 4.5,True,0.23734015000000003
+matplotlib__matplotlib-24870,Claude Haiku 4.5,False,0.3330736000000001
+matplotlib__matplotlib-24970,Claude Haiku 4.5,True,0.16009215
+matplotlib__matplotlib-25122,Claude Haiku 4.5,True,0.16768875
+matplotlib__matplotlib-25287,Claude Haiku 4.5,True,0.14286744999999998
+matplotlib__matplotlib-25311,Claude Haiku 4.5,True,0.4370278000000002
+matplotlib__matplotlib-25332,Claude Haiku 4.5,True,0.2577171500000001
+matplotlib__matplotlib-25479,Claude Haiku 4.5,False,0.40576814999999994
+matplotlib__matplotlib-25775,Claude Haiku 4.5,False,0.6171895000000001
+matplotlib__matplotlib-25960,Claude Haiku 4.5,False,0.29657
+matplotlib__matplotlib-26113,Claude Haiku 4.5,True,0.16586340000000002
+matplotlib__matplotlib-26208,Claude Haiku 4.5,False,0.5459147000000002
+matplotlib__matplotlib-26291,Claude Haiku 4.5,True,0.3837345
+matplotlib__matplotlib-26342,Claude Haiku 4.5,True,0.21544555
+matplotlib__matplotlib-26466,Claude Haiku 4.5,False,0.25409184999999995
+mwaskom__seaborn-3069,Claude Haiku 4.5,True,0.4420673500000001
+mwaskom__seaborn-3187,Claude Haiku 4.5,False,0.33105605
+pallets__flask-5014,Claude Haiku 4.5,True,0.07530065
+psf__requests-1142,Claude Haiku 4.5,True,0.29824649999999997
+psf__requests-1724,Claude Haiku 4.5,True,0.22387619999999997
+psf__requests-1766,Claude Haiku 4.5,True,0.07594530000000001
+psf__requests-1921,Claude Haiku 4.5,False,0.29964470000000004
+psf__requests-2317,Claude Haiku 4.5,False,0.15881170000000003
+psf__requests-2931,Claude Haiku 4.5,False,0.28322240000000004
+psf__requests-5414,Claude Haiku 4.5,True,0.18254564999999998
+psf__requests-6028,Claude Haiku 4.5,False,0.4256318
+pydata__xarray-2905,Claude Haiku 4.5,True,0.3397844000000001
+pydata__xarray-3095,Claude Haiku 4.5,True,0.2693214499999999
+pydata__xarray-3151,Claude Haiku 4.5,True,0.15859545000000005
+pydata__xarray-3305,Claude Haiku 4.5,True,0.30652130000000005
+pydata__xarray-3677,Claude Haiku 4.5,True,0.2860153000000001
+pydata__xarray-3993,Claude Haiku 4.5,False,0.18343579999999993
+pydata__xarray-4075,Claude Haiku 4.5,True,0.19110935
+pydata__xarray-4094,Claude Haiku 4.5,True,0.45533294999999996
+pydata__xarray-4356,Claude Haiku 4.5,True,0.34697475
+pydata__xarray-4629,Claude Haiku 4.5,True,0.09712015
+pydata__xarray-4687,Claude Haiku 4.5,False,0.5532055
+pydata__xarray-4695,Claude Haiku 4.5,True,0.26005569999999995
+pydata__xarray-4966,Claude Haiku 4.5,True,0.17170985000000002
+pydata__xarray-6461,Claude Haiku 4.5,True,0.3787650000000001
+pydata__xarray-6599,Claude Haiku 4.5,False,0.64312475
+pydata__xarray-6721,Claude Haiku 4.5,True,0.2923716
+pydata__xarray-6744,Claude Haiku 4.5,True,0.3033408000000002
+pydata__xarray-6938,Claude Haiku 4.5,False,0.3229292000000001
+pydata__xarray-6992,Claude Haiku 4.5,False,0.16187740000000003
+pydata__xarray-7229,Claude Haiku 4.5,False,0.5275060500000001
+pydata__xarray-7233,Claude Haiku 4.5,True,0.28226709999999994
+pydata__xarray-7393,Claude Haiku 4.5,True,0.324265
+pylint-dev__pylint-4551,Claude Haiku 4.5,False,0.5170138
+pylint-dev__pylint-4604,Claude Haiku 4.5,False,0.3710696000000001
+pylint-dev__pylint-4661,Claude Haiku 4.5,False,0.15783105
+pylint-dev__pylint-4970,Claude Haiku 4.5,False,0.3434065
+pylint-dev__pylint-6386,Claude Haiku 4.5,False,0.32612979999999997
+pylint-dev__pylint-6528,Claude Haiku 4.5,False,0.5173227
+pylint-dev__pylint-6903,Claude Haiku 4.5,True,0.2209827
+pylint-dev__pylint-7080,Claude Haiku 4.5,True,0.4455122000000001
+pylint-dev__pylint-7277,Claude Haiku 4.5,False,0.15153915000000007
+pylint-dev__pylint-8898,Claude Haiku 4.5,False,0.3313151500000001
+pytest-dev__pytest-10051,Claude Haiku 4.5,True,0.2052563
+pytest-dev__pytest-10081,Claude Haiku 4.5,True,0.22058944999999994
+pytest-dev__pytest-10356,Claude Haiku 4.5,False,0.28051845
+pytest-dev__pytest-5262,Claude Haiku 4.5,True,0.09568269999999998
+pytest-dev__pytest-5631,Claude Haiku 4.5,True,0.17572990000000002
+pytest-dev__pytest-5787,Claude Haiku 4.5,False,0.52501095
+pytest-dev__pytest-5809,Claude Haiku 4.5,True,0.05635774999999999
+pytest-dev__pytest-5840,Claude Haiku 4.5,False,0.29186919999999994
+pytest-dev__pytest-6197,Claude Haiku 4.5,False,0.6671043
+pytest-dev__pytest-6202,Claude Haiku 4.5,True,0.13899185000000003
+pytest-dev__pytest-7205,Claude Haiku 4.5,True,0.10816765
+pytest-dev__pytest-7236,Claude Haiku 4.5,True,0.4474320000000001
+pytest-dev__pytest-7324,Claude Haiku 4.5,True,0.31606170000000006
+pytest-dev__pytest-7432,Claude Haiku 4.5,True,0.32158635
+pytest-dev__pytest-7490,Claude Haiku 4.5,True,0.33777719999999994
+pytest-dev__pytest-7521,Claude Haiku 4.5,True,0.3140099500000001
+pytest-dev__pytest-7571,Claude Haiku 4.5,True,0.19983710000000002
+pytest-dev__pytest-7982,Claude Haiku 4.5,True,0.25354909999999997
+pytest-dev__pytest-8399,Claude Haiku 4.5,True,0.25134950000000006
+scikit-learn__scikit-learn-10297,Claude Haiku 4.5,True,0.1446662
+scikit-learn__scikit-learn-10844,Claude Haiku 4.5,True,0.10595560000000001
+scikit-learn__scikit-learn-10908,Claude Haiku 4.5,True,0.3181106
+scikit-learn__scikit-learn-11310,Claude Haiku 4.5,True,0.22264335000000002
+scikit-learn__scikit-learn-11578,Claude Haiku 4.5,True,0.11285315000000001
+scikit-learn__scikit-learn-12585,Claude Haiku 4.5,True,0.12410875
+scikit-learn__scikit-learn-12682,Claude Haiku 4.5,False,0.38101204999999994
+scikit-learn__scikit-learn-12973,Claude Haiku 4.5,True,0.12263055
+scikit-learn__scikit-learn-13124,Claude Haiku 4.5,True,0.27894225000000006
+scikit-learn__scikit-learn-13135,Claude Haiku 4.5,True,0.14202215000000004
+scikit-learn__scikit-learn-13142,Claude Haiku 4.5,True,0.3082102
+scikit-learn__scikit-learn-13328,Claude Haiku 4.5,True,0.21013915000000005
+scikit-learn__scikit-learn-13439,Claude Haiku 4.5,True,0.11978269999999999
+scikit-learn__scikit-learn-13496,Claude Haiku 4.5,True,0.22736855
+scikit-learn__scikit-learn-13779,Claude Haiku 4.5,True,0.1429462
+scikit-learn__scikit-learn-14053,Claude Haiku 4.5,True,0.16856039999999997
+scikit-learn__scikit-learn-14087,Claude Haiku 4.5,False,0.21424125000000005
+scikit-learn__scikit-learn-14141,Claude Haiku 4.5,True,0.05400085
+scikit-learn__scikit-learn-14496,Claude Haiku 4.5,True,0.09347675
+scikit-learn__scikit-learn-14629,Claude Haiku 4.5,False,0.23812959999999997
+scikit-learn__scikit-learn-14710,Claude Haiku 4.5,True,0.19562264999999998
+scikit-learn__scikit-learn-14894,Claude Haiku 4.5,True,0.15897915
+scikit-learn__scikit-learn-14983,Claude Haiku 4.5,True,0.2346923999999999
+scikit-learn__scikit-learn-15100,Claude Haiku 4.5,True,0.10422949999999999
+scikit-learn__scikit-learn-25102,Claude Haiku 4.5,False,0.27183320000000005
+scikit-learn__scikit-learn-25232,Claude Haiku 4.5,True,0.34266605000000006
+scikit-learn__scikit-learn-25747,Claude Haiku 4.5,False,0.2016581
+scikit-learn__scikit-learn-25931,Claude Haiku 4.5,True,0.250932
+scikit-learn__scikit-learn-25973,Claude Haiku 4.5,True,0.33768044999999997
+scikit-learn__scikit-learn-26194,Claude Haiku 4.5,False,0.26135645
+scikit-learn__scikit-learn-26323,Claude Haiku 4.5,True,0.24960010000000005
+scikit-learn__scikit-learn-9288,Claude Haiku 4.5,True,0.18167874999999997
+sphinx-doc__sphinx-10323,Claude Haiku 4.5,False,0.5825732
+sphinx-doc__sphinx-10435,Claude Haiku 4.5,False,0.4595775
+sphinx-doc__sphinx-10449,Claude Haiku 4.5,True,0.24173550000000002
+sphinx-doc__sphinx-10466,Claude Haiku 4.5,True,0.13764684999999993
+sphinx-doc__sphinx-10614,Claude Haiku 4.5,False,0.7270323500000003
+sphinx-doc__sphinx-10673,Claude Haiku 4.5,True,0.50358255
+sphinx-doc__sphinx-11445,Claude Haiku 4.5,True,0.27280200000000004
+sphinx-doc__sphinx-11510,Claude Haiku 4.5,False,0.8716362999999997
+sphinx-doc__sphinx-7440,Claude Haiku 4.5,True,0.4902226
+sphinx-doc__sphinx-7454,Claude Haiku 4.5,True,0.5546225000000004
+sphinx-doc__sphinx-7462,Claude Haiku 4.5,False,0.15426585000000004
+sphinx-doc__sphinx-7590,Claude Haiku 4.5,False,0.44913775
+sphinx-doc__sphinx-7748,Claude Haiku 4.5,False,0.4695466
+sphinx-doc__sphinx-7757,Claude Haiku 4.5,True,0.3230106
+sphinx-doc__sphinx-7889,Claude Haiku 4.5,True,0.13437335
+sphinx-doc__sphinx-7910,Claude Haiku 4.5,True,0.3498138000000002
+sphinx-doc__sphinx-7985,Claude Haiku 4.5,False,0.33427969999999996
+sphinx-doc__sphinx-8035,Claude Haiku 4.5,True,0.5461961499999999
+sphinx-doc__sphinx-8056,Claude Haiku 4.5,False,0.4125508000000001
+sphinx-doc__sphinx-8120,Claude Haiku 4.5,True,0.41216715000000004
+sphinx-doc__sphinx-8265,Claude Haiku 4.5,False,0.27208550000000004
+sphinx-doc__sphinx-8269,Claude Haiku 4.5,True,0.2411175
+sphinx-doc__sphinx-8459,Claude Haiku 4.5,True,0.3317608999999999
+sphinx-doc__sphinx-8475,Claude Haiku 4.5,True,0.10965745
+sphinx-doc__sphinx-8548,Claude Haiku 4.5,False,1.0226994999999997
+sphinx-doc__sphinx-8551,Claude Haiku 4.5,True,0.5650966999999998
+sphinx-doc__sphinx-8593,Claude Haiku 4.5,True,0.40773159999999997
+sphinx-doc__sphinx-8595,Claude Haiku 4.5,True,0.4521239
+sphinx-doc__sphinx-8621,Claude Haiku 4.5,False,0.2886313
+sphinx-doc__sphinx-8638,Claude Haiku 4.5,False,0.55359295
+sphinx-doc__sphinx-8721,Claude Haiku 4.5,True,0.21213365
+sphinx-doc__sphinx-9229,Claude Haiku 4.5,False,1.0533671000000002
+sphinx-doc__sphinx-9230,Claude Haiku 4.5,True,0.38228480000000004
+sphinx-doc__sphinx-9258,Claude Haiku 4.5,False,0.46611095000000013
+sphinx-doc__sphinx-9281,Claude Haiku 4.5,True,0.36489215
+sphinx-doc__sphinx-9320,Claude Haiku 4.5,True,0.16791795
+sphinx-doc__sphinx-9367,Claude Haiku 4.5,True,0.10582744999999999
+sphinx-doc__sphinx-9461,Claude Haiku 4.5,False,0.7300640499999997
+sphinx-doc__sphinx-9591,Claude Haiku 4.5,True,0.5721862499999999
+sphinx-doc__sphinx-9602,Claude Haiku 4.5,False,0.5399356500000002
+sphinx-doc__sphinx-9658,Claude Haiku 4.5,False,0.5628390500000002
+sphinx-doc__sphinx-9673,Claude Haiku 4.5,True,0.41394109999999995
+sphinx-doc__sphinx-9698,Claude Haiku 4.5,True,0.13068415
+sphinx-doc__sphinx-9711,Claude Haiku 4.5,True,0.16848935000000004
+sympy__sympy-11618,Claude Haiku 4.5,True,0.1247144
+sympy__sympy-12096,Claude Haiku 4.5,True,0.1723355
+sympy__sympy-12419,Claude Haiku 4.5,True,0.5190534500000001
+sympy__sympy-12481,Claude Haiku 4.5,True,0.36807465
+sympy__sympy-12489,Claude Haiku 4.5,False,0.48931775
+sympy__sympy-13031,Claude Haiku 4.5,True,0.5733514999999999
+sympy__sympy-13091,Claude Haiku 4.5,False,0.36959825
+sympy__sympy-13372,Claude Haiku 4.5,True,0.16495845
+sympy__sympy-13480,Claude Haiku 4.5,True,0.06047915000000001
+sympy__sympy-13551,Claude Haiku 4.5,True,0.3893243500000001
+sympy__sympy-13615,Claude Haiku 4.5,True,0.3544018499999999
+sympy__sympy-13647,Claude Haiku 4.5,True,0.2891900499999999
+sympy__sympy-13757,Claude Haiku 4.5,True,0.31328025000000004
+sympy__sympy-13798,Claude Haiku 4.5,False,0.3352394500000001
+sympy__sympy-13852,Claude Haiku 4.5,False,0.6678238000000001
+sympy__sympy-13877,Claude Haiku 4.5,False,0.46146305
+sympy__sympy-13878,Claude Haiku 4.5,True,0.50657925
+sympy__sympy-13974,Claude Haiku 4.5,False,0.4278841500000001
+sympy__sympy-14248,Claude Haiku 4.5,False,0.70720335
+sympy__sympy-14531,Claude Haiku 4.5,True,0.33147915
+sympy__sympy-14711,Claude Haiku 4.5,False,0.4154892
+sympy__sympy-14976,Claude Haiku 4.5,False,0.34876725000000003
+sympy__sympy-15017,Claude Haiku 4.5,True,0.17635444999999997
+sympy__sympy-15345,Claude Haiku 4.5,True,0.21873634999999997
+sympy__sympy-15349,Claude Haiku 4.5,True,0.19291590000000003
+sympy__sympy-15599,Claude Haiku 4.5,False,1.8832504500000002
+sympy__sympy-15809,Claude Haiku 4.5,True,0.16841214999999998
+sympy__sympy-15875,Claude Haiku 4.5,False,0.24735205000000002
+sympy__sympy-15976,Claude Haiku 4.5,True,0.46384630000000004
+sympy__sympy-16450,Claude Haiku 4.5,True,0.25022285000000005
+sympy__sympy-16597,Claude Haiku 4.5,False,0.45964029999999995
+sympy__sympy-16766,Claude Haiku 4.5,True,0.24182840000000003
+sympy__sympy-16792,Claude Haiku 4.5,True,0.22761799999999993
+sympy__sympy-16886,Claude Haiku 4.5,True,0.0526469
+sympy__sympy-17139,Claude Haiku 4.5,True,0.11157460000000001
+sympy__sympy-17318,Claude Haiku 4.5,False,0.16829835
+sympy__sympy-17630,Claude Haiku 4.5,False,0.19628405000000002
+sympy__sympy-17655,Claude Haiku 4.5,True,0.3592130500000002
+sympy__sympy-18189,Claude Haiku 4.5,True,0.17828544999999996
+sympy__sympy-18199,Claude Haiku 4.5,False,0.194944
+sympy__sympy-18211,Claude Haiku 4.5,True,0.21104080000000003
+sympy__sympy-18698,Claude Haiku 4.5,False,0.4665446500000001
+sympy__sympy-18763,Claude Haiku 4.5,False,0.25697220000000004
+sympy__sympy-19040,Claude Haiku 4.5,False,1.354968649999999
+sympy__sympy-19346,Claude Haiku 4.5,True,0.12923230000000002
+sympy__sympy-19495,Claude Haiku 4.5,True,0.37508665
+sympy__sympy-19637,Claude Haiku 4.5,True,0.09549060000000004
+sympy__sympy-19783,Claude Haiku 4.5,True,0.22488235
+sympy__sympy-19954,Claude Haiku 4.5,True,0.09496719999999999
+sympy__sympy-20154,Claude Haiku 4.5,True,0.14155625
+sympy__sympy-20428,Claude Haiku 4.5,False,0.2460944500000001
+sympy__sympy-20438,Claude Haiku 4.5,False,0.3297970499999999
+sympy__sympy-20590,Claude Haiku 4.5,True,0.134522
+sympy__sympy-20801,Claude Haiku 4.5,True,0.5280520999999999
+sympy__sympy-20916,Claude Haiku 4.5,False,0.38287760000000004
+sympy__sympy-21379,Claude Haiku 4.5,False,0.30441765
+sympy__sympy-21596,Claude Haiku 4.5,False,0.3552181500000002
+sympy__sympy-21612,Claude Haiku 4.5,False,0.3316275500000001
+sympy__sympy-21847,Claude Haiku 4.5,True,0.25476414999999997
+sympy__sympy-21930,Claude Haiku 4.5,False,0.3201852
+sympy__sympy-22080,Claude Haiku 4.5,False,0.5489056999999998
+sympy__sympy-22456,Claude Haiku 4.5,True,0.35708460000000003
+sympy__sympy-22714,Claude Haiku 4.5,True,0.09552219999999999
+sympy__sympy-22914,Claude Haiku 4.5,True,0.21143785
+sympy__sympy-23262,Claude Haiku 4.5,True,0.3258465
+sympy__sympy-23413,Claude Haiku 4.5,True,0.9954700500000001
+sympy__sympy-23534,Claude Haiku 4.5,True,0.09997175000000001
+sympy__sympy-23824,Claude Haiku 4.5,True,0.11739955
+sympy__sympy-23950,Claude Haiku 4.5,True,0.20132319999999995
+sympy__sympy-24066,Claude Haiku 4.5,True,0.38834980000000013
+sympy__sympy-24213,Claude Haiku 4.5,True,0.13421805
+sympy__sympy-24443,Claude Haiku 4.5,True,0.30816869999999985
+sympy__sympy-24539,Claude Haiku 4.5,True,0.09257614999999998
+sympy__sympy-24562,Claude Haiku 4.5,True,0.1769337
+sympy__sympy-24661,Claude Haiku 4.5,True,0.1935753
+astropy__astropy-12907,MiniMax M2.5,True,0.056318888
+astropy__astropy-13033,MiniMax M2.5,False,0.086779312
+astropy__astropy-13236,MiniMax M2.5,False,0.04024097200000001
+astropy__astropy-13398,MiniMax M2.5,False,0.07978023
+astropy__astropy-13453,MiniMax M2.5,True,0.04581066
+astropy__astropy-13579,MiniMax M2.5,True,0.09216831000000003
+astropy__astropy-13977,MiniMax M2.5,False,0.07321542000000002
+astropy__astropy-14096,MiniMax M2.5,True,0.03324707999999999
+astropy__astropy-14182,MiniMax M2.5,True,0.16692836399999994
+astropy__astropy-14309,MiniMax M2.5,True,0.03744270000000001
+astropy__astropy-14365,MiniMax M2.5,True,0.048517822
+astropy__astropy-14369,MiniMax M2.5,False,0.08567775
+astropy__astropy-14508,MiniMax M2.5,True,0.045044009999999995
+astropy__astropy-14539,MiniMax M2.5,True,0.038565107999999994
+astropy__astropy-14598,MiniMax M2.5,False,0.10103601000000002
+astropy__astropy-14995,MiniMax M2.5,True,0.04716843
+astropy__astropy-7166,MiniMax M2.5,True,0.03243132
+astropy__astropy-7336,MiniMax M2.5,True,0.021085278
+astropy__astropy-7606,MiniMax M2.5,False,0.05208949200000001
+astropy__astropy-7671,MiniMax M2.5,True,0.046520648
+astropy__astropy-8707,MiniMax M2.5,False,0.07109427000000001
+astropy__astropy-8872,MiniMax M2.5,False,0.08682930000000004
+django__django-10097,MiniMax M2.5,False,0.11904828000000003
+django__django-10554,MiniMax M2.5,False,0.16516152000000003
+django__django-10880,MiniMax M2.5,True,0.04235560000000001
+django__django-10914,MiniMax M2.5,True,0.023375729999999997
+django__django-10973,MiniMax M2.5,True,0.045799889999999996
+django__django-10999,MiniMax M2.5,False,0.01933404
+django__django-11066,MiniMax M2.5,True,0.01357743
+django__django-11087,MiniMax M2.5,False,0.16016680800000008
+django__django-11095,MiniMax M2.5,True,0.024577680000000005
+django__django-11099,MiniMax M2.5,True,0.01355564
+django__django-11119,MiniMax M2.5,True,0.027487350000000004
+django__django-11133,MiniMax M2.5,True,0.036757748000000014
+django__django-11138,MiniMax M2.5,False,0.053797920000000006
+django__django-11141,MiniMax M2.5,False,0.03281154
+django__django-11149,MiniMax M2.5,True,0.07855731599999999
+django__django-11163,MiniMax M2.5,True,0.026307504
+django__django-11179,MiniMax M2.5,True,0.023629740000000003
+django__django-11206,MiniMax M2.5,True,0.04023638799999999
+django__django-11211,MiniMax M2.5,True,0.09037562199999999
+django__django-11239,MiniMax M2.5,True,0.02516398
+django__django-11265,MiniMax M2.5,False,0.06053931
+django__django-11276,MiniMax M2.5,True,0.03991824000000001
+django__django-11292,MiniMax M2.5,True,0.059485344
+django__django-11299,MiniMax M2.5,True,0.028832921999999997
+django__django-11333,MiniMax M2.5,True,0.027441660000000003
+django__django-11400,MiniMax M2.5,False,0.05064044999999999
+django__django-11433,MiniMax M2.5,False,0.15897760600000002
+django__django-11451,MiniMax M2.5,True,0.026137221999999998
+django__django-11477,MiniMax M2.5,False,0.042307792000000004
+django__django-11490,MiniMax M2.5,True,0.054639112
+django__django-11532,MiniMax M2.5,True,0.033229079999999994
+django__django-11551,MiniMax M2.5,True,0.032354351999999996
+django__django-11555,MiniMax M2.5,True,0.10139103
+django__django-11603,MiniMax M2.5,True,0.03228291599999999
+django__django-11728,MiniMax M2.5,False,0.041636219999999995
+django__django-11734,MiniMax M2.5,False,0.5976016800000002
+django__django-11740,MiniMax M2.5,True,0.04192583999999999
+django__django-11749,MiniMax M2.5,True,0.06768848200000001
+django__django-11790,MiniMax M2.5,False,0.04189919199999999
+django__django-11815,MiniMax M2.5,True,0.031315102
+django__django-11820,MiniMax M2.5,False,0.032268816
+django__django-11848,MiniMax M2.5,True,0.02717196
+django__django-11880,MiniMax M2.5,True,0.025183736000000005
+django__django-11885,MiniMax M2.5,False,0.160749136
+django__django-11951,MiniMax M2.5,True,0.040610912000000006
+django__django-11964,MiniMax M2.5,False,0.2312360100000001
+django__django-11999,MiniMax M2.5,True,0.04321614000000001
+django__django-12039,MiniMax M2.5,True,0.033590092
+django__django-12050,MiniMax M2.5,True,0.014236890000000002
+django__django-12125,MiniMax M2.5,True,0.07775154000000002
+django__django-12143,MiniMax M2.5,True,0.028636364
+django__django-12155,MiniMax M2.5,True,0.03010632
+django__django-12193,MiniMax M2.5,False,0.03487896000000001
+django__django-12209,MiniMax M2.5,True,0.06435651
+django__django-12262,MiniMax M2.5,True,0.045338013999999996
+django__django-12273,MiniMax M2.5,False,0.09191934
+django__django-12276,MiniMax M2.5,True,0.0230772
+django__django-12304,MiniMax M2.5,True,0.04247235
+django__django-12308,MiniMax M2.5,False,0.055236232
+django__django-12325,MiniMax M2.5,False,0.040425713999999995
+django__django-12406,MiniMax M2.5,False,0.08324069999999999
+django__django-12419,MiniMax M2.5,True,0.012079154000000002
+django__django-12663,MiniMax M2.5,True,0.17667740999999998
+django__django-12708,MiniMax M2.5,True,0.036015570000000004
+django__django-12713,MiniMax M2.5,True,0.021705480000000006
+django__django-12741,MiniMax M2.5,True,0.022459512000000004
+django__django-12754,MiniMax M2.5,True,0.08287251000000001
+django__django-12774,MiniMax M2.5,True,0.031009650000000007
+django__django-12858,MiniMax M2.5,True,0.030134970000000004
+django__django-12965,MiniMax M2.5,True,0.145832802
+django__django-13012,MiniMax M2.5,True,0.026198460000000007
+django__django-13023,MiniMax M2.5,True,0.015719010000000005
+django__django-13028,MiniMax M2.5,True,0.046689659999999994
+django__django-13033,MiniMax M2.5,True,0.03147695999999999
+django__django-13089,MiniMax M2.5,True,0.010611059999999999
+django__django-13109,MiniMax M2.5,True,0.037977918
+django__django-13112,MiniMax M2.5,True,0.09187956199999998
+django__django-13121,MiniMax M2.5,True,0.0772584
+django__django-13128,MiniMax M2.5,True,0.03554424
+django__django-13158,MiniMax M2.5,True,0.037217646
+django__django-13195,MiniMax M2.5,False,0.029329110000000002
+django__django-13212,MiniMax M2.5,False,0.07095478400000002
+django__django-13279,MiniMax M2.5,True,0.050751779999999996
+django__django-13297,MiniMax M2.5,True,0.07756998000000001
+django__django-13315,MiniMax M2.5,True,0.049480788000000005
+django__django-13343,MiniMax M2.5,True,0.03952881000000001
+django__django-13344,MiniMax M2.5,False,0.190723364
+django__django-13346,MiniMax M2.5,True,0.08520918
+django__django-13363,MiniMax M2.5,True,0.024030839999999998
+django__django-13401,MiniMax M2.5,True,0.026840910000000003
+django__django-13406,MiniMax M2.5,False,0.10721576999999997
+django__django-13410,MiniMax M2.5,True,0.01170921
+django__django-13417,MiniMax M2.5,True,0.03288972
+django__django-13449,MiniMax M2.5,True,0.09029943000000001
+django__django-13512,MiniMax M2.5,False,0.02842383
+django__django-13513,MiniMax M2.5,False,0.09964727599999999
+django__django-13516,MiniMax M2.5,True,0.019976720000000003
+django__django-13551,MiniMax M2.5,True,0.022635749999999993
+django__django-13568,MiniMax M2.5,True,0.037700311999999986
+django__django-13569,MiniMax M2.5,True,0.029968229999999995
+django__django-13590,MiniMax M2.5,True,0.019004459999999997
+django__django-13658,MiniMax M2.5,True,0.0342405
+django__django-13670,MiniMax M2.5,True,0.01195602
+django__django-13741,MiniMax M2.5,True,0.02765790000000001
+django__django-13786,MiniMax M2.5,True,0.030077876000000007
+django__django-13794,MiniMax M2.5,False,0.07282563000000002
+django__django-13807,MiniMax M2.5,True,0.03153831000000001
+django__django-13809,MiniMax M2.5,True,0.04383192
+django__django-13810,MiniMax M2.5,True,0.03799561800000001
+django__django-13820,MiniMax M2.5,True,0.03703295400000001
+django__django-13821,MiniMax M2.5,True,0.01846722
+django__django-13837,MiniMax M2.5,True,0.07425556200000001
+django__django-13925,MiniMax M2.5,False,0.0755521
+django__django-13933,MiniMax M2.5,True,0.049935678000000004
+django__django-13964,MiniMax M2.5,True,0.06689564999999999
+django__django-14007,MiniMax M2.5,True,0.05806461
+django__django-14011,MiniMax M2.5,False,0.06321565399999998
+django__django-14017,MiniMax M2.5,True,0.058945764
+django__django-14034,MiniMax M2.5,False,0.04740477
+django__django-14053,MiniMax M2.5,True,0.098747242
+django__django-14089,MiniMax M2.5,True,0.016529190000000003
+django__django-14122,MiniMax M2.5,True,0.05562245200000001
+django__django-14140,MiniMax M2.5,False,0.01298979
+django__django-14155,MiniMax M2.5,False,0.020419350000000003
+django__django-14170,MiniMax M2.5,False,0.036707759999999985
+django__django-14238,MiniMax M2.5,True,0.02656601
+django__django-14311,MiniMax M2.5,True,0.05460294000000001
+django__django-14315,MiniMax M2.5,False,0.0211455
+django__django-14349,MiniMax M2.5,True,0.043941492
+django__django-14351,MiniMax M2.5,True,0.2031114599999999
+django__django-14373,MiniMax M2.5,True,0.017210209999999997
+django__django-14376,MiniMax M2.5,True,0.021449802
+django__django-14404,MiniMax M2.5,False,0.010222440000000001
+django__django-14434,MiniMax M2.5,True,0.04467534000000001
+django__django-14493,MiniMax M2.5,True,0.014373189999999997
+django__django-14500,MiniMax M2.5,True,0.07098692199999998
+django__django-14534,MiniMax M2.5,True,0.05355368999999998
+django__django-14539,MiniMax M2.5,True,0.03887785400000001
+django__django-14559,MiniMax M2.5,True,0.05277696200000001
+django__django-14580,MiniMax M2.5,True,0.030436679999999994
+django__django-14608,MiniMax M2.5,True,0.04011466400000001
+django__django-14631,MiniMax M2.5,True,0.061878000000000016
+django__django-14672,MiniMax M2.5,True,0.02348403
+django__django-14725,MiniMax M2.5,True,0.08137646000000003
+django__django-14752,MiniMax M2.5,True,0.012201719999999997
+django__django-14765,MiniMax M2.5,True,0.019112892000000006
+django__django-14771,MiniMax M2.5,True,0.06188934
+django__django-14787,MiniMax M2.5,True,0.013358609999999998
+django__django-14792,MiniMax M2.5,False,0.04597098000000001
+django__django-14855,MiniMax M2.5,True,0.04492197
+django__django-14915,MiniMax M2.5,True,0.022382256
+django__django-14999,MiniMax M2.5,True,0.051395400000000015
+django__django-15022,MiniMax M2.5,True,0.11881793400000003
+django__django-15037,MiniMax M2.5,True,0.06055673999999999
+django__django-15098,MiniMax M2.5,False,0.17088843
+django__django-15103,MiniMax M2.5,True,0.026531174000000005
+django__django-15104,MiniMax M2.5,True,0.008234310000000002
+django__django-15127,MiniMax M2.5,True,0.11106563999999998
+django__django-15128,MiniMax M2.5,True,0.111540566
+django__django-15161,MiniMax M2.5,True,0.08380077600000002
+django__django-15252,MiniMax M2.5,False,0.21756835600000002
+django__django-15268,MiniMax M2.5,True,0.064628572
+django__django-15277,MiniMax M2.5,True,0.022790999999999992
+django__django-15278,MiniMax M2.5,True,0.033470944
+django__django-15280,MiniMax M2.5,True,0.147467768
+django__django-15315,MiniMax M2.5,True,0.022129764000000003
+django__django-15368,MiniMax M2.5,True,0.027762228
+django__django-15375,MiniMax M2.5,True,0.04524441
+django__django-15380,MiniMax M2.5,True,0.02466897
+django__django-15382,MiniMax M2.5,True,0.3949560900000001
+django__django-15467,MiniMax M2.5,True,0.05205609199999998
+django__django-15499,MiniMax M2.5,True,0.027311969999999998
+django__django-15503,MiniMax M2.5,True,0.32177431199999995
+django__django-15525,MiniMax M2.5,True,0.07995215999999997
+django__django-15554,MiniMax M2.5,True,0.15823140600000002
+django__django-15561,MiniMax M2.5,True,0.022464630000000003
+django__django-15563,MiniMax M2.5,False,0.130693944
+django__django-15569,MiniMax M2.5,True,0.02954427
+django__django-15572,MiniMax M2.5,True,0.0124935
+django__django-15629,MiniMax M2.5,False,0.064357146
+django__django-15695,MiniMax M2.5,True,0.04886571799999999
+django__django-15731,MiniMax M2.5,True,0.015290722
+django__django-15732,MiniMax M2.5,False,0.03567177599999999
+django__django-15741,MiniMax M2.5,True,0.07780553999999999
+django__django-15814,MiniMax M2.5,True,0.032590972
+django__django-15851,MiniMax M2.5,True,0.045464052000000005
+django__django-15863,MiniMax M2.5,True,0.019182690000000002
+django__django-15916,MiniMax M2.5,True,0.10914367399999998
+django__django-15930,MiniMax M2.5,True,0.031509930000000005
+django__django-15957,MiniMax M2.5,True,0.151759714
+django__django-15973,MiniMax M2.5,False,0.07537581000000002
+django__django-15987,MiniMax M2.5,True,0.04655863000000002
+django__django-16032,MiniMax M2.5,True,0.24835840199999984
+django__django-16082,MiniMax M2.5,True,0.021253829999999998
+django__django-16100,MiniMax M2.5,True,0.025119672000000003
+django__django-16116,MiniMax M2.5,True,0.033020100000000004
+django__django-16136,MiniMax M2.5,True,0.037185064000000004
+django__django-16139,MiniMax M2.5,True,0.013034682000000002
+django__django-16145,MiniMax M2.5,True,0.03479745000000001
+django__django-16255,MiniMax M2.5,True,0.016173422
+django__django-16256,MiniMax M2.5,False,0.04690862999999999
+django__django-16263,MiniMax M2.5,False,0.2237321999999999
+django__django-16315,MiniMax M2.5,True,0.04823349200000001
+django__django-16333,MiniMax M2.5,True,0.029697524
+django__django-16429,MiniMax M2.5,True,0.037352656
+django__django-16454,MiniMax M2.5,True,0.09157532999999997
+django__django-16485,MiniMax M2.5,True,0.019026360000000003
+django__django-16493,MiniMax M2.5,True,0.03185673
+django__django-16502,MiniMax M2.5,False,0.071613386
+django__django-16527,MiniMax M2.5,True,0.023983984000000003
+django__django-16560,MiniMax M2.5,True,0.08370577
+django__django-16569,MiniMax M2.5,True,0.01279023
+django__django-16595,MiniMax M2.5,True,0.025036330000000002
+django__django-16612,MiniMax M2.5,True,0.027752517999999997
+django__django-16631,MiniMax M2.5,False,0.08360742
+django__django-16642,MiniMax M2.5,True,0.021754770000000003
+django__django-16661,MiniMax M2.5,True,0.04771397
+django__django-16662,MiniMax M2.5,True,0.02792613
+django__django-16667,MiniMax M2.5,False,0.019581269999999998
+django__django-16801,MiniMax M2.5,True,0.035814036
+django__django-16819,MiniMax M2.5,True,0.15943709999999997
+django__django-16877,MiniMax M2.5,True,0.025565138
+django__django-16899,MiniMax M2.5,True,0.02261421
+django__django-16901,MiniMax M2.5,True,0.04669574999999999
+django__django-16938,MiniMax M2.5,True,0.042063450000000016
+django__django-16950,MiniMax M2.5,True,0.150794062
+django__django-17029,MiniMax M2.5,True,0.014276100000000002
+django__django-17084,MiniMax M2.5,True,0.083903002
+django__django-17087,MiniMax M2.5,True,0.024081629999999996
+django__django-7530,MiniMax M2.5,True,0.017670659999999998
+django__django-9296,MiniMax M2.5,True,0.0095559
+matplotlib__matplotlib-13989,MiniMax M2.5,True,0.06430868399999999
+matplotlib__matplotlib-14623,MiniMax M2.5,True,0.3444049279999999
+matplotlib__matplotlib-20488,MiniMax M2.5,True,0.25427256000000004
+matplotlib__matplotlib-20676,MiniMax M2.5,False,0.065107594
+matplotlib__matplotlib-20826,MiniMax M2.5,True,0.235913274
+matplotlib__matplotlib-20859,MiniMax M2.5,True,0.02363145
+matplotlib__matplotlib-21568,MiniMax M2.5,False,0.105417972
+matplotlib__matplotlib-22719,MiniMax M2.5,True,0.027999138
+matplotlib__matplotlib-22865,MiniMax M2.5,True,0.13963484000000007
+matplotlib__matplotlib-22871,MiniMax M2.5,False,0.067060108
+matplotlib__matplotlib-23299,MiniMax M2.5,False,0.06816845999999997
+matplotlib__matplotlib-23314,MiniMax M2.5,True,0.03413269399999999
+matplotlib__matplotlib-23412,MiniMax M2.5,True,0.07679215800000001
+matplotlib__matplotlib-23476,MiniMax M2.5,False,0.15896607
+matplotlib__matplotlib-24026,MiniMax M2.5,True,0.10065410799999998
+matplotlib__matplotlib-24149,MiniMax M2.5,True,0.031114978
+matplotlib__matplotlib-24177,MiniMax M2.5,False,0.07763559
+matplotlib__matplotlib-24570,MiniMax M2.5,True,0.041888628000000004
+matplotlib__matplotlib-24627,MiniMax M2.5,True,0.13472896400000003
+matplotlib__matplotlib-24637,MiniMax M2.5,True,0.05590005000000001
+matplotlib__matplotlib-24870,MiniMax M2.5,False,0.073374278
+matplotlib__matplotlib-24970,MiniMax M2.5,True,0.031146990000000006
+matplotlib__matplotlib-25122,MiniMax M2.5,True,0.035148495999999994
+matplotlib__matplotlib-25287,MiniMax M2.5,True,0.04100592
+matplotlib__matplotlib-25311,MiniMax M2.5,True,0.14089716
+matplotlib__matplotlib-25332,MiniMax M2.5,True,0.05895735
+matplotlib__matplotlib-25479,MiniMax M2.5,False,0.08303430400000002
+matplotlib__matplotlib-25775,MiniMax M2.5,True,0.14700444
+matplotlib__matplotlib-25960,MiniMax M2.5,True,0.06035975999999999
+matplotlib__matplotlib-26113,MiniMax M2.5,True,0.07279138000000002
+matplotlib__matplotlib-26208,MiniMax M2.5,False,0.3168593099999999
+matplotlib__matplotlib-26291,MiniMax M2.5,True,0.066177262
+matplotlib__matplotlib-26342,MiniMax M2.5,True,0.041850269999999995
+matplotlib__matplotlib-26466,MiniMax M2.5,False,0.07447415999999998
+mwaskom__seaborn-3069,MiniMax M2.5,True,0.20305215
+mwaskom__seaborn-3187,MiniMax M2.5,True,0.054226619999999996
+pallets__flask-5014,MiniMax M2.5,True,0.028183954
+psf__requests-1142,MiniMax M2.5,True,0.043506218
+psf__requests-1724,MiniMax M2.5,True,0.02968947
+psf__requests-1766,MiniMax M2.5,True,0.01133622
+psf__requests-1921,MiniMax M2.5,True,0.0144804
+psf__requests-2317,MiniMax M2.5,True,0.023286814000000003
+psf__requests-2931,MiniMax M2.5,False,0.03534018
+psf__requests-5414,MiniMax M2.5,False,0.020969790000000002
+psf__requests-6028,MiniMax M2.5,False,0.08075361800000001
+pydata__xarray-2905,MiniMax M2.5,True,0.11976515000000007
+pydata__xarray-3095,MiniMax M2.5,True,0.05930648799999999
+pydata__xarray-3151,MiniMax M2.5,True,0.023900309999999994
+pydata__xarray-3305,MiniMax M2.5,True,0.08301768000000002
+pydata__xarray-3677,MiniMax M2.5,True,0.042905641999999994
+pydata__xarray-3993,MiniMax M2.5,True,0.036385860000000006
+pydata__xarray-4075,MiniMax M2.5,True,0.03076859999999999
+pydata__xarray-4094,MiniMax M2.5,True,0.04702928600000002
+pydata__xarray-4356,MiniMax M2.5,True,0.08711666800000001
+pydata__xarray-4629,MiniMax M2.5,True,0.020149395999999997
+pydata__xarray-4687,MiniMax M2.5,False,0.22203108
+pydata__xarray-4695,MiniMax M2.5,True,0.03221307
+pydata__xarray-4966,MiniMax M2.5,True,0.05163189
+pydata__xarray-6461,MiniMax M2.5,True,0.04232462
+pydata__xarray-6599,MiniMax M2.5,True,0.22447055200000005
+pydata__xarray-6721,MiniMax M2.5,True,0.13961397
+pydata__xarray-6744,MiniMax M2.5,True,0.04897506000000001
+pydata__xarray-6938,MiniMax M2.5,True,0.15001998200000002
+pydata__xarray-6992,MiniMax M2.5,False,0.04997283
+pydata__xarray-7229,MiniMax M2.5,False,0.08963687999999995
+pydata__xarray-7233,MiniMax M2.5,True,0.027261854
+pydata__xarray-7393,MiniMax M2.5,True,0.11863128999999997
+pylint-dev__pylint-4551,MiniMax M2.5,False,0.06298841999999999
+pylint-dev__pylint-4604,MiniMax M2.5,False,0.06378697800000002
+pylint-dev__pylint-4661,MiniMax M2.5,False,0.07738586599999996
+pylint-dev__pylint-4970,MiniMax M2.5,False,0.102026976
+pylint-dev__pylint-6386,MiniMax M2.5,False,0.14411896400000007
+pylint-dev__pylint-6528,MiniMax M2.5,False,0.68647426
+pylint-dev__pylint-6903,MiniMax M2.5,True,0.03535647000000001
+pylint-dev__pylint-7080,MiniMax M2.5,True,0.24631067399999987
+pylint-dev__pylint-7277,MiniMax M2.5,False,0.032168562
+pylint-dev__pylint-8898,MiniMax M2.5,False,0.07396264199999998
+pytest-dev__pytest-10051,MiniMax M2.5,True,0.04075096000000001
+pytest-dev__pytest-10081,MiniMax M2.5,True,0.07014463
+pytest-dev__pytest-10356,MiniMax M2.5,True,0.11570498999999998
+pytest-dev__pytest-5262,MiniMax M2.5,True,0.030717240000000007
+pytest-dev__pytest-5631,MiniMax M2.5,True,0.02707866
+pytest-dev__pytest-5787,MiniMax M2.5,False,0.158392802
+pytest-dev__pytest-5809,MiniMax M2.5,True,0.005232629999999999
+pytest-dev__pytest-5840,MiniMax M2.5,False,0.08699562000000002
+pytest-dev__pytest-6197,MiniMax M2.5,False,0.5710504359999998
+pytest-dev__pytest-6202,MiniMax M2.5,True,0.032934472
+pytest-dev__pytest-7205,MiniMax M2.5,True,0.025236608
+pytest-dev__pytest-7236,MiniMax M2.5,True,0.05214803200000001
+pytest-dev__pytest-7324,MiniMax M2.5,False,0.04414715599999999
+pytest-dev__pytest-7432,MiniMax M2.5,False,0.05310161999999999
+pytest-dev__pytest-7490,MiniMax M2.5,False,0.08831518800000002
+pytest-dev__pytest-7521,MiniMax M2.5,True,0.04315854800000001
+pytest-dev__pytest-7571,MiniMax M2.5,True,0.023377799999999997
+pytest-dev__pytest-7982,MiniMax M2.5,True,0.028865736000000003
+pytest-dev__pytest-8399,MiniMax M2.5,True,0.05539178200000001
+scikit-learn__scikit-learn-10297,MiniMax M2.5,True,0.026071590000000006
+scikit-learn__scikit-learn-10844,MiniMax M2.5,True,0.02484129
+scikit-learn__scikit-learn-10908,MiniMax M2.5,True,0.09903902999999999
+scikit-learn__scikit-learn-11310,MiniMax M2.5,True,0.07924167
+scikit-learn__scikit-learn-11578,MiniMax M2.5,True,0.04901949
+scikit-learn__scikit-learn-12585,MiniMax M2.5,True,0.018426869999999995
+scikit-learn__scikit-learn-12682,MiniMax M2.5,True,0.07739648999999998
+scikit-learn__scikit-learn-12973,MiniMax M2.5,True,0.02458188
+scikit-learn__scikit-learn-13124,MiniMax M2.5,True,0.08510730000000002
+scikit-learn__scikit-learn-13135,MiniMax M2.5,True,0.025722449999999997
+scikit-learn__scikit-learn-13142,MiniMax M2.5,True,0.09957020999999999
+scikit-learn__scikit-learn-13328,MiniMax M2.5,False,0.06207434200000001
+scikit-learn__scikit-learn-13439,MiniMax M2.5,True,0.06554379
+scikit-learn__scikit-learn-13496,MiniMax M2.5,True,0.043994759999999994
+scikit-learn__scikit-learn-13779,MiniMax M2.5,True,0.04683531000000001
+scikit-learn__scikit-learn-14053,MiniMax M2.5,True,0.084902942
+scikit-learn__scikit-learn-14087,MiniMax M2.5,False,0.05182397600000002
+scikit-learn__scikit-learn-14141,MiniMax M2.5,True,0.014851078
+scikit-learn__scikit-learn-14496,MiniMax M2.5,True,0.092155428
+scikit-learn__scikit-learn-14629,MiniMax M2.5,True,0.12178415599999998
+scikit-learn__scikit-learn-14710,MiniMax M2.5,True,0.063746184
+scikit-learn__scikit-learn-14894,MiniMax M2.5,True,0.02929809
+scikit-learn__scikit-learn-14983,MiniMax M2.5,True,0.06151257000000001
+scikit-learn__scikit-learn-15100,MiniMax M2.5,False,0.30115412999999996
+scikit-learn__scikit-learn-25102,MiniMax M2.5,False,0.4049801699999999
+scikit-learn__scikit-learn-25232,MiniMax M2.5,True,0.09006158000000003
+scikit-learn__scikit-learn-25747,MiniMax M2.5,True,0.1627737260000001
+scikit-learn__scikit-learn-25931,MiniMax M2.5,True,0.08188725
+scikit-learn__scikit-learn-25973,MiniMax M2.5,True,0.13732499999999995
+scikit-learn__scikit-learn-26194,MiniMax M2.5,False,0.04937937
+scikit-learn__scikit-learn-26323,MiniMax M2.5,True,0.083896642
+scikit-learn__scikit-learn-9288,MiniMax M2.5,True,0.087067308
+sphinx-doc__sphinx-10323,MiniMax M2.5,True,0.05131321200000001
+sphinx-doc__sphinx-10435,MiniMax M2.5,False,0.039708900000000005
+sphinx-doc__sphinx-10449,MiniMax M2.5,True,0.06005648999999999
+sphinx-doc__sphinx-10466,MiniMax M2.5,True,0.034774992000000005
+sphinx-doc__sphinx-10614,MiniMax M2.5,False,0.12964116399999998
+sphinx-doc__sphinx-10673,MiniMax M2.5,False,0.0688059
+sphinx-doc__sphinx-11445,MiniMax M2.5,True,0.07448639999999997
+sphinx-doc__sphinx-11510,MiniMax M2.5,False,0.25507436199999994
+sphinx-doc__sphinx-7440,MiniMax M2.5,True,0.10083962600000002
+sphinx-doc__sphinx-7454,MiniMax M2.5,True,0.07333297400000001
+sphinx-doc__sphinx-7462,MiniMax M2.5,False,0.051152502
+sphinx-doc__sphinx-7590,MiniMax M2.5,False,0.09390929400000003
+sphinx-doc__sphinx-7748,MiniMax M2.5,False,0.17197189599999999
+sphinx-doc__sphinx-7757,MiniMax M2.5,True,0.06499687800000002
+sphinx-doc__sphinx-7889,MiniMax M2.5,True,0.017241222
+sphinx-doc__sphinx-7910,MiniMax M2.5,True,0.034953978
+sphinx-doc__sphinx-7985,MiniMax M2.5,True,0.11689179000000001
+sphinx-doc__sphinx-8035,MiniMax M2.5,True,0.06851756200000002
+sphinx-doc__sphinx-8056,MiniMax M2.5,True,0.17831474400000003
+sphinx-doc__sphinx-8120,MiniMax M2.5,True,0.0600786
+sphinx-doc__sphinx-8265,MiniMax M2.5,True,0.07611599999999999
+sphinx-doc__sphinx-8269,MiniMax M2.5,True,0.06525546
+sphinx-doc__sphinx-8459,MiniMax M2.5,True,0.06195650999999999
+sphinx-doc__sphinx-8475,MiniMax M2.5,True,0.028804143999999997
+sphinx-doc__sphinx-8548,MiniMax M2.5,False,0.49252969599999985
+sphinx-doc__sphinx-8551,MiniMax M2.5,True,0.052367226
+sphinx-doc__sphinx-8593,MiniMax M2.5,True,0.07062320999999999
+sphinx-doc__sphinx-8595,MiniMax M2.5,True,0.03320946
+sphinx-doc__sphinx-8621,MiniMax M2.5,True,0.06439074
+sphinx-doc__sphinx-8638,MiniMax M2.5,True,0.13396854000000002
+sphinx-doc__sphinx-8721,MiniMax M2.5,True,0.08059944000000001
+sphinx-doc__sphinx-9229,MiniMax M2.5,False,0.32218423399999996
+sphinx-doc__sphinx-9230,MiniMax M2.5,True,0.13995041799999997
+sphinx-doc__sphinx-9258,MiniMax M2.5,True,0.265585002
+sphinx-doc__sphinx-9281,MiniMax M2.5,True,0.03691209
+sphinx-doc__sphinx-9320,MiniMax M2.5,True,0.021399989999999997
+sphinx-doc__sphinx-9367,MiniMax M2.5,True,0.033381235999999995
+sphinx-doc__sphinx-9461,MiniMax M2.5,False,0.28000368000000003
+sphinx-doc__sphinx-9591,MiniMax M2.5,True,0.063680594
+sphinx-doc__sphinx-9602,MiniMax M2.5,False,0.09438321000000002
+sphinx-doc__sphinx-9658,MiniMax M2.5,True,0.07593914200000002
+sphinx-doc__sphinx-9673,MiniMax M2.5,True,0.06538583999999997
+sphinx-doc__sphinx-9698,MiniMax M2.5,True,0.02284035
+sphinx-doc__sphinx-9711,MiniMax M2.5,True,0.021218575999999996
+sympy__sympy-11618,MiniMax M2.5,True,0.05417573799999997
+sympy__sympy-12096,MiniMax M2.5,True,0.05563453200000001
+sympy__sympy-12419,MiniMax M2.5,True,0.08804964
+sympy__sympy-12481,MiniMax M2.5,True,0.056252130000000025
+sympy__sympy-12489,MiniMax M2.5,False,0.143957488
+sympy__sympy-13031,MiniMax M2.5,False,0.28501821000000005
+sympy__sympy-13091,MiniMax M2.5,True,0.12869226000000003
+sympy__sympy-13372,MiniMax M2.5,True,0.03596963999999999
+sympy__sympy-13480,MiniMax M2.5,True,0.006257849999999999
+sympy__sympy-13551,MiniMax M2.5,True,0.06410528800000001
+sympy__sympy-13615,MiniMax M2.5,True,0.07209330000000001
+sympy__sympy-13647,MiniMax M2.5,True,0.057835126000000014
+sympy__sympy-13757,MiniMax M2.5,True,0.04386726000000001
+sympy__sympy-13798,MiniMax M2.5,False,0.02978253
+sympy__sympy-13852,MiniMax M2.5,True,0.06664269
+sympy__sympy-13877,MiniMax M2.5,True,0.347493216
+sympy__sympy-13878,MiniMax M2.5,True,0.3078755399999998
+sympy__sympy-13974,MiniMax M2.5,False,0.07911140999999998
+sympy__sympy-14248,MiniMax M2.5,True,0.2144850599999999
+sympy__sympy-14531,MiniMax M2.5,True,0.05157909
+sympy__sympy-14711,MiniMax M2.5,True,0.028400760000000014
+sympy__sympy-14976,MiniMax M2.5,True,0.067210798
+sympy__sympy-15017,MiniMax M2.5,True,0.02646567
+sympy__sympy-15345,MiniMax M2.5,True,0.04532878
+sympy__sympy-15349,MiniMax M2.5,True,0.01959671
+sympy__sympy-15599,MiniMax M2.5,True,0.11948081399999994
+sympy__sympy-15809,MiniMax M2.5,True,0.01943511
+sympy__sympy-15875,MiniMax M2.5,True,0.086554664
+sympy__sympy-15976,MiniMax M2.5,True,0.04961001
+sympy__sympy-16450,MiniMax M2.5,True,0.022180349999999995
+sympy__sympy-16597,MiniMax M2.5,False,0.06334239000000001
+sympy__sympy-16766,MiniMax M2.5,True,0.027629916
+sympy__sympy-16792,MiniMax M2.5,True,0.06033343000000001
+sympy__sympy-16886,MiniMax M2.5,True,0.015161248
+sympy__sympy-17139,MiniMax M2.5,True,0.024587789999999998
+sympy__sympy-17318,MiniMax M2.5,False,0.049918554000000004
+sympy__sympy-17630,MiniMax M2.5,False,0.045118003999999996
+sympy__sympy-17655,MiniMax M2.5,True,0.03597519
+sympy__sympy-18189,MiniMax M2.5,True,0.028244544000000003
+sympy__sympy-18199,MiniMax M2.5,False,0.026334359999999998
+sympy__sympy-18211,MiniMax M2.5,False,0.131841408
+sympy__sympy-18698,MiniMax M2.5,True,0.09061276399999998
+sympy__sympy-18763,MiniMax M2.5,False,0.03218748
+sympy__sympy-19040,MiniMax M2.5,True,0.2166084000000001
+sympy__sympy-19346,MiniMax M2.5,True,0.032725800000000006
+sympy__sympy-19495,MiniMax M2.5,True,0.14350052200000005
+sympy__sympy-19637,MiniMax M2.5,True,0.01823547
+sympy__sympy-19783,MiniMax M2.5,True,0.08472148399999996
+sympy__sympy-19954,MiniMax M2.5,True,0.020335176000000003
+sympy__sympy-20154,MiniMax M2.5,True,0.026149466
+sympy__sympy-20428,MiniMax M2.5,False,0.07591496200000003
+sympy__sympy-20438,MiniMax M2.5,False,0.09293930199999999
+sympy__sympy-20590,MiniMax M2.5,True,0.07180254
+sympy__sympy-20801,MiniMax M2.5,True,0.04859406199999999
+sympy__sympy-20916,MiniMax M2.5,True,0.06467650600000001
+sympy__sympy-21379,MiniMax M2.5,False,0.09517319599999995
+sympy__sympy-21596,MiniMax M2.5,False,0.07770657000000002
+sympy__sympy-21612,MiniMax M2.5,False,0.09927305199999999
+sympy__sympy-21847,MiniMax M2.5,True,0.03502545
+sympy__sympy-21930,MiniMax M2.5,False,0.06722469000000002
+sympy__sympy-22080,MiniMax M2.5,False,0.11708046000000003
+sympy__sympy-22456,MiniMax M2.5,False,0.5724170539999999
+sympy__sympy-22714,MiniMax M2.5,True,0.01642455
+sympy__sympy-22914,MiniMax M2.5,True,0.022943250000000002
+sympy__sympy-23262,MiniMax M2.5,True,0.025866622000000002
+sympy__sympy-23413,MiniMax M2.5,True,0.27320922
+sympy__sympy-23534,MiniMax M2.5,True,0.028775549999999997
+sympy__sympy-23824,MiniMax M2.5,True,0.019183289999999995
+sympy__sympy-23950,MiniMax M2.5,True,0.019605120000000004
+sympy__sympy-24066,MiniMax M2.5,True,0.06345861
+sympy__sympy-24213,MiniMax M2.5,True,0.040515776
+sympy__sympy-24443,MiniMax M2.5,True,0.04588692
+sympy__sympy-24539,MiniMax M2.5,True,0.020955220000000004
+sympy__sympy-24562,MiniMax M2.5,True,0.027205993999999997
+sympy__sympy-24661,MiniMax M2.5,True,0.023849067999999994
+astropy__astropy-12907,GPT-5 mini,True,0.01566165
+astropy__astropy-13033,GPT-5 mini,False,0.02035195
+astropy__astropy-13236,GPT-5 mini,False,0.01751095
+astropy__astropy-13398,GPT-5 mini,False,0.08875214999999997
+astropy__astropy-13453,GPT-5 mini,False,0.08571575
+astropy__astropy-13579,GPT-5 mini,True,0.05336889999999999
+astropy__astropy-13977,GPT-5 mini,False,0.02756415
+astropy__astropy-14096,GPT-5 mini,False,0.0354608
+astropy__astropy-14182,GPT-5 mini,False,0.012852399999999998
+astropy__astropy-14309,GPT-5 mini,True,0.0177798
+astropy__astropy-14365,GPT-5 mini,False,0.02124425
+astropy__astropy-14369,GPT-5 mini,False,0.03032975
+astropy__astropy-14508,GPT-5 mini,True,0.0452125
+astropy__astropy-14539,GPT-5 mini,False,0.08448165
+astropy__astropy-14598,GPT-5 mini,False,0.12194364999999999
+astropy__astropy-14995,GPT-5 mini,True,0.05303454999999999
+astropy__astropy-7166,GPT-5 mini,False,0.056266449999999996
+astropy__astropy-7336,GPT-5 mini,True,0.01870075
+astropy__astropy-7606,GPT-5 mini,False,0.0106213
+astropy__astropy-7671,GPT-5 mini,True,0.020889099999999997
+astropy__astropy-8707,GPT-5 mini,False,0.0689711
+astropy__astropy-8872,GPT-5 mini,False,0.03459135
+django__django-10097,GPT-5 mini,False,0.021960699999999996
+django__django-10554,GPT-5 mini,False,0.15917284999999998
+django__django-10880,GPT-5 mini,True,0.0348083
+django__django-10914,GPT-5 mini,True,0.04141635
+django__django-10973,GPT-5 mini,False,0.025517800000000004
+django__django-10999,GPT-5 mini,False,0.03208845
+django__django-11066,GPT-5 mini,True,0.009766649999999998
+django__django-11087,GPT-5 mini,False,0.02137695
+django__django-11095,GPT-5 mini,True,0.01804805
+django__django-11099,GPT-5 mini,True,0.0142753
+django__django-11119,GPT-5 mini,True,0.030646499999999997
+django__django-11133,GPT-5 mini,True,0.05199945
+django__django-11138,GPT-5 mini,False,0.13890445
+django__django-11141,GPT-5 mini,False,0.01835405
+django__django-11149,GPT-5 mini,True,0.04962725
+django__django-11163,GPT-5 mini,True,0.0187253
+django__django-11179,GPT-5 mini,True,0.025594199999999998
+django__django-11206,GPT-5 mini,True,0.022366749999999998
+django__django-11211,GPT-5 mini,True,0.07896685
+django__django-11239,GPT-5 mini,True,0.0205445
+django__django-11265,GPT-5 mini,False,0.043334
+django__django-11276,GPT-5 mini,True,0.016549549999999996
+django__django-11292,GPT-5 mini,True,0.024693799999999995
+django__django-11299,GPT-5 mini,True,0.09106035000000001
+django__django-11333,GPT-5 mini,True,0.061211100000000004
+django__django-11400,GPT-5 mini,False,0.05424705
+django__django-11433,GPT-5 mini,False,0.04602505
+django__django-11451,GPT-5 mini,True,0.007845349999999997
+django__django-11477,GPT-5 mini,False,0.0940443
+django__django-11490,GPT-5 mini,True,0.04480095
+django__django-11532,GPT-5 mini,False,0.024878
+django__django-11551,GPT-5 mini,True,0.0122043
+django__django-11555,GPT-5 mini,False,0.08481395
+django__django-11603,GPT-5 mini,True,0.0114092
+django__django-11728,GPT-5 mini,False,0.02909415
+django__django-11734,GPT-5 mini,False,0.06377425
+django__django-11740,GPT-5 mini,True,0.0355227
+django__django-11749,GPT-5 mini,True,0.02821535
+django__django-11790,GPT-5 mini,False,0.031773249999999996
+django__django-11815,GPT-5 mini,True,0.015397599999999997
+django__django-11820,GPT-5 mini,False,0.05500625
+django__django-11848,GPT-5 mini,True,0.017896699999999998
+django__django-11880,GPT-5 mini,True,0.03116745
+django__django-11885,GPT-5 mini,False,0.06727725000000001
+django__django-11951,GPT-5 mini,True,0.024403150000000002
+django__django-11964,GPT-5 mini,True,0.09067509999999998
+django__django-11999,GPT-5 mini,True,0.0293206
+django__django-12039,GPT-5 mini,True,0.02780875
+django__django-12050,GPT-5 mini,True,0.0217447
+django__django-12125,GPT-5 mini,False,0.0503494
+django__django-12143,GPT-5 mini,True,0.015011899999999998
+django__django-12155,GPT-5 mini,True,0.043815549999999995
+django__django-12193,GPT-5 mini,True,0.03253215
+django__django-12209,GPT-5 mini,True,0.044025449999999994
+django__django-12262,GPT-5 mini,True,0.054343050000000004
+django__django-12273,GPT-5 mini,False,0.0547475
+django__django-12276,GPT-5 mini,True,0.03835804999999999
+django__django-12304,GPT-5 mini,True,0.0106723
+django__django-12308,GPT-5 mini,True,0.037435100000000006
+django__django-12325,GPT-5 mini,False,0.0424425
+django__django-12406,GPT-5 mini,False,0.08959795
+django__django-12419,GPT-5 mini,True,0.020527049999999998
+django__django-12663,GPT-5 mini,False,0.041065899999999995
+django__django-12708,GPT-5 mini,True,0.02888295
+django__django-12713,GPT-5 mini,True,0.02388505
+django__django-12741,GPT-5 mini,True,0.03152815
+django__django-12754,GPT-5 mini,True,0.0692947
+django__django-12774,GPT-5 mini,True,0.08106244999999998
+django__django-12858,GPT-5 mini,True,0.0560908
+django__django-12965,GPT-5 mini,False,0.07753725
+django__django-13012,GPT-5 mini,True,0.043023099999999995
+django__django-13023,GPT-5 mini,False,0.0252154
+django__django-13028,GPT-5 mini,True,0.038343249999999995
+django__django-13033,GPT-5 mini,True,0.08594659999999998
+django__django-13089,GPT-5 mini,True,0.0133327
+django__django-13109,GPT-5 mini,True,0.026961199999999994
+django__django-13112,GPT-5 mini,False,0.0565918
+django__django-13121,GPT-5 mini,False,0.14239064999999998
+django__django-13128,GPT-5 mini,True,0.04976705
+django__django-13158,GPT-5 mini,False,0.07814099999999999
+django__django-13195,GPT-5 mini,False,0.03134335
+django__django-13212,GPT-5 mini,False,0.057169099999999994
+django__django-13279,GPT-5 mini,True,0.036540300000000005
+django__django-13297,GPT-5 mini,True,0.03519045
+django__django-13315,GPT-5 mini,False,0.054161799999999996
+django__django-13343,GPT-5 mini,False,0.030292299999999998
+django__django-13344,GPT-5 mini,False,0.07318134999999999
+django__django-13346,GPT-5 mini,False,0.05917035000000001
+django__django-13363,GPT-5 mini,True,0.0104621
+django__django-13401,GPT-5 mini,True,0.0394527
+django__django-13406,GPT-5 mini,False,0.09900545
+django__django-13410,GPT-5 mini,True,0.0111925
+django__django-13417,GPT-5 mini,True,0.0703436
+django__django-13449,GPT-5 mini,False,0.07893785
+django__django-13512,GPT-5 mini,True,0.07339794999999999
+django__django-13513,GPT-5 mini,False,0.03643345
+django__django-13516,GPT-5 mini,True,0.03375355
+django__django-13551,GPT-5 mini,False,0.01347665
+django__django-13568,GPT-5 mini,True,0.04844435
+django__django-13569,GPT-5 mini,True,0.07748644999999998
+django__django-13590,GPT-5 mini,True,0.022162799999999996
+django__django-13658,GPT-5 mini,True,0.02543825
+django__django-13670,GPT-5 mini,True,0.021337099999999998
+django__django-13741,GPT-5 mini,True,0.027885899999999998
+django__django-13786,GPT-5 mini,True,0.03508125
+django__django-13794,GPT-5 mini,False,0.03355075
+django__django-13807,GPT-5 mini,True,0.04322525
+django__django-13809,GPT-5 mini,True,0.03758149999999999
+django__django-13810,GPT-5 mini,True,0.0244663
+django__django-13820,GPT-5 mini,True,0.01575855
+django__django-13821,GPT-5 mini,True,0.028058049999999994
+django__django-13837,GPT-5 mini,True,0.0187086
+django__django-13925,GPT-5 mini,True,0.04391875
+django__django-13933,GPT-5 mini,True,0.0473792
+django__django-13964,GPT-5 mini,False,0.07103509999999999
+django__django-14007,GPT-5 mini,False,0.04629325
+django__django-14011,GPT-5 mini,False,0.04887179999999999
+django__django-14017,GPT-5 mini,False,0.06482614999999999
+django__django-14034,GPT-5 mini,False,0.04395694999999999
+django__django-14053,GPT-5 mini,False,0.07975919999999999
+django__django-14089,GPT-5 mini,True,0.019044899999999997
+django__django-14122,GPT-5 mini,True,0.07083974999999999
+django__django-14140,GPT-5 mini,False,0.030880099999999997
+django__django-14155,GPT-5 mini,False,0.017644849999999997
+django__django-14170,GPT-5 mini,False,0.0348568
+django__django-14238,GPT-5 mini,True,0.02399465
+django__django-14311,GPT-5 mini,True,0.07296949999999999
+django__django-14315,GPT-5 mini,False,0.02519515
+django__django-14349,GPT-5 mini,False,0.05942905
+django__django-14351,GPT-5 mini,False,0.09929650000000001
+django__django-14373,GPT-5 mini,True,0.0199367
+django__django-14376,GPT-5 mini,False,0.020055149999999997
+django__django-14404,GPT-5 mini,True,0.020423849999999997
+django__django-14434,GPT-5 mini,True,0.0333985
+django__django-14493,GPT-5 mini,True,0.016877249999999996
+django__django-14500,GPT-5 mini,False,0.06352945
+django__django-14534,GPT-5 mini,False,0.04192449999999999
+django__django-14539,GPT-5 mini,True,0.022322349999999998
+django__django-14559,GPT-5 mini,True,0.029431899999999997
+django__django-14580,GPT-5 mini,True,0.023588500000000002
+django__django-14608,GPT-5 mini,True,0.05631465000000001
+django__django-14631,GPT-5 mini,False,0.055089250000000006
+django__django-14672,GPT-5 mini,True,0.0188792
+django__django-14725,GPT-5 mini,False,0.09007855
+django__django-14752,GPT-5 mini,True,0.01650645
+django__django-14765,GPT-5 mini,True,0.01235275
+django__django-14771,GPT-5 mini,False,0.0286334
+django__django-14787,GPT-5 mini,False,0.01602875
+django__django-14792,GPT-5 mini,False,0.0402062
+django__django-14855,GPT-5 mini,True,0.0359842
+django__django-14915,GPT-5 mini,True,0.022428200000000002
+django__django-14999,GPT-5 mini,True,0.028720449999999995
+django__django-15022,GPT-5 mini,True,0.038908000000000005
+django__django-15037,GPT-5 mini,True,0.0367026
+django__django-15098,GPT-5 mini,False,0.061970500000000005
+django__django-15103,GPT-5 mini,True,0.0231686
+django__django-15104,GPT-5 mini,True,0.0409303
+django__django-15127,GPT-5 mini,False,0.019392499999999997
+django__django-15128,GPT-5 mini,True,0.0856284
+django__django-15161,GPT-5 mini,True,0.07134469999999998
+django__django-15252,GPT-5 mini,False,0.026933449999999998
+django__django-15268,GPT-5 mini,False,0.07289300000000001
+django__django-15277,GPT-5 mini,True,0.03519844999999999
+django__django-15278,GPT-5 mini,True,0.03355395
+django__django-15280,GPT-5 mini,False,0.11850820000000001
+django__django-15315,GPT-5 mini,True,0.018561599999999998
+django__django-15368,GPT-5 mini,True,0.0292277
+django__django-15375,GPT-5 mini,True,0.05876694999999999
+django__django-15380,GPT-5 mini,True,0.028256499999999997
+django__django-15382,GPT-5 mini,True,0.08634195
+django__django-15467,GPT-5 mini,True,0.0255315
+django__django-15499,GPT-5 mini,True,0.033688649999999994
+django__django-15503,GPT-5 mini,False,0.04263765
+django__django-15525,GPT-5 mini,False,0.04340945
+django__django-15554,GPT-5 mini,False,0.04719854999999999
+django__django-15561,GPT-5 mini,False,0.04317205
+django__django-15563,GPT-5 mini,False,0.1149085
+django__django-15569,GPT-5 mini,True,0.0131532
+django__django-15572,GPT-5 mini,True,0.019870899999999997
+django__django-15629,GPT-5 mini,False,0.041808450000000004
+django__django-15695,GPT-5 mini,False,0.1253501
+django__django-15731,GPT-5 mini,True,0.013122849999999998
+django__django-15732,GPT-5 mini,False,0.030006199999999997
+django__django-15741,GPT-5 mini,True,0.021766599999999997
+django__django-15814,GPT-5 mini,True,0.032493999999999995
+django__django-15851,GPT-5 mini,True,0.01529575
+django__django-15863,GPT-5 mini,True,0.036652849999999994
+django__django-15916,GPT-5 mini,False,0.0179191
+django__django-15930,GPT-5 mini,True,0.05784335
+django__django-15957,GPT-5 mini,False,0.057285050000000004
+django__django-15973,GPT-5 mini,False,0.0435065
+django__django-15987,GPT-5 mini,True,0.0223742
+django__django-16032,GPT-5 mini,False,0.19321185000000005
+django__django-16082,GPT-5 mini,True,0.027458899999999998
+django__django-16100,GPT-5 mini,True,0.03446915
+django__django-16116,GPT-5 mini,True,0.03089265
+django__django-16136,GPT-5 mini,True,0.0173626
+django__django-16139,GPT-5 mini,True,0.0168222
+django__django-16145,GPT-5 mini,True,0.016452500000000002
+django__django-16255,GPT-5 mini,True,0.019524299999999998
+django__django-16256,GPT-5 mini,False,0.044586
+django__django-16263,GPT-5 mini,False,0.10136070000000001
+django__django-16315,GPT-5 mini,True,0.0485854
+django__django-16333,GPT-5 mini,True,0.05089005
+django__django-16429,GPT-5 mini,True,0.0191826
+django__django-16454,GPT-5 mini,False,0.03678264999999999
+django__django-16485,GPT-5 mini,True,0.0208926
+django__django-16493,GPT-5 mini,True,0.032238899999999994
+django__django-16502,GPT-5 mini,False,0.07272239999999999
+django__django-16527,GPT-5 mini,True,0.012093749999999999
+django__django-16560,GPT-5 mini,False,0.0816871
+django__django-16569,GPT-5 mini,True,0.027380449999999997
+django__django-16595,GPT-5 mini,True,0.04583495
+django__django-16612,GPT-5 mini,True,0.0237795
+django__django-16631,GPT-5 mini,False,0.03202095
+django__django-16642,GPT-5 mini,False,0.02839835
+django__django-16661,GPT-5 mini,False,0.06001
+django__django-16662,GPT-5 mini,True,0.025787999999999995
+django__django-16667,GPT-5 mini,False,0.022451549999999997
+django__django-16801,GPT-5 mini,True,0.01325465
+django__django-16819,GPT-5 mini,True,0.05855719999999999
+django__django-16877,GPT-5 mini,True,0.0267132
+django__django-16899,GPT-5 mini,False,0.028854
+django__django-16901,GPT-5 mini,True,0.04222039999999999
+django__django-16938,GPT-5 mini,False,0.017598549999999998
+django__django-16950,GPT-5 mini,False,0.1019297
+django__django-17029,GPT-5 mini,True,0.018642899999999997
+django__django-17084,GPT-5 mini,False,0.04240125
+django__django-17087,GPT-5 mini,True,0.030314249999999997
+django__django-7530,GPT-5 mini,True,0.0308475
+django__django-9296,GPT-5 mini,True,0.024696649999999997
+matplotlib__matplotlib-13989,GPT-5 mini,True,0.025270700000000004
+matplotlib__matplotlib-14623,GPT-5 mini,False,0.041985650000000006
+matplotlib__matplotlib-20488,GPT-5 mini,False,0.03783575
+matplotlib__matplotlib-20676,GPT-5 mini,False,0.04760429999999999
+matplotlib__matplotlib-20826,GPT-5 mini,False,0.11419969999999999
+matplotlib__matplotlib-20859,GPT-5 mini,True,0.0497165
+matplotlib__matplotlib-21568,GPT-5 mini,False,0.028567699999999994
+matplotlib__matplotlib-22719,GPT-5 mini,True,0.02360735
+matplotlib__matplotlib-22865,GPT-5 mini,False,0.05215469999999999
+matplotlib__matplotlib-22871,GPT-5 mini,False,0.04364869999999999
+matplotlib__matplotlib-23299,GPT-5 mini,False,0.06569085
+matplotlib__matplotlib-23314,GPT-5 mini,True,0.04623254999999999
+matplotlib__matplotlib-23412,GPT-5 mini,False,0.0459784
+matplotlib__matplotlib-23476,GPT-5 mini,False,0.09017069999999996
+matplotlib__matplotlib-24026,GPT-5 mini,True,0.03216585
+matplotlib__matplotlib-24149,GPT-5 mini,True,0.02424805
+matplotlib__matplotlib-24177,GPT-5 mini,False,0.11914254999999997
+matplotlib__matplotlib-24570,GPT-5 mini,True,0.025840649999999996
+matplotlib__matplotlib-24627,GPT-5 mini,True,0.0622379
+matplotlib__matplotlib-24637,GPT-5 mini,True,0.12409869999999998
+matplotlib__matplotlib-24870,GPT-5 mini,False,0.0374799
+matplotlib__matplotlib-24970,GPT-5 mini,True,0.044390099999999995
+matplotlib__matplotlib-25122,GPT-5 mini,True,0.0207957
+matplotlib__matplotlib-25287,GPT-5 mini,True,0.0305911
+matplotlib__matplotlib-25311,GPT-5 mini,True,0.0614254
+matplotlib__matplotlib-25332,GPT-5 mini,True,0.04528030000000001
+matplotlib__matplotlib-25479,GPT-5 mini,False,0.0629713
+matplotlib__matplotlib-25775,GPT-5 mini,False,0.22513015000000003
+matplotlib__matplotlib-25960,GPT-5 mini,False,0.06718584999999999
+matplotlib__matplotlib-26113,GPT-5 mini,True,0.026397200000000003
+matplotlib__matplotlib-26208,GPT-5 mini,False,0.1756883
+matplotlib__matplotlib-26291,GPT-5 mini,False,0.03382285
+matplotlib__matplotlib-26342,GPT-5 mini,True,0.05512715
+matplotlib__matplotlib-26466,GPT-5 mini,False,0.058442449999999986
+mwaskom__seaborn-3069,GPT-5 mini,True,0.0735777
+mwaskom__seaborn-3187,GPT-5 mini,False,0.0365083
+pallets__flask-5014,GPT-5 mini,True,0.01975755
+psf__requests-1142,GPT-5 mini,True,0.02710085
+psf__requests-1724,GPT-5 mini,True,0.0577266
+psf__requests-1766,GPT-5 mini,True,0.021865699999999995
+psf__requests-1921,GPT-5 mini,True,0.020628800000000003
+psf__requests-2317,GPT-5 mini,True,0.03372215
+psf__requests-2931,GPT-5 mini,False,0.048755700000000006
+psf__requests-5414,GPT-5 mini,True,0.04957360000000001
+psf__requests-6028,GPT-5 mini,False,0.0673573
+pydata__xarray-2905,GPT-5 mini,False,0.034041449999999994
+pydata__xarray-3095,GPT-5 mini,True,0.11322059999999998
+pydata__xarray-3151,GPT-5 mini,True,0.026388099999999998
+pydata__xarray-3305,GPT-5 mini,False,0.05173860000000001
+pydata__xarray-3677,GPT-5 mini,True,0.043429050000000004
+pydata__xarray-3993,GPT-5 mini,False,0.03671604999999999
+pydata__xarray-4075,GPT-5 mini,True,0.039761149999999995
+pydata__xarray-4094,GPT-5 mini,True,0.051861849999999994
+pydata__xarray-4356,GPT-5 mini,True,0.03485340000000001
+pydata__xarray-4629,GPT-5 mini,True,0.025213449999999995
+pydata__xarray-4687,GPT-5 mini,False,0.049560299999999995
+pydata__xarray-4695,GPT-5 mini,True,0.042927
+pydata__xarray-4966,GPT-5 mini,True,0.0261909
+pydata__xarray-6461,GPT-5 mini,False,0.05625384999999999
+pydata__xarray-6599,GPT-5 mini,False,0.04860074999999999
+pydata__xarray-6721,GPT-5 mini,True,0.042990899999999985
+pydata__xarray-6744,GPT-5 mini,False,0.0366451
+pydata__xarray-6938,GPT-5 mini,False,0.12042199999999999
+pydata__xarray-6992,GPT-5 mini,False,0.027506199999999998
+pydata__xarray-7229,GPT-5 mini,False,0.15277675
+pydata__xarray-7233,GPT-5 mini,True,0.05272879999999999
+pydata__xarray-7393,GPT-5 mini,True,0.133778
+pylint-dev__pylint-4551,GPT-5 mini,False,0.05176705
+pylint-dev__pylint-4604,GPT-5 mini,False,0.1038188
+pylint-dev__pylint-4661,GPT-5 mini,False,0.0223248
+pylint-dev__pylint-4970,GPT-5 mini,False,0.0467066
+pylint-dev__pylint-6386,GPT-5 mini,False,0.06671585
+pylint-dev__pylint-6528,GPT-5 mini,False,0.058268
+pylint-dev__pylint-6903,GPT-5 mini,True,0.01815375
+pylint-dev__pylint-7080,GPT-5 mini,True,0.13847080000000003
+pylint-dev__pylint-7277,GPT-5 mini,False,0.021368799999999997
+pylint-dev__pylint-8898,GPT-5 mini,False,0.0660874
+pytest-dev__pytest-10051,GPT-5 mini,False,0.019828600000000002
+pytest-dev__pytest-10081,GPT-5 mini,False,0.04046999999999999
+pytest-dev__pytest-10356,GPT-5 mini,False,0.03966189999999999
+pytest-dev__pytest-5262,GPT-5 mini,True,0.028615549999999993
+pytest-dev__pytest-5631,GPT-5 mini,True,0.03420990000000001
+pytest-dev__pytest-5787,GPT-5 mini,False,0.07760415
+pytest-dev__pytest-5809,GPT-5 mini,True,0.009841949999999999
+pytest-dev__pytest-5840,GPT-5 mini,False,0.03680535
+pytest-dev__pytest-6197,GPT-5 mini,False,0.06441504999999999
+pytest-dev__pytest-6202,GPT-5 mini,True,0.01414675
+pytest-dev__pytest-7205,GPT-5 mini,True,0.019715649999999998
+pytest-dev__pytest-7236,GPT-5 mini,False,0.06504215
+pytest-dev__pytest-7324,GPT-5 mini,False,0.0224159
+pytest-dev__pytest-7432,GPT-5 mini,True,0.05534085
+pytest-dev__pytest-7490,GPT-5 mini,False,0.11026119999999998
+pytest-dev__pytest-7521,GPT-5 mini,True,0.0379626
+pytest-dev__pytest-7571,GPT-5 mini,True,0.0625978
+pytest-dev__pytest-7982,GPT-5 mini,True,0.039264349999999996
+pytest-dev__pytest-8399,GPT-5 mini,True,0.019089149999999996
+scikit-learn__scikit-learn-10297,GPT-5 mini,True,0.03706205
+scikit-learn__scikit-learn-10844,GPT-5 mini,True,0.028403299999999996
+scikit-learn__scikit-learn-10908,GPT-5 mini,True,0.027358
+scikit-learn__scikit-learn-11310,GPT-5 mini,True,0.03571014999999999
+scikit-learn__scikit-learn-11578,GPT-5 mini,True,0.0381455
+scikit-learn__scikit-learn-12585,GPT-5 mini,True,0.03513865000000001
+scikit-learn__scikit-learn-12682,GPT-5 mini,True,0.04478005
+scikit-learn__scikit-learn-12973,GPT-5 mini,True,0.021725699999999997
+scikit-learn__scikit-learn-13124,GPT-5 mini,True,0.04230494999999999
+scikit-learn__scikit-learn-13135,GPT-5 mini,True,0.0178866
+scikit-learn__scikit-learn-13142,GPT-5 mini,True,0.07617330000000001
+scikit-learn__scikit-learn-13328,GPT-5 mini,True,0.03480105
+scikit-learn__scikit-learn-13439,GPT-5 mini,True,0.032223
+scikit-learn__scikit-learn-13496,GPT-5 mini,True,0.0319641
+scikit-learn__scikit-learn-13779,GPT-5 mini,True,0.03583925
+scikit-learn__scikit-learn-14053,GPT-5 mini,True,0.038694849999999996
+scikit-learn__scikit-learn-14087,GPT-5 mini,False,0.0522573
+scikit-learn__scikit-learn-14141,GPT-5 mini,True,0.0233569
+scikit-learn__scikit-learn-14496,GPT-5 mini,True,0.043373350000000005
+scikit-learn__scikit-learn-14629,GPT-5 mini,False,0.07144239999999999
+scikit-learn__scikit-learn-14710,GPT-5 mini,False,0.06992029999999999
+scikit-learn__scikit-learn-14894,GPT-5 mini,True,0.0320449
+scikit-learn__scikit-learn-14983,GPT-5 mini,False,0.03260795
+scikit-learn__scikit-learn-15100,GPT-5 mini,True,0.01639705
+scikit-learn__scikit-learn-25102,GPT-5 mini,False,0.11420164999999999
+scikit-learn__scikit-learn-25232,GPT-5 mini,True,0.036381199999999995
+scikit-learn__scikit-learn-25747,GPT-5 mini,False,0.0334625
+scikit-learn__scikit-learn-25931,GPT-5 mini,True,0.024565949999999996
+scikit-learn__scikit-learn-25973,GPT-5 mini,False,0.07794885000000001
+scikit-learn__scikit-learn-26194,GPT-5 mini,False,0.0233762
+scikit-learn__scikit-learn-26323,GPT-5 mini,True,0.03436505
+scikit-learn__scikit-learn-9288,GPT-5 mini,True,0.0495735
+sphinx-doc__sphinx-10323,GPT-5 mini,True,0.0239948
+sphinx-doc__sphinx-10435,GPT-5 mini,False,0.14771979999999998
+sphinx-doc__sphinx-10449,GPT-5 mini,True,0.04485234999999999
+sphinx-doc__sphinx-10466,GPT-5 mini,True,0.0159789
+sphinx-doc__sphinx-10614,GPT-5 mini,False,0.03705045
+sphinx-doc__sphinx-10673,GPT-5 mini,True,0.04296745
+sphinx-doc__sphinx-11445,GPT-5 mini,False,0.03932165
+sphinx-doc__sphinx-11510,GPT-5 mini,False,0.08260360000000003
+sphinx-doc__sphinx-7440,GPT-5 mini,True,0.0374877
+sphinx-doc__sphinx-7454,GPT-5 mini,False,0.04567614999999999
+sphinx-doc__sphinx-7462,GPT-5 mini,False,0.02281625
+sphinx-doc__sphinx-7590,GPT-5 mini,False,0.08504515
+sphinx-doc__sphinx-7748,GPT-5 mini,False,0.07116969999999999
+sphinx-doc__sphinx-7757,GPT-5 mini,False,0.0359218
+sphinx-doc__sphinx-7889,GPT-5 mini,True,0.019510599999999996
+sphinx-doc__sphinx-7910,GPT-5 mini,True,0.033479300000000004
+sphinx-doc__sphinx-7985,GPT-5 mini,False,0.09695429999999998
+sphinx-doc__sphinx-8035,GPT-5 mini,False,0.060680649999999996
+sphinx-doc__sphinx-8056,GPT-5 mini,True,0.08528409999999996
+sphinx-doc__sphinx-8120,GPT-5 mini,True,0.038258450000000006
+sphinx-doc__sphinx-8265,GPT-5 mini,False,0.05778645
+sphinx-doc__sphinx-8269,GPT-5 mini,True,0.0399561
+sphinx-doc__sphinx-8459,GPT-5 mini,True,0.04567285000000001
+sphinx-doc__sphinx-8475,GPT-5 mini,True,0.014513700000000001
+sphinx-doc__sphinx-8548,GPT-5 mini,True,0.1004068
+sphinx-doc__sphinx-8551,GPT-5 mini,True,0.07354714999999999
+sphinx-doc__sphinx-8593,GPT-5 mini,True,0.07814525000000001
+sphinx-doc__sphinx-8595,GPT-5 mini,True,0.0364236
+sphinx-doc__sphinx-8621,GPT-5 mini,False,0.03152195
+sphinx-doc__sphinx-8638,GPT-5 mini,False,0.0313247
+sphinx-doc__sphinx-8721,GPT-5 mini,True,0.02738395
+sphinx-doc__sphinx-9229,GPT-5 mini,False,0.05821925
+sphinx-doc__sphinx-9230,GPT-5 mini,False,0.0896226
+sphinx-doc__sphinx-9258,GPT-5 mini,True,0.02797625
+sphinx-doc__sphinx-9281,GPT-5 mini,True,0.04339845
+sphinx-doc__sphinx-9320,GPT-5 mini,True,0.02190525
+sphinx-doc__sphinx-9367,GPT-5 mini,True,0.0213517
+sphinx-doc__sphinx-9461,GPT-5 mini,False,0.0331339
+sphinx-doc__sphinx-9591,GPT-5 mini,False,0.07892260000000001
+sphinx-doc__sphinx-9602,GPT-5 mini,False,0.0746307
+sphinx-doc__sphinx-9658,GPT-5 mini,True,0.077162
+sphinx-doc__sphinx-9673,GPT-5 mini,False,0.0196949
+sphinx-doc__sphinx-9698,GPT-5 mini,True,0.0342769
+sphinx-doc__sphinx-9711,GPT-5 mini,True,0.03412
+sympy__sympy-11618,GPT-5 mini,False,0.012726749999999998
+sympy__sympy-12096,GPT-5 mini,False,0.04341950000000001
+sympy__sympy-12419,GPT-5 mini,False,0.10791570000000002
+sympy__sympy-12481,GPT-5 mini,True,0.025197350000000004
+sympy__sympy-12489,GPT-5 mini,False,0.10948754999999996
+sympy__sympy-13031,GPT-5 mini,False,0.056324099999999995
+sympy__sympy-13091,GPT-5 mini,False,0.06040695
+sympy__sympy-13372,GPT-5 mini,True,0.0467285
+sympy__sympy-13480,GPT-5 mini,True,0.030284949999999998
+sympy__sympy-13551,GPT-5 mini,False,0.0254626
+sympy__sympy-13615,GPT-5 mini,True,0.06844179999999998
+sympy__sympy-13647,GPT-5 mini,True,0.04076495
+sympy__sympy-13757,GPT-5 mini,True,0.04869570000000001
+sympy__sympy-13798,GPT-5 mini,False,0.0342127
+sympy__sympy-13852,GPT-5 mini,False,0.020541999999999998
+sympy__sympy-13877,GPT-5 mini,True,0.03585119999999999
+sympy__sympy-13878,GPT-5 mini,True,0.12600530000000001
+sympy__sympy-13974,GPT-5 mini,False,0.0342052
+sympy__sympy-14248,GPT-5 mini,False,0.10875834999999999
+sympy__sympy-14531,GPT-5 mini,False,0.05225334999999999
+sympy__sympy-14711,GPT-5 mini,False,0.01426965
+sympy__sympy-14976,GPT-5 mini,True,0.052582649999999995
+sympy__sympy-15017,GPT-5 mini,True,0.0327384
+sympy__sympy-15345,GPT-5 mini,True,0.09475634999999999
+sympy__sympy-15349,GPT-5 mini,True,0.020627549999999995
+sympy__sympy-15599,GPT-5 mini,False,0.025417749999999996
+sympy__sympy-15809,GPT-5 mini,True,0.013352300000000001
+sympy__sympy-15875,GPT-5 mini,False,0.031093099999999995
+sympy__sympy-15976,GPT-5 mini,False,0.039521499999999994
+sympy__sympy-16450,GPT-5 mini,True,0.03875725
+sympy__sympy-16597,GPT-5 mini,False,0.042396300000000005
+sympy__sympy-16766,GPT-5 mini,False,0.05465894999999999
+sympy__sympy-16792,GPT-5 mini,True,0.0806056
+sympy__sympy-16886,GPT-5 mini,True,0.009286999999999998
+sympy__sympy-17139,GPT-5 mini,True,0.0364716
+sympy__sympy-17318,GPT-5 mini,False,0.04449694999999999
+sympy__sympy-17630,GPT-5 mini,False,0.0305198
+sympy__sympy-17655,GPT-5 mini,False,0.07200465
+sympy__sympy-18189,GPT-5 mini,True,0.042606149999999995
+sympy__sympy-18199,GPT-5 mini,False,0.03300355
+sympy__sympy-18211,GPT-5 mini,False,0.15077949999999996
+sympy__sympy-18698,GPT-5 mini,True,0.09048905
+sympy__sympy-18763,GPT-5 mini,False,0.05414184999999999
+sympy__sympy-19040,GPT-5 mini,False,0.2545942000000001
+sympy__sympy-19346,GPT-5 mini,True,0.058711900000000004
+sympy__sympy-19495,GPT-5 mini,False,0.027257399999999998
+sympy__sympy-19637,GPT-5 mini,True,0.023133799999999996
+sympy__sympy-19783,GPT-5 mini,False,0.03248355000000001
+sympy__sympy-19954,GPT-5 mini,True,0.028838950000000002
+sympy__sympy-20154,GPT-5 mini,True,0.03195335
+sympy__sympy-20428,GPT-5 mini,False,0.10504404999999999
+sympy__sympy-20438,GPT-5 mini,False,0.10343325
+sympy__sympy-20590,GPT-5 mini,True,0.04583280000000001
+sympy__sympy-20801,GPT-5 mini,True,0.10513955
+sympy__sympy-20916,GPT-5 mini,False,0.038554599999999994
+sympy__sympy-21379,GPT-5 mini,False,0.020906100000000004
+sympy__sympy-21596,GPT-5 mini,False,0.11347724999999997
+sympy__sympy-21612,GPT-5 mini,False,0.040333999999999995
+sympy__sympy-21847,GPT-5 mini,True,0.025630149999999997
+sympy__sympy-21930,GPT-5 mini,False,0.07431300000000002
+sympy__sympy-22080,GPT-5 mini,False,0.11069869999999998
+sympy__sympy-22456,GPT-5 mini,True,0.04788970000000001
+sympy__sympy-22714,GPT-5 mini,True,0.12755324999999998
+sympy__sympy-22914,GPT-5 mini,True,0.0123682
+sympy__sympy-23262,GPT-5 mini,True,0.08436985
+sympy__sympy-23413,GPT-5 mini,False,0.09573835000000001
+sympy__sympy-23534,GPT-5 mini,True,0.01866259999999999
+sympy__sympy-23824,GPT-5 mini,True,0.04835164999999999
+sympy__sympy-23950,GPT-5 mini,False,0.09904730000000002
+sympy__sympy-24066,GPT-5 mini,False,0.03184215000000001
+sympy__sympy-24213,GPT-5 mini,True,0.03126325
+sympy__sympy-24443,GPT-5 mini,True,0.06382185000000001
+sympy__sympy-24539,GPT-5 mini,True,0.021060999999999996
+sympy__sympy-24562,GPT-5 mini,False,0.035130299999999996
+sympy__sympy-24661,GPT-5 mini,True,0.03491904999999999
+astropy__astropy-12907,Kimi K2.5,True,0.37008068200000005
+astropy__astropy-13033,Kimi K2.5,False,0.07553191
+astropy__astropy-13236,Kimi K2.5,False,0.058703363999999994
+astropy__astropy-13398,Kimi K2.5,False,0.32903544
+astropy__astropy-13453,Kimi K2.5,True,0.10839877
+astropy__astropy-13579,Kimi K2.5,True,0.139275714
+astropy__astropy-13977,Kimi K2.5,False,0.14617622199999997
+astropy__astropy-14096,Kimi K2.5,True,0.20856208999999992
+astropy__astropy-14182,Kimi K2.5,False,0.18034339999999996
+astropy__astropy-14309,Kimi K2.5,True,0.05659072799999999
+astropy__astropy-14365,Kimi K2.5,False,0.07607954
+astropy__astropy-14369,Kimi K2.5,False,0.052659632
+astropy__astropy-14508,Kimi K2.5,True,0.09680820000000001
+astropy__astropy-14539,Kimi K2.5,True,0.07332683000000001
+astropy__astropy-14598,Kimi K2.5,False,0.30957946800000014
+astropy__astropy-14995,Kimi K2.5,True,0.08299860000000002
+astropy__astropy-7166,Kimi K2.5,True,0.051706946000000004
+astropy__astropy-7336,Kimi K2.5,True,0.058700720000000005
+astropy__astropy-7606,Kimi K2.5,False,0.03271487
+astropy__astropy-7671,Kimi K2.5,True,0.062210200000000014
+astropy__astropy-8707,Kimi K2.5,False,0.087012828
+astropy__astropy-8872,Kimi K2.5,False,0.11344579999999999
+django__django-10097,Kimi K2.5,False,0.10162125000000001
+django__django-10554,Kimi K2.5,False,0.164154276
+django__django-10880,Kimi K2.5,True,0.06866671
+django__django-10914,Kimi K2.5,True,0.07174692200000002
+django__django-10973,Kimi K2.5,False,0.04122146000000001
+django__django-10999,Kimi K2.5,False,0.018269960000000002
+django__django-11066,Kimi K2.5,True,0.008529652
+django__django-11087,Kimi K2.5,False,0.07296094800000001
+django__django-11095,Kimi K2.5,True,0.04823871999999999
+django__django-11099,Kimi K2.5,True,0.0139522
+django__django-11119,Kimi K2.5,True,0.054612310000000004
+django__django-11133,Kimi K2.5,True,0.11333458
+django__django-11138,Kimi K2.5,True,0.20143293999999998
+django__django-11141,Kimi K2.5,False,0.019761678
+django__django-11149,Kimi K2.5,True,0.18428915
+django__django-11163,Kimi K2.5,True,0.018125932
+django__django-11179,Kimi K2.5,True,0.07692225
+django__django-11206,Kimi K2.5,True,0.030101336
+django__django-11211,Kimi K2.5,True,0.09572219400000001
+django__django-11239,Kimi K2.5,True,0.03650554
+django__django-11265,Kimi K2.5,True,0.6028602100000001
+django__django-11276,Kimi K2.5,True,0.03671638
+django__django-11292,Kimi K2.5,True,0.12708278
+django__django-11299,Kimi K2.5,True,0.09579964
+django__django-11333,Kimi K2.5,True,0.09143253999999996
+django__django-11400,Kimi K2.5,False,0.15535166999999997
+django__django-11433,Kimi K2.5,False,0.11965259000000002
+django__django-11451,Kimi K2.5,True,0.025404722000000005
+django__django-11477,Kimi K2.5,False,0.426550636
+django__django-11490,Kimi K2.5,True,0.3391206880000001
+django__django-11532,Kimi K2.5,True,0.11255191600000003
+django__django-11551,Kimi K2.5,True,0.07558633
+django__django-11555,Kimi K2.5,True,0.20034260999999998
+django__django-11603,Kimi K2.5,True,0.027689541999999998
+django__django-11728,Kimi K2.5,False,0.15642647
+django__django-11734,Kimi K2.5,False,0.6582997760000004
+django__django-11740,Kimi K2.5,True,0.21512236
+django__django-11749,Kimi K2.5,True,0.06793350999999997
+django__django-11790,Kimi K2.5,False,0.12479311000000003
+django__django-11815,Kimi K2.5,True,0.06165422999999999
+django__django-11820,Kimi K2.5,False,0.09470458000000002
+django__django-11848,Kimi K2.5,True,0.07105395599999999
+django__django-11880,Kimi K2.5,True,0.05790274999999998
+django__django-11885,Kimi K2.5,False,0.52623795
+django__django-11951,Kimi K2.5,True,0.04503065
+django__django-11964,Kimi K2.5,False,0.6609316899999998
+django__django-11999,Kimi K2.5,True,0.06295481
+django__django-12039,Kimi K2.5,True,0.07721481
+django__django-12050,Kimi K2.5,True,0.04269327
+django__django-12125,Kimi K2.5,False,0.19604059000000001
+django__django-12143,Kimi K2.5,True,0.04542650000000001
+django__django-12155,Kimi K2.5,True,0.05051856
+django__django-12193,Kimi K2.5,True,0.09552475999999999
+django__django-12209,Kimi K2.5,True,0.5951376319999999
+django__django-12262,Kimi K2.5,True,0.09906224599999999
+django__django-12273,Kimi K2.5,False,0.234666306
+django__django-12276,Kimi K2.5,True,0.11362308799999998
+django__django-12304,Kimi K2.5,True,0.0978741
+django__django-12308,Kimi K2.5,False,0.07853383
+django__django-12325,Kimi K2.5,False,0.13215666999999998
+django__django-12406,Kimi K2.5,False,0.20234702999999996
+django__django-12419,Kimi K2.5,True,0.024278094
+django__django-12663,Kimi K2.5,True,0.30342584999999994
+django__django-12708,Kimi K2.5,True,0.07931971599999997
+django__django-12713,Kimi K2.5,True,0.041890635999999995
+django__django-12741,Kimi K2.5,True,0.020465350000000004
+django__django-12754,Kimi K2.5,True,0.22766650000000008
+django__django-12774,Kimi K2.5,True,0.10379294
+django__django-12858,Kimi K2.5,True,0.07074019999999999
+django__django-12965,Kimi K2.5,True,0.24646258800000007
+django__django-13012,Kimi K2.5,True,0.10063910000000005
+django__django-13023,Kimi K2.5,True,0.044497749999999996
+django__django-13028,Kimi K2.5,True,0.09668825000000002
+django__django-13033,Kimi K2.5,True,0.11868110999999996
+django__django-13089,Kimi K2.5,True,0.031411150000000006
+django__django-13109,Kimi K2.5,True,0.05348727
+django__django-13112,Kimi K2.5,True,0.16397269
+django__django-13121,Kimi K2.5,True,0.34369341800000003
+django__django-13128,Kimi K2.5,True,0.07674882
+django__django-13158,Kimi K2.5,True,0.12484828999999996
+django__django-13195,Kimi K2.5,False,0.079182324
+django__django-13212,Kimi K2.5,False,0.1906395000000001
+django__django-13279,Kimi K2.5,True,0.11470716999999998
+django__django-13297,Kimi K2.5,True,0.2457898599999999
+django__django-13315,Kimi K2.5,True,0.24250651000000006
+django__django-13343,Kimi K2.5,True,0.09858014
+django__django-13344,Kimi K2.5,False,0.24935353
+django__django-13346,Kimi K2.5,True,0.406387682
+django__django-13363,Kimi K2.5,True,0.05417659000000001
+django__django-13401,Kimi K2.5,True,0.075870666
+django__django-13406,Kimi K2.5,True,0.4376504500000002
+django__django-13410,Kimi K2.5,True,0.011774100000000001
+django__django-13417,Kimi K2.5,True,0.16735217800000005
+django__django-13449,Kimi K2.5,True,0.1001192
+django__django-13512,Kimi K2.5,False,0.060174424000000004
+django__django-13513,Kimi K2.5,False,0.13143135
+django__django-13516,Kimi K2.5,True,0.127605266
+django__django-13551,Kimi K2.5,True,0.07266163
+django__django-13568,Kimi K2.5,True,0.24650034999999995
+django__django-13569,Kimi K2.5,True,0.11302381
+django__django-13590,Kimi K2.5,True,0.058522639999999994
+django__django-13658,Kimi K2.5,True,0.032482122
+django__django-13670,Kimi K2.5,True,0.04384146
+django__django-13741,Kimi K2.5,True,0.078277074
+django__django-13786,Kimi K2.5,True,0.06385123999999999
+django__django-13794,Kimi K2.5,False,0.07113764
+django__django-13807,Kimi K2.5,True,0.10424694000000002
+django__django-13809,Kimi K2.5,True,0.09997154600000001
+django__django-13810,Kimi K2.5,True,0.27444349399999995
+django__django-13820,Kimi K2.5,True,0.05649665999999999
+django__django-13821,Kimi K2.5,True,0.05439114999999999
+django__django-13837,Kimi K2.5,True,0.12350444999999996
+django__django-13925,Kimi K2.5,True,0.16882853399999997
+django__django-13933,Kimi K2.5,True,0.17417707
+django__django-13964,Kimi K2.5,True,0.10199025
+django__django-14007,Kimi K2.5,True,0.23566508000000005
+django__django-14011,Kimi K2.5,False,0.074873688
+django__django-14017,Kimi K2.5,True,0.10611615999999999
+django__django-14034,Kimi K2.5,False,0.072146058
+django__django-14053,Kimi K2.5,True,0.15044915000000003
+django__django-14089,Kimi K2.5,True,0.037838388
+django__django-14122,Kimi K2.5,True,0.18007353799999992
+django__django-14140,Kimi K2.5,True,0.07458205999999999
+django__django-14155,Kimi K2.5,False,0.051393428000000005
+django__django-14170,Kimi K2.5,False,0.09541039999999999
+django__django-14238,Kimi K2.5,True,0.038803920000000006
+django__django-14311,Kimi K2.5,True,0.18008084
+django__django-14315,Kimi K2.5,False,0.05325066
+django__django-14349,Kimi K2.5,True,0.081420328
+django__django-14351,Kimi K2.5,False,0.509301202
+django__django-14373,Kimi K2.5,True,0.04176051
+django__django-14376,Kimi K2.5,False,0.020262730000000003
+django__django-14404,Kimi K2.5,False,0.045247216
+django__django-14434,Kimi K2.5,True,0.10552507000000004
+django__django-14493,Kimi K2.5,True,0.07495897999999998
+django__django-14500,Kimi K2.5,True,0.12455926
+django__django-14534,Kimi K2.5,True,0.18424242999999996
+django__django-14539,Kimi K2.5,True,0.059859619999999995
+django__django-14559,Kimi K2.5,True,0.06730306
+django__django-14580,Kimi K2.5,True,0.11295859999999999
+django__django-14608,Kimi K2.5,True,0.08462619000000003
+django__django-14631,Kimi K2.5,False,0.2922892
+django__django-14672,Kimi K2.5,True,0.05500689
+django__django-14725,Kimi K2.5,True,0.14993792800000003
+django__django-14752,Kimi K2.5,True,0.01972071
+django__django-14765,Kimi K2.5,True,0.04903672
+django__django-14771,Kimi K2.5,True,0.08559943600000001
+django__django-14787,Kimi K2.5,True,0.04541691000000001
+django__django-14792,Kimi K2.5,False,0.16286277000000002
+django__django-14855,Kimi K2.5,True,0.136420094
+django__django-14915,Kimi K2.5,True,0.042164704000000004
+django__django-14999,Kimi K2.5,True,0.18699519799999997
+django__django-15022,Kimi K2.5,True,0.45732515199999996
+django__django-15037,Kimi K2.5,True,0.14230324
+django__django-15098,Kimi K2.5,False,0.46026756800000007
+django__django-15103,Kimi K2.5,True,0.045365222000000004
+django__django-15104,Kimi K2.5,True,0.06251926
+django__django-15127,Kimi K2.5,False,0.068750678
+django__django-15128,Kimi K2.5,True,0.36757929000000006
+django__django-15161,Kimi K2.5,True,0.29932584999999995
+django__django-15252,Kimi K2.5,False,0.17136121199999996
+django__django-15268,Kimi K2.5,True,0.102978848
+django__django-15277,Kimi K2.5,True,0.054577850000000004
+django__django-15278,Kimi K2.5,True,0.10094967800000001
+django__django-15280,Kimi K2.5,False,1.0115831800000001
+django__django-15315,Kimi K2.5,True,0.06302605
+django__django-15368,Kimi K2.5,True,0.14396880000000004
+django__django-15375,Kimi K2.5,True,0.15323413
+django__django-15380,Kimi K2.5,True,0.07025245
+django__django-15382,Kimi K2.5,True,0.19728948999999993
+django__django-15467,Kimi K2.5,True,0.04277226
+django__django-15499,Kimi K2.5,True,0.15236073
+django__django-15503,Kimi K2.5,True,0.22877988999999996
+django__django-15525,Kimi K2.5,True,0.12794939800000002
+django__django-15554,Kimi K2.5,True,0.37128196
+django__django-15561,Kimi K2.5,True,0.06980322000000001
+django__django-15563,Kimi K2.5,False,0.13180095600000002
+django__django-15569,Kimi K2.5,True,0.01617109
+django__django-15572,Kimi K2.5,True,0.0435467
+django__django-15629,Kimi K2.5,False,0.21847476000000002
+django__django-15695,Kimi K2.5,False,0.22149514000000003
+django__django-15731,Kimi K2.5,True,0.0375073
+django__django-15732,Kimi K2.5,False,0.10000825999999997
+django__django-15741,Kimi K2.5,True,0.093919384
+django__django-15814,Kimi K2.5,True,0.086832
+django__django-15851,Kimi K2.5,True,0.05925837
+django__django-15863,Kimi K2.5,True,0.057929985999999996
+django__django-15916,Kimi K2.5,False,0.20021866999999993
+django__django-15930,Kimi K2.5,True,0.11683340999999997
+django__django-15957,Kimi K2.5,False,0.44282358
+django__django-15973,Kimi K2.5,False,0.21659129000000002
+django__django-15987,Kimi K2.5,True,0.09234088800000002
+django__django-16032,Kimi K2.5,True,0.3991345599999998
+django__django-16082,Kimi K2.5,True,0.071228862
+django__django-16100,Kimi K2.5,True,0.18853670000000006
+django__django-16116,Kimi K2.5,True,0.16749615000000004
+django__django-16136,Kimi K2.5,True,0.05210883
+django__django-16139,Kimi K2.5,True,0.06973022000000002
+django__django-16145,Kimi K2.5,True,0.07315092999999999
+django__django-16255,Kimi K2.5,True,0.08138136000000001
+django__django-16256,Kimi K2.5,False,0.09984626000000002
+django__django-16263,Kimi K2.5,False,0.73027716
+django__django-16315,Kimi K2.5,True,0.12158939399999998
+django__django-16333,Kimi K2.5,True,0.05802747000000001
+django__django-16429,Kimi K2.5,True,0.04673025599999999
+django__django-16454,Kimi K2.5,False,0.13919109999999996
+django__django-16485,Kimi K2.5,True,0.05249700000000001
+django__django-16493,Kimi K2.5,True,0.168430296
+django__django-16502,Kimi K2.5,False,0.21888443400000002
+django__django-16527,Kimi K2.5,True,0.006599852
+django__django-16560,Kimi K2.5,False,0.204019536
+django__django-16569,Kimi K2.5,True,0.021571757999999996
+django__django-16595,Kimi K2.5,True,0.10276368000000005
+django__django-16612,Kimi K2.5,True,0.10570591
+django__django-16631,Kimi K2.5,False,0.08884573200000001
+django__django-16642,Kimi K2.5,True,0.06973750000000001
+django__django-16661,Kimi K2.5,True,0.128163252
+django__django-16662,Kimi K2.5,True,0.053453200000000006
+django__django-16667,Kimi K2.5,False,0.08549884
+django__django-16801,Kimi K2.5,True,0.13865228800000004
+django__django-16819,Kimi K2.5,True,0.26369590000000004
+django__django-16877,Kimi K2.5,True,0.07338413
+django__django-16899,Kimi K2.5,True,0.1315640460000001
+django__django-16901,Kimi K2.5,True,0.09919346600000001
+django__django-16938,Kimi K2.5,True,0.21020852799999998
+django__django-16950,Kimi K2.5,True,0.424593628
+django__django-17029,Kimi K2.5,True,0.06819389000000001
+django__django-17084,Kimi K2.5,True,0.20536192000000006
+django__django-17087,Kimi K2.5,True,0.10993211
+django__django-7530,Kimi K2.5,True,0.05414690000000001
+django__django-9296,Kimi K2.5,True,0.030677319999999998
+matplotlib__matplotlib-13989,Kimi K2.5,True,0.04235282
+matplotlib__matplotlib-14623,Kimi K2.5,True,0.12837167600000002
+matplotlib__matplotlib-20488,Kimi K2.5,True,0.22252974
+matplotlib__matplotlib-20676,Kimi K2.5,True,0.13591407000000003
+matplotlib__matplotlib-20826,Kimi K2.5,False,0.27014473
+matplotlib__matplotlib-20859,Kimi K2.5,True,0.039745960000000004
+matplotlib__matplotlib-21568,Kimi K2.5,False,0.6343955599999999
+matplotlib__matplotlib-22719,Kimi K2.5,True,0.08361346799999998
+matplotlib__matplotlib-22865,Kimi K2.5,True,0.16968543
+matplotlib__matplotlib-22871,Kimi K2.5,False,0.07300575599999998
+matplotlib__matplotlib-23299,Kimi K2.5,False,0.31090298
+matplotlib__matplotlib-23314,Kimi K2.5,True,0.10043919000000001
+matplotlib__matplotlib-23412,Kimi K2.5,True,0.33841557999999994
+matplotlib__matplotlib-23476,Kimi K2.5,False,0.18156822
+matplotlib__matplotlib-24026,Kimi K2.5,True,0.06125232600000001
+matplotlib__matplotlib-24149,Kimi K2.5,False,0.15604940000000003
+matplotlib__matplotlib-24177,Kimi K2.5,True,0.15743741999999994
+matplotlib__matplotlib-24570,Kimi K2.5,False,0.15357763999999996
+matplotlib__matplotlib-24627,Kimi K2.5,True,0.15175044000000001
+matplotlib__matplotlib-24637,Kimi K2.5,True,0.14916129
+matplotlib__matplotlib-24870,Kimi K2.5,False,0.13368053000000002
+matplotlib__matplotlib-24970,Kimi K2.5,True,0.06129373
+matplotlib__matplotlib-25122,Kimi K2.5,True,0.01665342
+matplotlib__matplotlib-25287,Kimi K2.5,True,0.048810400000000004
+matplotlib__matplotlib-25311,Kimi K2.5,True,0.08643255999999998
+matplotlib__matplotlib-25332,Kimi K2.5,False,0.14680655200000003
+matplotlib__matplotlib-25479,Kimi K2.5,False,0.08831703799999999
+matplotlib__matplotlib-25775,Kimi K2.5,True,0.27623098
+matplotlib__matplotlib-25960,Kimi K2.5,True,0.196468174
+matplotlib__matplotlib-26113,Kimi K2.5,True,0.05265598
+matplotlib__matplotlib-26208,Kimi K2.5,False,0.40577019999999997
+matplotlib__matplotlib-26291,Kimi K2.5,False,0.12017109000000001
+matplotlib__matplotlib-26342,Kimi K2.5,True,0.07899792999999998
+matplotlib__matplotlib-26466,Kimi K2.5,False,0.15744300399999997
+mwaskom__seaborn-3069,Kimi K2.5,True,0.27391865199999993
+mwaskom__seaborn-3187,Kimi K2.5,False,0.08262860799999999
+pallets__flask-5014,Kimi K2.5,True,0.043319086
+psf__requests-1142,Kimi K2.5,True,0.08583408999999999
+psf__requests-1724,Kimi K2.5,True,0.1362942
+psf__requests-1766,Kimi K2.5,True,0.023846946
+psf__requests-1921,Kimi K2.5,True,0.06062679999999999
+psf__requests-2317,Kimi K2.5,True,0.029134220000000002
+psf__requests-2931,Kimi K2.5,False,0.05836198000000001
+psf__requests-5414,Kimi K2.5,False,0.06338174
+psf__requests-6028,Kimi K2.5,False,0.25050225000000004
+pydata__xarray-2905,Kimi K2.5,True,0.07389774599999997
+pydata__xarray-3095,Kimi K2.5,True,0.10239233000000003
+pydata__xarray-3151,Kimi K2.5,True,0.09907500000000001
+pydata__xarray-3305,Kimi K2.5,True,0.15573928999999995
+pydata__xarray-3677,Kimi K2.5,True,0.07657726
+pydata__xarray-3993,Kimi K2.5,True,0.07595461
+pydata__xarray-4075,Kimi K2.5,True,0.04689046799999999
+pydata__xarray-4094,Kimi K2.5,True,0.10568343999999998
+pydata__xarray-4356,Kimi K2.5,True,0.14745130000000004
+pydata__xarray-4629,Kimi K2.5,True,0.02264841
+pydata__xarray-4687,Kimi K2.5,False,0.13416505
+pydata__xarray-4695,Kimi K2.5,True,0.09978041399999997
+pydata__xarray-4966,Kimi K2.5,True,0.06095725
+pydata__xarray-6461,Kimi K2.5,True,0.048100380000000005
+pydata__xarray-6599,Kimi K2.5,False,0.21927597
+pydata__xarray-6721,Kimi K2.5,True,0.12977643999999997
+pydata__xarray-6744,Kimi K2.5,True,0.10554911000000002
+pydata__xarray-6938,Kimi K2.5,False,0.31549619999999995
+pydata__xarray-6992,Kimi K2.5,False,0.11960277
+pydata__xarray-7229,Kimi K2.5,False,0.10485003000000001
+pydata__xarray-7233,Kimi K2.5,True,0.13683293
+pydata__xarray-7393,Kimi K2.5,True,0.288236718
+pylint-dev__pylint-4551,Kimi K2.5,False,0.32782989200000007
+pylint-dev__pylint-4604,Kimi K2.5,False,0.2145919699999999
+pylint-dev__pylint-4661,Kimi K2.5,False,0.14501956
+pylint-dev__pylint-4970,Kimi K2.5,False,0.23714629000000004
+pylint-dev__pylint-6386,Kimi K2.5,False,0.1777878
+pylint-dev__pylint-6528,Kimi K2.5,False,0.4683956800000001
+pylint-dev__pylint-6903,Kimi K2.5,True,0.056336750000000005
+pylint-dev__pylint-7080,Kimi K2.5,False,0.27936725999999995
+pylint-dev__pylint-7277,Kimi K2.5,False,0.053605653999999996
+pylint-dev__pylint-8898,Kimi K2.5,False,0.27087121000000003
+pytest-dev__pytest-10051,Kimi K2.5,True,0.09429450000000004
+pytest-dev__pytest-10081,Kimi K2.5,True,0.074690144
+pytest-dev__pytest-10356,Kimi K2.5,False,0.15348633000000003
+pytest-dev__pytest-5262,Kimi K2.5,True,0.040090626000000004
+pytest-dev__pytest-5631,Kimi K2.5,True,0.07055602000000001
+pytest-dev__pytest-5787,Kimi K2.5,False,0.15863221000000002
+pytest-dev__pytest-5809,Kimi K2.5,True,0.00963289
+pytest-dev__pytest-5840,Kimi K2.5,False,0.08636178199999998
+pytest-dev__pytest-6197,Kimi K2.5,False,0.278569642
+pytest-dev__pytest-6202,Kimi K2.5,True,0.04005753
+pytest-dev__pytest-7205,Kimi K2.5,True,0.073426574
+pytest-dev__pytest-7236,Kimi K2.5,False,0.15156460199999996
+pytest-dev__pytest-7324,Kimi K2.5,False,0.14646249000000006
+pytest-dev__pytest-7432,Kimi K2.5,True,0.073449704
+pytest-dev__pytest-7490,Kimi K2.5,False,0.07965581000000002
+pytest-dev__pytest-7521,Kimi K2.5,False,0.05941630199999999
+pytest-dev__pytest-7571,Kimi K2.5,True,0.10350123800000001
+pytest-dev__pytest-7982,Kimi K2.5,True,0.13733487999999996
+pytest-dev__pytest-8399,Kimi K2.5,True,0.15230895
+scikit-learn__scikit-learn-10297,Kimi K2.5,True,0.04985069
+scikit-learn__scikit-learn-10844,Kimi K2.5,True,0.04098603000000001
+scikit-learn__scikit-learn-10908,Kimi K2.5,True,0.12703773599999998
+scikit-learn__scikit-learn-11310,Kimi K2.5,True,0.17347549999999998
+scikit-learn__scikit-learn-11578,Kimi K2.5,True,0.05308928000000001
+scikit-learn__scikit-learn-12585,Kimi K2.5,True,0.03865946
+scikit-learn__scikit-learn-12682,Kimi K2.5,True,0.136447802
+scikit-learn__scikit-learn-12973,Kimi K2.5,True,0.03893102
+scikit-learn__scikit-learn-13124,Kimi K2.5,False,0.11713819999999998
+scikit-learn__scikit-learn-13135,Kimi K2.5,True,0.03552591
+scikit-learn__scikit-learn-13142,Kimi K2.5,True,0.15205886600000004
+scikit-learn__scikit-learn-13328,Kimi K2.5,True,0.070226052
+scikit-learn__scikit-learn-13439,Kimi K2.5,True,0.05819364999999999
+scikit-learn__scikit-learn-13496,Kimi K2.5,True,0.10283627000000001
+scikit-learn__scikit-learn-13779,Kimi K2.5,True,0.04814710999999999
+scikit-learn__scikit-learn-14053,Kimi K2.5,True,0.11311705200000002
+scikit-learn__scikit-learn-14087,Kimi K2.5,False,0.38048283000000005
+scikit-learn__scikit-learn-14141,Kimi K2.5,True,0.013525609999999999
+scikit-learn__scikit-learn-14496,Kimi K2.5,True,0.025287630000000005
+scikit-learn__scikit-learn-14629,Kimi K2.5,True,0.09930616999999999
+scikit-learn__scikit-learn-14710,Kimi K2.5,True,0.09172297000000001
+scikit-learn__scikit-learn-14894,Kimi K2.5,True,0.07224914
+scikit-learn__scikit-learn-14983,Kimi K2.5,True,0.11098354000000002
+scikit-learn__scikit-learn-15100,Kimi K2.5,True,0.045604309999999995
+scikit-learn__scikit-learn-25102,Kimi K2.5,True,0.10093538
+scikit-learn__scikit-learn-25232,Kimi K2.5,True,0.09838034999999996
+scikit-learn__scikit-learn-25747,Kimi K2.5,False,0.11378005999999997
+scikit-learn__scikit-learn-25931,Kimi K2.5,True,0.28194425000000006
+scikit-learn__scikit-learn-25973,Kimi K2.5,True,0.16456362000000002
+scikit-learn__scikit-learn-26194,Kimi K2.5,False,0.09573402999999998
+scikit-learn__scikit-learn-26323,Kimi K2.5,True,0.06505504999999999
+scikit-learn__scikit-learn-9288,Kimi K2.5,True,0.17427573
+sphinx-doc__sphinx-10323,Kimi K2.5,True,0.07934087800000002
+sphinx-doc__sphinx-10435,Kimi K2.5,False,0.10547041999999997
+sphinx-doc__sphinx-10449,Kimi K2.5,True,0.14543517599999997
+sphinx-doc__sphinx-10466,Kimi K2.5,True,0.06471322
+sphinx-doc__sphinx-10614,Kimi K2.5,False,0.29375619999999997
+sphinx-doc__sphinx-10673,Kimi K2.5,True,0.337287774
+sphinx-doc__sphinx-11445,Kimi K2.5,True,0.15682620000000003
+sphinx-doc__sphinx-11510,Kimi K2.5,False,0.4267328639999999
+sphinx-doc__sphinx-7440,Kimi K2.5,True,0.23424708200000005
+sphinx-doc__sphinx-7454,Kimi K2.5,True,0.42451525999999995
+sphinx-doc__sphinx-7462,Kimi K2.5,False,0.05253317600000001
+sphinx-doc__sphinx-7590,Kimi K2.5,False,0.24900447
+sphinx-doc__sphinx-7748,Kimi K2.5,False,0.19628842600000002
+sphinx-doc__sphinx-7757,Kimi K2.5,True,0.04445685
+sphinx-doc__sphinx-7889,Kimi K2.5,True,0.031602530000000004
+sphinx-doc__sphinx-7910,Kimi K2.5,True,0.06656878000000001
+sphinx-doc__sphinx-7985,Kimi K2.5,False,0.15743568
+sphinx-doc__sphinx-8035,Kimi K2.5,True,0.18820412
+sphinx-doc__sphinx-8056,Kimi K2.5,True,0.19337406999999993
+sphinx-doc__sphinx-8120,Kimi K2.5,True,0.197958414
+sphinx-doc__sphinx-8265,Kimi K2.5,False,0.07138945000000001
+sphinx-doc__sphinx-8269,Kimi K2.5,True,0.04300682000000001
+sphinx-doc__sphinx-8459,Kimi K2.5,True,0.183378312
+sphinx-doc__sphinx-8475,Kimi K2.5,True,0.04521574999999999
+sphinx-doc__sphinx-8548,Kimi K2.5,True,0.47114124999999996
+sphinx-doc__sphinx-8551,Kimi K2.5,True,0.1234201
+sphinx-doc__sphinx-8593,Kimi K2.5,True,0.29311879999999996
+sphinx-doc__sphinx-8595,Kimi K2.5,True,0.04105294999999999
+sphinx-doc__sphinx-8621,Kimi K2.5,True,0.15258327
+sphinx-doc__sphinx-8638,Kimi K2.5,False,0.3875894
+sphinx-doc__sphinx-8721,Kimi K2.5,True,0.032863364
+sphinx-doc__sphinx-9229,Kimi K2.5,False,1.7145589020000003
+sphinx-doc__sphinx-9230,Kimi K2.5,True,0.198155076
+sphinx-doc__sphinx-9258,Kimi K2.5,True,0.17806405800000005
+sphinx-doc__sphinx-9281,Kimi K2.5,False,0.15083323000000007
+sphinx-doc__sphinx-9320,Kimi K2.5,True,0.044256074
+sphinx-doc__sphinx-9367,Kimi K2.5,True,0.0506146
+sphinx-doc__sphinx-9461,Kimi K2.5,False,0.3716238260000001
+sphinx-doc__sphinx-9591,Kimi K2.5,True,0.0826427
+sphinx-doc__sphinx-9602,Kimi K2.5,False,0.18795185000000006
+sphinx-doc__sphinx-9658,Kimi K2.5,True,0.27793077999999993
+sphinx-doc__sphinx-9673,Kimi K2.5,True,0.11411499999999998
+sphinx-doc__sphinx-9698,Kimi K2.5,True,0.038436734
+sphinx-doc__sphinx-9711,Kimi K2.5,True,0.03438535
+sympy__sympy-11618,Kimi K2.5,True,0.08191947000000001
+sympy__sympy-12096,Kimi K2.5,True,0.088145262
+sympy__sympy-12419,Kimi K2.5,True,0.43713671000000015
+sympy__sympy-12481,Kimi K2.5,True,0.09291579000000003
+sympy__sympy-12489,Kimi K2.5,False,0.18354311200000006
+sympy__sympy-13031,Kimi K2.5,False,0.3177509560000001
+sympy__sympy-13091,Kimi K2.5,True,0.17764346000000003
+sympy__sympy-13372,Kimi K2.5,True,0.032148630000000004
+sympy__sympy-13480,Kimi K2.5,True,0.01451875
+sympy__sympy-13551,Kimi K2.5,True,0.13555781
+sympy__sympy-13615,Kimi K2.5,False,0.11577054999999996
+sympy__sympy-13647,Kimi K2.5,True,0.081576508
+sympy__sympy-13757,Kimi K2.5,True,0.10115958999999998
+sympy__sympy-13798,Kimi K2.5,False,0.10895711999999999
+sympy__sympy-13852,Kimi K2.5,False,0.10033271
+sympy__sympy-13877,Kimi K2.5,False,0.077099774
+sympy__sympy-13878,Kimi K2.5,True,0.35644439000000006
+sympy__sympy-13974,Kimi K2.5,False,0.15042488799999998
+sympy__sympy-14248,Kimi K2.5,False,0.5398387999999998
+sympy__sympy-14531,Kimi K2.5,True,0.16267244000000003
+sympy__sympy-14711,Kimi K2.5,True,0.03810504
+sympy__sympy-14976,Kimi K2.5,False,0.12039320999999999
+sympy__sympy-15017,Kimi K2.5,True,0.047608
+sympy__sympy-15345,Kimi K2.5,True,0.19796500999999997
+sympy__sympy-15349,Kimi K2.5,True,0.058628179999999995
+sympy__sympy-15599,Kimi K2.5,False,1.0994337979999995
+sympy__sympy-15809,Kimi K2.5,True,0.08172080000000001
+sympy__sympy-15875,Kimi K2.5,True,0.076890112
+sympy__sympy-15976,Kimi K2.5,True,0.060302389999999984
+sympy__sympy-16450,Kimi K2.5,True,0.05218548600000002
+sympy__sympy-16597,Kimi K2.5,False,0.3807765199999999
+sympy__sympy-16766,Kimi K2.5,True,0.046145636000000004
+sympy__sympy-16792,Kimi K2.5,True,0.523022332
+sympy__sympy-16886,Kimi K2.5,True,0.01947562
+sympy__sympy-17139,Kimi K2.5,True,0.044809372
+sympy__sympy-17318,Kimi K2.5,False,0.09727851000000003
+sympy__sympy-17630,Kimi K2.5,False,0.08430458199999999
+sympy__sympy-17655,Kimi K2.5,True,0.13915664999999997
+sympy__sympy-18189,Kimi K2.5,True,0.06993572
+sympy__sympy-18199,Kimi K2.5,False,0.09661217999999999
+sympy__sympy-18211,Kimi K2.5,True,0.17208663999999999
+sympy__sympy-18698,Kimi K2.5,True,0.2863716799999999
+sympy__sympy-18763,Kimi K2.5,False,0.04436577399999999
+sympy__sympy-19040,Kimi K2.5,True,1.2998350379999997
+sympy__sympy-19346,Kimi K2.5,True,0.04481085
+sympy__sympy-19495,Kimi K2.5,False,0.23672832200000002
+sympy__sympy-19637,Kimi K2.5,True,0.022284529999999993
+sympy__sympy-19783,Kimi K2.5,True,0.230461442
+sympy__sympy-19954,Kimi K2.5,True,0.038092553999999994
+sympy__sympy-20154,Kimi K2.5,True,0.04216674200000001
+sympy__sympy-20428,Kimi K2.5,False,0.15627068000000002
+sympy__sympy-20438,Kimi K2.5,False,0.053622182
+sympy__sympy-20590,Kimi K2.5,True,0.04402683
+sympy__sympy-20801,Kimi K2.5,True,0.07686134
+sympy__sympy-20916,Kimi K2.5,False,0.13495220000000002
+sympy__sympy-21379,Kimi K2.5,False,0.12310360000000004
+sympy__sympy-21596,Kimi K2.5,False,0.2733611899999999
+sympy__sympy-21612,Kimi K2.5,False,0.2772990299999999
+sympy__sympy-21847,Kimi K2.5,True,0.059220680000000005
+sympy__sympy-21930,Kimi K2.5,False,0.06598878000000001
+sympy__sympy-22080,Kimi K2.5,False,0.41739293000000016
+sympy__sympy-22456,Kimi K2.5,True,0.3601850460000001
+sympy__sympy-22714,Kimi K2.5,True,0.049149438000000004
+sympy__sympy-22914,Kimi K2.5,True,0.17103137000000002
+sympy__sympy-23262,Kimi K2.5,True,0.09016449000000001
+sympy__sympy-23413,Kimi K2.5,True,0.280275796
+sympy__sympy-23534,Kimi K2.5,True,0.02464641
+sympy__sympy-23824,Kimi K2.5,True,0.030080779999999994
+sympy__sympy-23950,Kimi K2.5,False,0.23805933999999995
+sympy__sympy-24066,Kimi K2.5,True,0.102614628
+sympy__sympy-24213,Kimi K2.5,True,0.03640304
+sympy__sympy-24443,Kimi K2.5,True,0.11365979000000001
+sympy__sympy-24539,Kimi K2.5,True,0.03190005
+sympy__sympy-24562,Kimi K2.5,True,0.13214488
+sympy__sympy-24661,Kimi K2.5,True,0.06384577999999999
+astropy__astropy-12907,Claude Opus 4.5,True,0.7220905000000003
+astropy__astropy-13033,Claude Opus 4.5,True,0.9606260000000003
+astropy__astropy-13236,Claude Opus 4.5,False,0.6501449999999999
+astropy__astropy-13398,Claude Opus 4.5,False,2.0428815
+astropy__astropy-13453,Claude Opus 4.5,True,1.1097202499999999
+astropy__astropy-13579,Claude Opus 4.5,True,1.1030327500000001
+astropy__astropy-13977,Claude Opus 4.5,True,1.0037147499999999
+astropy__astropy-14096,Claude Opus 4.5,True,0.47836424999999994
+astropy__astropy-14182,Claude Opus 4.5,True,0.8921457499999998
+astropy__astropy-14309,Claude Opus 4.5,True,0.59190325
+astropy__astropy-14365,Claude Opus 4.5,False,0.48384975
+astropy__astropy-14369,Claude Opus 4.5,False,1.070297
+astropy__astropy-14508,Claude Opus 4.5,True,1.0986740000000002
+astropy__astropy-14539,Claude Opus 4.5,True,0.36909575
+astropy__astropy-14598,Claude Opus 4.5,False,1.975697
+astropy__astropy-14995,Claude Opus 4.5,True,0.76757025
+astropy__astropy-7166,Claude Opus 4.5,True,0.5363747499999999
+astropy__astropy-7336,Claude Opus 4.5,True,0.33071375000000003
+astropy__astropy-7606,Claude Opus 4.5,False,0.34843850000000004
+astropy__astropy-7671,Claude Opus 4.5,True,0.34150575000000005
+astropy__astropy-8707,Claude Opus 4.5,False,0.9053564999999999
+astropy__astropy-8872,Claude Opus 4.5,False,0.44746925000000004
+django__django-10097,Claude Opus 4.5,False,0.5032437500000001
+django__django-10554,Claude Opus 4.5,False,3.0067362499999994
+django__django-10880,Claude Opus 4.5,True,0.25666750000000005
+django__django-10914,Claude Opus 4.5,True,0.23708950000000004
+django__django-10973,Claude Opus 4.5,True,0.35289799999999993
+django__django-10999,Claude Opus 4.5,False,0.26457800000000004
+django__django-11066,Claude Opus 4.5,True,0.13550075
+django__django-11087,Claude Opus 4.5,False,1.1720412500000001
+django__django-11095,Claude Opus 4.5,True,0.27924124999999994
+django__django-11099,Claude Opus 4.5,True,0.16861975
+django__django-11119,Claude Opus 4.5,True,0.3105855
+django__django-11133,Claude Opus 4.5,True,0.4375455
+django__django-11138,Claude Opus 4.5,True,2.51898325
+django__django-11141,Claude Opus 4.5,False,0.7449500000000001
+django__django-11149,Claude Opus 4.5,True,0.78522475
+django__django-11163,Claude Opus 4.5,True,0.33412850000000005
+django__django-11179,Claude Opus 4.5,True,0.27440025
+django__django-11206,Claude Opus 4.5,True,0.67510225
+django__django-11211,Claude Opus 4.5,True,0.78567125
+django__django-11239,Claude Opus 4.5,True,0.37520125
+django__django-11265,Claude Opus 4.5,False,3.0444769999999997
+django__django-11276,Claude Opus 4.5,True,0.362058
+django__django-11292,Claude Opus 4.5,True,0.7271829999999999
+django__django-11299,Claude Opus 4.5,True,0.472642
+django__django-11333,Claude Opus 4.5,True,0.4924909999999999
+django__django-11400,Claude Opus 4.5,False,0.490628
+django__django-11433,Claude Opus 4.5,True,0.6047502499999998
+django__django-11451,Claude Opus 4.5,True,0.3074255000000001
+django__django-11477,Claude Opus 4.5,False,0.56268075
+django__django-11490,Claude Opus 4.5,True,1.12946275
+django__django-11532,Claude Opus 4.5,True,0.5817630000000003
+django__django-11551,Claude Opus 4.5,True,0.47148349999999994
+django__django-11555,Claude Opus 4.5,True,1.3928155000000004
+django__django-11603,Claude Opus 4.5,True,0.2068115
+django__django-11728,Claude Opus 4.5,True,0.50969125
+django__django-11734,Claude Opus 4.5,False,3.0804792500000007
+django__django-11740,Claude Opus 4.5,True,0.7046975000000001
+django__django-11749,Claude Opus 4.5,True,0.8986622499999999
+django__django-11790,Claude Opus 4.5,True,0.43973125
+django__django-11815,Claude Opus 4.5,False,0.39185575
+django__django-11820,Claude Opus 4.5,False,0.8254580000000001
+django__django-11848,Claude Opus 4.5,True,0.39159425000000003
+django__django-11880,Claude Opus 4.5,True,0.4424479999999999
+django__django-11885,Claude Opus 4.5,False,1.252522
+django__django-11951,Claude Opus 4.5,True,0.19880175000000003
+django__django-11964,Claude Opus 4.5,True,0.7663809999999999
+django__django-11999,Claude Opus 4.5,True,0.5101935
+django__django-12039,Claude Opus 4.5,True,0.5866887500000001
+django__django-12050,Claude Opus 4.5,True,0.36204549999999996
+django__django-12125,Claude Opus 4.5,True,0.6843847500000001
+django__django-12143,Claude Opus 4.5,True,0.274693
+django__django-12155,Claude Opus 4.5,True,0.32807925000000004
+django__django-12193,Claude Opus 4.5,True,0.49013249999999997
+django__django-12209,Claude Opus 4.5,True,2.15621875
+django__django-12262,Claude Opus 4.5,True,0.49217125
+django__django-12273,Claude Opus 4.5,False,1.0936735
+django__django-12276,Claude Opus 4.5,True,0.368368
+django__django-12304,Claude Opus 4.5,True,0.43964099999999995
+django__django-12308,Claude Opus 4.5,False,0.558421
+django__django-12325,Claude Opus 4.5,False,0.5275055
+django__django-12406,Claude Opus 4.5,True,1.1666555
+django__django-12419,Claude Opus 4.5,True,0.19643275000000004
+django__django-12663,Claude Opus 4.5,False,2.65580875
+django__django-12708,Claude Opus 4.5,True,1.4776419999999995
+django__django-12713,Claude Opus 4.5,True,0.22236324999999998
+django__django-12741,Claude Opus 4.5,True,0.23261524999999997
+django__django-12754,Claude Opus 4.5,True,0.97913025
+django__django-12774,Claude Opus 4.5,True,0.5436235000000001
+django__django-12858,Claude Opus 4.5,True,0.5211742500000001
+django__django-12965,Claude Opus 4.5,True,1.6671077500000002
+django__django-13012,Claude Opus 4.5,True,0.5400895
+django__django-13023,Claude Opus 4.5,True,0.35879725
+django__django-13028,Claude Opus 4.5,True,0.34109349999999994
+django__django-13033,Claude Opus 4.5,True,0.8710625
+django__django-13089,Claude Opus 4.5,True,0.3178607500000001
+django__django-13109,Claude Opus 4.5,True,0.502982
+django__django-13112,Claude Opus 4.5,True,1.6776604999999996
+django__django-13121,Claude Opus 4.5,True,0.8594707500000001
+django__django-13128,Claude Opus 4.5,True,0.50296525
+django__django-13158,Claude Opus 4.5,True,0.6857517499999999
+django__django-13195,Claude Opus 4.5,False,0.56714975
+django__django-13212,Claude Opus 4.5,False,1.15413075
+django__django-13279,Claude Opus 4.5,True,0.70047575
+django__django-13297,Claude Opus 4.5,True,1.23396125
+django__django-13315,Claude Opus 4.5,True,1.0666642499999994
+django__django-13343,Claude Opus 4.5,True,0.4964152500000001
+django__django-13344,Claude Opus 4.5,False,3.021320250000001
+django__django-13346,Claude Opus 4.5,True,0.6813569999999999
+django__django-13363,Claude Opus 4.5,True,0.28853650000000003
+django__django-13401,Claude Opus 4.5,True,0.3804965
+django__django-13406,Claude Opus 4.5,True,0.9120190000000001
+django__django-13410,Claude Opus 4.5,True,0.19207625
+django__django-13417,Claude Opus 4.5,True,0.614945
+django__django-13449,Claude Opus 4.5,True,1.2079714999999998
+django__django-13512,Claude Opus 4.5,False,0.28552475
+django__django-13513,Claude Opus 4.5,False,0.6887842499999999
+django__django-13516,Claude Opus 4.5,True,0.40773925
+django__django-13551,Claude Opus 4.5,True,0.538651
+django__django-13568,Claude Opus 4.5,True,0.5703002500000001
+django__django-13569,Claude Opus 4.5,True,1.0321310000000001
+django__django-13590,Claude Opus 4.5,True,0.51475225
+django__django-13658,Claude Opus 4.5,True,0.24174974999999999
+django__django-13670,Claude Opus 4.5,True,0.34572224999999995
+django__django-13741,Claude Opus 4.5,True,0.4745040000000001
+django__django-13786,Claude Opus 4.5,True,0.4137897500000001
+django__django-13794,Claude Opus 4.5,False,0.6389697499999999
+django__django-13807,Claude Opus 4.5,True,0.47070325
+django__django-13809,Claude Opus 4.5,True,0.6103257500000001
+django__django-13810,Claude Opus 4.5,True,1.51998675
+django__django-13820,Claude Opus 4.5,True,0.412154
+django__django-13821,Claude Opus 4.5,True,0.32969450000000006
+django__django-13837,Claude Opus 4.5,True,0.58137125
+django__django-13925,Claude Opus 4.5,False,1.11031425
+django__django-13933,Claude Opus 4.5,True,0.4599442499999999
+django__django-13964,Claude Opus 4.5,True,1.25228325
+django__django-14007,Claude Opus 4.5,True,1.07047275
+django__django-14011,Claude Opus 4.5,False,0.5217315
+django__django-14017,Claude Opus 4.5,True,0.7762682499999999
+django__django-14034,Claude Opus 4.5,False,1.5663232499999997
+django__django-14053,Claude Opus 4.5,False,0.7950679999999999
+django__django-14089,Claude Opus 4.5,True,0.18404124999999996
+django__django-14122,Claude Opus 4.5,True,0.8715297500000002
+django__django-14140,Claude Opus 4.5,False,0.42718675
+django__django-14155,Claude Opus 4.5,False,0.45588425000000016
+django__django-14170,Claude Opus 4.5,False,0.7355740000000003
+django__django-14238,Claude Opus 4.5,True,0.40105899999999994
+django__django-14311,Claude Opus 4.5,True,0.51949275
+django__django-14315,Claude Opus 4.5,False,0.35116775
+django__django-14349,Claude Opus 4.5,True,0.40619199999999994
+django__django-14351,Claude Opus 4.5,True,2.463750000000001
+django__django-14373,Claude Opus 4.5,True,0.26562975000000005
+django__django-14376,Claude Opus 4.5,True,0.22750250000000002
+django__django-14404,Claude Opus 4.5,False,0.33978125
+django__django-14434,Claude Opus 4.5,True,0.8006215000000001
+django__django-14493,Claude Opus 4.5,True,0.3177372500000001
+django__django-14500,Claude Opus 4.5,True,0.8667540000000001
+django__django-14534,Claude Opus 4.5,True,0.6826472499999999
+django__django-14539,Claude Opus 4.5,True,0.40530349999999987
+django__django-14559,Claude Opus 4.5,True,0.3466160000000001
+django__django-14580,Claude Opus 4.5,True,0.41643925000000004
+django__django-14608,Claude Opus 4.5,True,0.4553412500000001
+django__django-14631,Claude Opus 4.5,True,1.5378084999999997
+django__django-14672,Claude Opus 4.5,True,0.48105275
+django__django-14725,Claude Opus 4.5,False,1.4308805000000002
+django__django-14752,Claude Opus 4.5,True,0.2112605
+django__django-14765,Claude Opus 4.5,True,0.3526985000000001
+django__django-14771,Claude Opus 4.5,True,0.38428524999999997
+django__django-14787,Claude Opus 4.5,True,0.31848975000000007
+django__django-14792,Claude Opus 4.5,False,0.85717
+django__django-14855,Claude Opus 4.5,True,0.52660775
+django__django-14915,Claude Opus 4.5,True,0.31253575
+django__django-14999,Claude Opus 4.5,True,0.7910997500000001
+django__django-15022,Claude Opus 4.5,False,1.4636022500000003
+django__django-15037,Claude Opus 4.5,True,0.6685047499999998
+django__django-15098,Claude Opus 4.5,False,1.4337145
+django__django-15103,Claude Opus 4.5,True,0.40581500000000004
+django__django-15104,Claude Opus 4.5,True,0.20620175000000002
+django__django-15127,Claude Opus 4.5,True,0.48241524999999996
+django__django-15128,Claude Opus 4.5,True,1.21801325
+django__django-15161,Claude Opus 4.5,True,1.5311172500000003
+django__django-15252,Claude Opus 4.5,False,0.7765070000000002
+django__django-15268,Claude Opus 4.5,True,0.801368
+django__django-15277,Claude Opus 4.5,True,0.3383705000000001
+django__django-15278,Claude Opus 4.5,True,0.6195930000000001
+django__django-15280,Claude Opus 4.5,True,1.74209225
+django__django-15315,Claude Opus 4.5,True,0.467156
+django__django-15368,Claude Opus 4.5,True,0.355273
+django__django-15375,Claude Opus 4.5,True,0.5804139999999999
+django__django-15380,Claude Opus 4.5,True,0.6344405
+django__django-15382,Claude Opus 4.5,True,1.1034002499999997
+django__django-15467,Claude Opus 4.5,True,0.31120700000000007
+django__django-15499,Claude Opus 4.5,True,0.48371200000000003
+django__django-15503,Claude Opus 4.5,True,1.6184030000000003
+django__django-15525,Claude Opus 4.5,True,0.5870759999999999
+django__django-15554,Claude Opus 4.5,False,3.021954499999999
+django__django-15561,Claude Opus 4.5,True,0.5853992499999998
+django__django-15563,Claude Opus 4.5,False,1.21825725
+django__django-15569,Claude Opus 4.5,True,0.2140725
+django__django-15572,Claude Opus 4.5,True,0.33424275
+django__django-15629,Claude Opus 4.5,False,0.8529687499999999
+django__django-15695,Claude Opus 4.5,True,0.55695175
+django__django-15731,Claude Opus 4.5,True,0.22768700000000003
+django__django-15732,Claude Opus 4.5,False,0.7540275000000001
+django__django-15741,Claude Opus 4.5,True,0.5702170000000001
+django__django-15814,Claude Opus 4.5,True,0.31126649999999995
+django__django-15851,Claude Opus 4.5,True,0.22333875
+django__django-15863,Claude Opus 4.5,True,0.36086775
+django__django-15916,Claude Opus 4.5,True,0.77822775
+django__django-15930,Claude Opus 4.5,True,0.5924577499999998
+django__django-15957,Claude Opus 4.5,False,2.26733025
+django__django-15973,Claude Opus 4.5,False,2.1131032499999995
+django__django-15987,Claude Opus 4.5,True,0.38124474999999997
+django__django-16032,Claude Opus 4.5,True,2.4320394999999992
+django__django-16082,Claude Opus 4.5,True,0.534647
+django__django-16100,Claude Opus 4.5,True,0.37885375000000004
+django__django-16116,Claude Opus 4.5,True,0.5329265000000001
+django__django-16136,Claude Opus 4.5,True,0.4292055
+django__django-16139,Claude Opus 4.5,True,0.28852099999999997
+django__django-16145,Claude Opus 4.5,True,0.53370525
+django__django-16255,Claude Opus 4.5,True,0.19994375
+django__django-16256,Claude Opus 4.5,False,0.8542182500000001
+django__django-16263,Claude Opus 4.5,False,3.0129354999999998
+django__django-16315,Claude Opus 4.5,True,0.902346
+django__django-16333,Claude Opus 4.5,True,0.4228180000000001
+django__django-16429,Claude Opus 4.5,True,0.26023
+django__django-16454,Claude Opus 4.5,False,0.7745645000000002
+django__django-16485,Claude Opus 4.5,True,0.34991574999999997
+django__django-16493,Claude Opus 4.5,True,0.41784100000000013
+django__django-16502,Claude Opus 4.5,False,0.58926625
+django__django-16527,Claude Opus 4.5,True,0.14774650000000003
+django__django-16560,Claude Opus 4.5,False,1.0615444999999997
+django__django-16569,Claude Opus 4.5,True,0.2300565
+django__django-16595,Claude Opus 4.5,True,0.46560075
+django__django-16612,Claude Opus 4.5,True,0.4167295
+django__django-16631,Claude Opus 4.5,False,0.9849022500000001
+django__django-16642,Claude Opus 4.5,True,0.3973630000000001
+django__django-16661,Claude Opus 4.5,True,0.50953775
+django__django-16662,Claude Opus 4.5,True,0.4498837500000001
+django__django-16667,Claude Opus 4.5,False,0.45716000000000007
+django__django-16801,Claude Opus 4.5,True,0.5661742500000002
+django__django-16819,Claude Opus 4.5,True,1.00142075
+django__django-16877,Claude Opus 4.5,True,0.25536175
+django__django-16899,Claude Opus 4.5,True,0.38176425
+django__django-16901,Claude Opus 4.5,True,0.68234275
+django__django-16938,Claude Opus 4.5,True,0.5316489999999999
+django__django-16950,Claude Opus 4.5,True,1.6799435000000003
+django__django-17029,Claude Opus 4.5,True,0.24453075000000007
+django__django-17084,Claude Opus 4.5,True,0.7833122500000002
+django__django-17087,Claude Opus 4.5,True,0.4252105
+django__django-7530,Claude Opus 4.5,True,0.49524549999999995
+django__django-9296,Claude Opus 4.5,True,0.25588175
+matplotlib__matplotlib-13989,Claude Opus 4.5,True,0.39830350000000003
+matplotlib__matplotlib-14623,Claude Opus 4.5,True,1.9538082499999998
+matplotlib__matplotlib-20488,Claude Opus 4.5,True,0.7602780000000001
+matplotlib__matplotlib-20676,Claude Opus 4.5,False,0.493676
+matplotlib__matplotlib-20826,Claude Opus 4.5,True,1.3130624999999998
+matplotlib__matplotlib-20859,Claude Opus 4.5,True,0.18788525
+matplotlib__matplotlib-21568,Claude Opus 4.5,False,0.9957185000000001
+matplotlib__matplotlib-22719,Claude Opus 4.5,True,0.34387075000000006
+matplotlib__matplotlib-22865,Claude Opus 4.5,True,0.7620830000000001
+matplotlib__matplotlib-22871,Claude Opus 4.5,True,0.6242602500000002
+matplotlib__matplotlib-23299,Claude Opus 4.5,False,1.257282
+matplotlib__matplotlib-23314,Claude Opus 4.5,True,0.43076
+matplotlib__matplotlib-23412,Claude Opus 4.5,True,0.5524870000000001
+matplotlib__matplotlib-23476,Claude Opus 4.5,False,0.6710609999999998
+matplotlib__matplotlib-24026,Claude Opus 4.5,True,0.3710534999999999
+matplotlib__matplotlib-24149,Claude Opus 4.5,True,0.48603525
+matplotlib__matplotlib-24177,Claude Opus 4.5,True,0.7806015000000002
+matplotlib__matplotlib-24570,Claude Opus 4.5,True,0.44461675000000006
+matplotlib__matplotlib-24627,Claude Opus 4.5,True,1.50476025
+matplotlib__matplotlib-24637,Claude Opus 4.5,True,0.6206342499999999
+matplotlib__matplotlib-24870,Claude Opus 4.5,False,1.0722630000000002
+matplotlib__matplotlib-24970,Claude Opus 4.5,True,0.48653174999999993
+matplotlib__matplotlib-25122,Claude Opus 4.5,True,0.28106624999999996
+matplotlib__matplotlib-25287,Claude Opus 4.5,True,0.3396725
+matplotlib__matplotlib-25311,Claude Opus 4.5,False,2.5502830000000003
+matplotlib__matplotlib-25332,Claude Opus 4.5,True,0.5598110000000001
+matplotlib__matplotlib-25479,Claude Opus 4.5,False,0.83705725
+matplotlib__matplotlib-25775,Claude Opus 4.5,True,2.12508475
+matplotlib__matplotlib-25960,Claude Opus 4.5,True,0.7917292499999999
+matplotlib__matplotlib-26113,Claude Opus 4.5,True,0.49427375000000007
+matplotlib__matplotlib-26208,Claude Opus 4.5,False,2.36976275
+matplotlib__matplotlib-26291,Claude Opus 4.5,True,0.70900875
+matplotlib__matplotlib-26342,Claude Opus 4.5,True,0.6631107500000001
+matplotlib__matplotlib-26466,Claude Opus 4.5,False,0.9783170000000001
+mwaskom__seaborn-3069,Claude Opus 4.5,True,1.2976962499999996
+mwaskom__seaborn-3187,Claude Opus 4.5,False,1.0416684999999999
+pallets__flask-5014,Claude Opus 4.5,True,0.32184725000000003
+psf__requests-1142,Claude Opus 4.5,True,0.29191199999999995
+psf__requests-1724,Claude Opus 4.5,True,0.34454675000000007
+psf__requests-1766,Claude Opus 4.5,True,0.2361475
+psf__requests-1921,Claude Opus 4.5,True,0.8498187500000001
+psf__requests-2317,Claude Opus 4.5,True,0.28359075
+psf__requests-2931,Claude Opus 4.5,True,0.5550087499999999
+psf__requests-5414,Claude Opus 4.5,False,0.66822775
+psf__requests-6028,Claude Opus 4.5,True,1.4221585000000003
+pydata__xarray-2905,Claude Opus 4.5,True,1.0284354999999998
+pydata__xarray-3095,Claude Opus 4.5,True,0.5258845000000002
+pydata__xarray-3151,Claude Opus 4.5,True,0.3489255
+pydata__xarray-3305,Claude Opus 4.5,True,0.536497
+pydata__xarray-3677,Claude Opus 4.5,True,0.4753715
+pydata__xarray-3993,Claude Opus 4.5,True,0.4119097500000001
+pydata__xarray-4075,Claude Opus 4.5,True,0.48185124999999995
+pydata__xarray-4094,Claude Opus 4.5,True,0.7739705
+pydata__xarray-4356,Claude Opus 4.5,True,0.8506492500000001
+pydata__xarray-4629,Claude Opus 4.5,True,0.20920300000000003
+pydata__xarray-4687,Claude Opus 4.5,False,1.3214177500000002
+pydata__xarray-4695,Claude Opus 4.5,True,0.5764929999999998
+pydata__xarray-4966,Claude Opus 4.5,True,0.7993047499999999
+pydata__xarray-6461,Claude Opus 4.5,True,0.55017075
+pydata__xarray-6599,Claude Opus 4.5,False,2.261735500000001
+pydata__xarray-6721,Claude Opus 4.5,True,0.9513554999999998
+pydata__xarray-6744,Claude Opus 4.5,True,0.7047027499999999
+pydata__xarray-6938,Claude Opus 4.5,True,0.9372542500000003
+pydata__xarray-6992,Claude Opus 4.5,False,0.557315
+pydata__xarray-7229,Claude Opus 4.5,False,1.51541075
+pydata__xarray-7233,Claude Opus 4.5,True,0.5065299999999999
+pydata__xarray-7393,Claude Opus 4.5,True,1.1088317500000004
+pylint-dev__pylint-4551,Claude Opus 4.5,False,1.0117795
+pylint-dev__pylint-4604,Claude Opus 4.5,False,1.1499980000000003
+pylint-dev__pylint-4661,Claude Opus 4.5,False,0.29839975
+pylint-dev__pylint-4970,Claude Opus 4.5,True,1.10511925
+pylint-dev__pylint-6386,Claude Opus 4.5,False,0.4971995000000001
+pylint-dev__pylint-6528,Claude Opus 4.5,False,1.5003552499999997
+pylint-dev__pylint-6903,Claude Opus 4.5,True,0.28983925
+pylint-dev__pylint-7080,Claude Opus 4.5,False,1.2685015
+pylint-dev__pylint-7277,Claude Opus 4.5,False,0.3362124999999999
+pylint-dev__pylint-8898,Claude Opus 4.5,False,0.627183
+pytest-dev__pytest-10051,Claude Opus 4.5,True,0.49367300000000003
+pytest-dev__pytest-10081,Claude Opus 4.5,True,0.5562462499999999
+pytest-dev__pytest-10356,Claude Opus 4.5,False,0.63836575
+pytest-dev__pytest-5262,Claude Opus 4.5,True,0.40030999999999994
+pytest-dev__pytest-5631,Claude Opus 4.5,True,0.26000825
+pytest-dev__pytest-5787,Claude Opus 4.5,False,1.3664795
+pytest-dev__pytest-5809,Claude Opus 4.5,True,0.11461175000000001
+pytest-dev__pytest-5840,Claude Opus 4.5,False,0.6231960000000002
+pytest-dev__pytest-6197,Claude Opus 4.5,True,2.4604300000000006
+pytest-dev__pytest-6202,Claude Opus 4.5,True,0.46373500000000006
+pytest-dev__pytest-7205,Claude Opus 4.5,True,0.35793874999999997
+pytest-dev__pytest-7236,Claude Opus 4.5,True,1.0841987499999999
+pytest-dev__pytest-7324,Claude Opus 4.5,True,0.39793175000000003
+pytest-dev__pytest-7432,Claude Opus 4.5,True,0.41767325000000005
+pytest-dev__pytest-7490,Claude Opus 4.5,True,0.883284
+pytest-dev__pytest-7521,Claude Opus 4.5,True,0.5695539999999999
+pytest-dev__pytest-7571,Claude Opus 4.5,True,0.62842275
+pytest-dev__pytest-7982,Claude Opus 4.5,True,0.24809575000000006
+pytest-dev__pytest-8399,Claude Opus 4.5,True,0.24930950000000002
+scikit-learn__scikit-learn-10297,Claude Opus 4.5,True,0.5006039999999999
+scikit-learn__scikit-learn-10844,Claude Opus 4.5,True,0.40327125
+scikit-learn__scikit-learn-10908,Claude Opus 4.5,True,0.6526037500000001
+scikit-learn__scikit-learn-11310,Claude Opus 4.5,True,0.9468139999999998
+scikit-learn__scikit-learn-11578,Claude Opus 4.5,True,0.6645187499999999
+scikit-learn__scikit-learn-12585,Claude Opus 4.5,True,0.24682075000000003
+scikit-learn__scikit-learn-12682,Claude Opus 4.5,True,0.9893254999999999
+scikit-learn__scikit-learn-12973,Claude Opus 4.5,True,0.30730225
+scikit-learn__scikit-learn-13124,Claude Opus 4.5,True,0.75437275
+scikit-learn__scikit-learn-13135,Claude Opus 4.5,True,0.41406625
+scikit-learn__scikit-learn-13142,Claude Opus 4.5,True,0.636486
+scikit-learn__scikit-learn-13328,Claude Opus 4.5,True,0.3847932499999999
+scikit-learn__scikit-learn-13439,Claude Opus 4.5,True,0.26534174999999993
+scikit-learn__scikit-learn-13496,Claude Opus 4.5,True,0.45327325
+scikit-learn__scikit-learn-13779,Claude Opus 4.5,True,0.563938
+scikit-learn__scikit-learn-14053,Claude Opus 4.5,True,0.46366450000000003
+scikit-learn__scikit-learn-14087,Claude Opus 4.5,True,0.9269039999999998
+scikit-learn__scikit-learn-14141,Claude Opus 4.5,True,0.18698525000000002
+scikit-learn__scikit-learn-14496,Claude Opus 4.5,True,0.3219534999999999
+scikit-learn__scikit-learn-14629,Claude Opus 4.5,True,0.6376710000000001
+scikit-learn__scikit-learn-14710,Claude Opus 4.5,True,0.46025425000000003
+scikit-learn__scikit-learn-14894,Claude Opus 4.5,True,0.54005525
+scikit-learn__scikit-learn-14983,Claude Opus 4.5,True,0.5751435
+scikit-learn__scikit-learn-15100,Claude Opus 4.5,True,0.23992725
+scikit-learn__scikit-learn-25102,Claude Opus 4.5,True,0.7923197499999999
+scikit-learn__scikit-learn-25232,Claude Opus 4.5,True,0.8404945
+scikit-learn__scikit-learn-25747,Claude Opus 4.5,False,0.75112225
+scikit-learn__scikit-learn-25931,Claude Opus 4.5,True,0.9424905000000001
+scikit-learn__scikit-learn-25973,Claude Opus 4.5,True,1.1044295
+scikit-learn__scikit-learn-26194,Claude Opus 4.5,True,0.4968905
+scikit-learn__scikit-learn-26323,Claude Opus 4.5,True,0.5421687500000001
+scikit-learn__scikit-learn-9288,Claude Opus 4.5,True,0.66906675
+sphinx-doc__sphinx-10323,Claude Opus 4.5,True,0.56440275
+sphinx-doc__sphinx-10435,Claude Opus 4.5,False,2.9490647500000002
+sphinx-doc__sphinx-10449,Claude Opus 4.5,True,0.73229025
+sphinx-doc__sphinx-10466,Claude Opus 4.5,True,0.38078524999999996
+sphinx-doc__sphinx-10614,Claude Opus 4.5,False,1.8948392500000009
+sphinx-doc__sphinx-10673,Claude Opus 4.5,True,0.9126477499999996
+sphinx-doc__sphinx-11445,Claude Opus 4.5,True,0.710654
+sphinx-doc__sphinx-11510,Claude Opus 4.5,False,2.556229500000001
+sphinx-doc__sphinx-7440,Claude Opus 4.5,True,2.0043855
+sphinx-doc__sphinx-7454,Claude Opus 4.5,True,1.4629622500000001
+sphinx-doc__sphinx-7462,Claude Opus 4.5,False,0.4050215000000001
+sphinx-doc__sphinx-7590,Claude Opus 4.5,False,1.3166585000000004
+sphinx-doc__sphinx-7748,Claude Opus 4.5,False,1.7575662499999998
+sphinx-doc__sphinx-7757,Claude Opus 4.5,True,0.68028575
+sphinx-doc__sphinx-7889,Claude Opus 4.5,True,0.29491900000000004
+sphinx-doc__sphinx-7910,Claude Opus 4.5,True,0.67093325
+sphinx-doc__sphinx-7985,Claude Opus 4.5,False,1.06355425
+sphinx-doc__sphinx-8035,Claude Opus 4.5,True,0.8673259999999999
+sphinx-doc__sphinx-8056,Claude Opus 4.5,True,0.5779225
+sphinx-doc__sphinx-8120,Claude Opus 4.5,True,0.6292504999999999
+sphinx-doc__sphinx-8265,Claude Opus 4.5,True,0.5949720000000002
+sphinx-doc__sphinx-8269,Claude Opus 4.5,True,0.3705572500000001
+sphinx-doc__sphinx-8459,Claude Opus 4.5,True,0.8911627500000002
+sphinx-doc__sphinx-8475,Claude Opus 4.5,True,0.27406
+sphinx-doc__sphinx-8548,Claude Opus 4.5,False,1.3295940000000002
+sphinx-doc__sphinx-8551,Claude Opus 4.5,True,0.88132575
+sphinx-doc__sphinx-8593,Claude Opus 4.5,True,1.0665254999999998
+sphinx-doc__sphinx-8595,Claude Opus 4.5,True,0.3155465
+sphinx-doc__sphinx-8621,Claude Opus 4.5,True,0.61958325
+sphinx-doc__sphinx-8638,Claude Opus 4.5,True,0.969639
+sphinx-doc__sphinx-8721,Claude Opus 4.5,True,0.590321
+sphinx-doc__sphinx-9229,Claude Opus 4.5,False,3.0092634999999994
+sphinx-doc__sphinx-9230,Claude Opus 4.5,True,0.91750175
+sphinx-doc__sphinx-9258,Claude Opus 4.5,True,0.49421925000000005
+sphinx-doc__sphinx-9281,Claude Opus 4.5,True,0.8060577499999999
+sphinx-doc__sphinx-9320,Claude Opus 4.5,True,0.47814025000000004
+sphinx-doc__sphinx-9367,Claude Opus 4.5,True,0.21858725000000004
+sphinx-doc__sphinx-9461,Claude Opus 4.5,False,2.0901877500000006
+sphinx-doc__sphinx-9591,Claude Opus 4.5,True,0.622863
+sphinx-doc__sphinx-9602,Claude Opus 4.5,False,1.4384077499999997
+sphinx-doc__sphinx-9658,Claude Opus 4.5,True,0.612799
+sphinx-doc__sphinx-9673,Claude Opus 4.5,True,0.7061852500000002
+sphinx-doc__sphinx-9698,Claude Opus 4.5,True,0.30893725
+sphinx-doc__sphinx-9711,Claude Opus 4.5,True,0.27974250000000006
+sympy__sympy-11618,Claude Opus 4.5,True,0.35969399999999996
+sympy__sympy-12096,Claude Opus 4.5,True,1.12467625
+sympy__sympy-12419,Claude Opus 4.5,True,1.05404625
+sympy__sympy-12481,Claude Opus 4.5,True,0.7184807500000001
+sympy__sympy-12489,Claude Opus 4.5,True,1.26512025
+sympy__sympy-13031,Claude Opus 4.5,False,0.9861197500000003
+sympy__sympy-13091,Claude Opus 4.5,True,0.9232650000000001
+sympy__sympy-13372,Claude Opus 4.5,True,0.5355290000000001
+sympy__sympy-13480,Claude Opus 4.5,True,0.29167275000000004
+sympy__sympy-13551,Claude Opus 4.5,True,1.12520475
+sympy__sympy-13615,Claude Opus 4.5,True,1.4159175
+sympy__sympy-13647,Claude Opus 4.5,True,0.37347500000000006
+sympy__sympy-13757,Claude Opus 4.5,True,0.6622647499999998
+sympy__sympy-13798,Claude Opus 4.5,False,0.4857739999999999
+sympy__sympy-13852,Claude Opus 4.5,False,0.9054267499999998
+sympy__sympy-13877,Claude Opus 4.5,False,0.3803575
+sympy__sympy-13878,Claude Opus 4.5,True,2.13057125
+sympy__sympy-13974,Claude Opus 4.5,False,0.9281432499999998
+sympy__sympy-14248,Claude Opus 4.5,False,2.5034057499999998
+sympy__sympy-14531,Claude Opus 4.5,True,1.2862044999999998
+sympy__sympy-14711,Claude Opus 4.5,True,0.31157025
+sympy__sympy-14976,Claude Opus 4.5,False,1.1149932500000002
+sympy__sympy-15017,Claude Opus 4.5,True,0.37187875
+sympy__sympy-15345,Claude Opus 4.5,True,0.4361987500000001
+sympy__sympy-15349,Claude Opus 4.5,True,0.5058284999999999
+sympy__sympy-15599,Claude Opus 4.5,False,2.495301
+sympy__sympy-15809,Claude Opus 4.5,True,0.42214675000000007
+sympy__sympy-15875,Claude Opus 4.5,False,0.7191745000000002
+sympy__sympy-15976,Claude Opus 4.5,True,0.6209122499999999
+sympy__sympy-16450,Claude Opus 4.5,True,0.44892325
+sympy__sympy-16597,Claude Opus 4.5,False,0.9020425000000001
+sympy__sympy-16766,Claude Opus 4.5,True,0.51113125
+sympy__sympy-16792,Claude Opus 4.5,True,0.69637675
+sympy__sympy-16886,Claude Opus 4.5,True,0.21447549999999996
+sympy__sympy-17139,Claude Opus 4.5,True,0.29690874999999994
+sympy__sympy-17318,Claude Opus 4.5,False,0.5055115
+sympy__sympy-17630,Claude Opus 4.5,False,0.7717844999999999
+sympy__sympy-17655,Claude Opus 4.5,True,0.5638437499999999
+sympy__sympy-18189,Claude Opus 4.5,True,0.39305475
+sympy__sympy-18199,Claude Opus 4.5,False,0.7085257499999997
+sympy__sympy-18211,Claude Opus 4.5,True,0.5465462500000002
+sympy__sympy-18698,Claude Opus 4.5,True,0.9316769999999999
+sympy__sympy-18763,Claude Opus 4.5,False,0.63129175
+sympy__sympy-19040,Claude Opus 4.5,True,1.7379962500000008
+sympy__sympy-19346,Claude Opus 4.5,True,0.3252205000000001
+sympy__sympy-19495,Claude Opus 4.5,False,1.15812075
+sympy__sympy-19637,Claude Opus 4.5,True,0.30822549999999993
+sympy__sympy-19783,Claude Opus 4.5,True,0.9070925000000001
+sympy__sympy-19954,Claude Opus 4.5,True,0.29976175
+sympy__sympy-20154,Claude Opus 4.5,True,0.43726774999999996
+sympy__sympy-20428,Claude Opus 4.5,False,1.2863827500000002
+sympy__sympy-20438,Claude Opus 4.5,False,1.5733622499999995
+sympy__sympy-20590,Claude Opus 4.5,True,0.33936575
+sympy__sympy-20801,Claude Opus 4.5,True,0.29443325000000004
+sympy__sympy-20916,Claude Opus 4.5,True,0.7521542500000001
+sympy__sympy-21379,Claude Opus 4.5,True,0.73347725
+sympy__sympy-21596,Claude Opus 4.5,False,1.0026482500000002
+sympy__sympy-21612,Claude Opus 4.5,True,0.9293705000000002
+sympy__sympy-21847,Claude Opus 4.5,True,0.3873505
+sympy__sympy-21930,Claude Opus 4.5,False,0.7807549999999999
+sympy__sympy-22080,Claude Opus 4.5,False,0.9856275000000002
+sympy__sympy-22456,Claude Opus 4.5,True,0.36638350000000003
+sympy__sympy-22714,Claude Opus 4.5,True,0.31055949999999993
+sympy__sympy-22914,Claude Opus 4.5,True,0.44116874999999994
+sympy__sympy-23262,Claude Opus 4.5,True,0.6956104999999999
+sympy__sympy-23413,Claude Opus 4.5,True,1.3863294999999998
+sympy__sympy-23534,Claude Opus 4.5,True,0.37956974999999993
+sympy__sympy-23824,Claude Opus 4.5,True,0.33781
+sympy__sympy-23950,Claude Opus 4.5,False,0.7429692499999999
+sympy__sympy-24066,Claude Opus 4.5,True,0.3891175
+sympy__sympy-24213,Claude Opus 4.5,True,0.34517775000000006
+sympy__sympy-24443,Claude Opus 4.5,True,0.5338229999999999
+sympy__sympy-24539,Claude Opus 4.5,True,0.23927449999999997
+sympy__sympy-24562,Claude Opus 4.5,True,0.5466682499999999
+sympy__sympy-24661,Claude Opus 4.5,True,0.5685840000000001
+astropy__astropy-12907,Gemini 3.5 Flash,True,
+astropy__astropy-13033,Gemini 3.5 Flash,False,
+astropy__astropy-13236,Gemini 3.5 Flash,True,
+astropy__astropy-13398,Gemini 3.5 Flash,False,
+astropy__astropy-13453,Gemini 3.5 Flash,True,
+astropy__astropy-13579,Gemini 3.5 Flash,True,
+astropy__astropy-13977,Gemini 3.5 Flash,True,
+astropy__astropy-14096,Gemini 3.5 Flash,True,
+astropy__astropy-14182,Gemini 3.5 Flash,True,
+astropy__astropy-14309,Gemini 3.5 Flash,True,
+astropy__astropy-14365,Gemini 3.5 Flash,True,
+astropy__astropy-14369,Gemini 3.5 Flash,False,
+astropy__astropy-14508,Gemini 3.5 Flash,True,
+astropy__astropy-14539,Gemini 3.5 Flash,True,
+astropy__astropy-14598,Gemini 3.5 Flash,False,
+astropy__astropy-14995,Gemini 3.5 Flash,True,
+astropy__astropy-7166,Gemini 3.5 Flash,True,
+astropy__astropy-7336,Gemini 3.5 Flash,True,
+astropy__astropy-7606,Gemini 3.5 Flash,True,
+astropy__astropy-7671,Gemini 3.5 Flash,True,
+astropy__astropy-8707,Gemini 3.5 Flash,True,
+astropy__astropy-8872,Gemini 3.5 Flash,True,
+django__django-10097,Gemini 3.5 Flash,True,
+django__django-10554,Gemini 3.5 Flash,False,
+django__django-10880,Gemini 3.5 Flash,True,
+django__django-10914,Gemini 3.5 Flash,True,
+django__django-10973,Gemini 3.5 Flash,False,
+django__django-10999,Gemini 3.5 Flash,False,
+django__django-11066,Gemini 3.5 Flash,True,
+django__django-11087,Gemini 3.5 Flash,False,
+django__django-11095,Gemini 3.5 Flash,True,
+django__django-11099,Gemini 3.5 Flash,True,
+django__django-11119,Gemini 3.5 Flash,True,
+django__django-11133,Gemini 3.5 Flash,True,
+django__django-11138,Gemini 3.5 Flash,True,
+django__django-11141,Gemini 3.5 Flash,True,
+django__django-11149,Gemini 3.5 Flash,True,
+django__django-11163,Gemini 3.5 Flash,True,
+django__django-11179,Gemini 3.5 Flash,True,
+django__django-11206,Gemini 3.5 Flash,True,
+django__django-11211,Gemini 3.5 Flash,True,
+django__django-11239,Gemini 3.5 Flash,True,
+django__django-11265,Gemini 3.5 Flash,True,
+django__django-11276,Gemini 3.5 Flash,True,
+django__django-11292,Gemini 3.5 Flash,True,
+django__django-11299,Gemini 3.5 Flash,True,
+django__django-11333,Gemini 3.5 Flash,True,
+django__django-11400,Gemini 3.5 Flash,False,
+django__django-11433,Gemini 3.5 Flash,False,
+django__django-11451,Gemini 3.5 Flash,True,
+django__django-11477,Gemini 3.5 Flash,False,
+django__django-11490,Gemini 3.5 Flash,True,
+django__django-11532,Gemini 3.5 Flash,True,
+django__django-11551,Gemini 3.5 Flash,True,
+django__django-11555,Gemini 3.5 Flash,True,
+django__django-11603,Gemini 3.5 Flash,True,
+django__django-11728,Gemini 3.5 Flash,True,
+django__django-11734,Gemini 3.5 Flash,False,
+django__django-11740,Gemini 3.5 Flash,True,
+django__django-11749,Gemini 3.5 Flash,True,
+django__django-11790,Gemini 3.5 Flash,False,
+django__django-11815,Gemini 3.5 Flash,False,
+django__django-11820,Gemini 3.5 Flash,False,
+django__django-11848,Gemini 3.5 Flash,True,
+django__django-11880,Gemini 3.5 Flash,True,
+django__django-11885,Gemini 3.5 Flash,False,
+django__django-11951,Gemini 3.5 Flash,True,
+django__django-11964,Gemini 3.5 Flash,True,
+django__django-11999,Gemini 3.5 Flash,True,
+django__django-12039,Gemini 3.5 Flash,True,
+django__django-12050,Gemini 3.5 Flash,True,
+django__django-12125,Gemini 3.5 Flash,True,
+django__django-12143,Gemini 3.5 Flash,True,
+django__django-12155,Gemini 3.5 Flash,True,
+django__django-12193,Gemini 3.5 Flash,True,
+django__django-12209,Gemini 3.5 Flash,True,
+django__django-12262,Gemini 3.5 Flash,True,
+django__django-12273,Gemini 3.5 Flash,True,
+django__django-12276,Gemini 3.5 Flash,True,
+django__django-12304,Gemini 3.5 Flash,True,
+django__django-12308,Gemini 3.5 Flash,False,
+django__django-12325,Gemini 3.5 Flash,False,
+django__django-12406,Gemini 3.5 Flash,False,
+django__django-12419,Gemini 3.5 Flash,True,
+django__django-12663,Gemini 3.5 Flash,True,
+django__django-12708,Gemini 3.5 Flash,True,
+django__django-12713,Gemini 3.5 Flash,True,
+django__django-12741,Gemini 3.5 Flash,True,
+django__django-12754,Gemini 3.5 Flash,True,
+django__django-12774,Gemini 3.5 Flash,True,
+django__django-12858,Gemini 3.5 Flash,True,
+django__django-12965,Gemini 3.5 Flash,True,
+django__django-13012,Gemini 3.5 Flash,True,
+django__django-13023,Gemini 3.5 Flash,True,
+django__django-13028,Gemini 3.5 Flash,True,
+django__django-13033,Gemini 3.5 Flash,True,
+django__django-13089,Gemini 3.5 Flash,True,
+django__django-13109,Gemini 3.5 Flash,True,
+django__django-13112,Gemini 3.5 Flash,True,
+django__django-13121,Gemini 3.5 Flash,True,
+django__django-13128,Gemini 3.5 Flash,True,
+django__django-13158,Gemini 3.5 Flash,True,
+django__django-13195,Gemini 3.5 Flash,False,
+django__django-13212,Gemini 3.5 Flash,False,
+django__django-13279,Gemini 3.5 Flash,True,
+django__django-13297,Gemini 3.5 Flash,True,
+django__django-13315,Gemini 3.5 Flash,True,
+django__django-13343,Gemini 3.5 Flash,True,
+django__django-13344,Gemini 3.5 Flash,True,
+django__django-13346,Gemini 3.5 Flash,True,
+django__django-13363,Gemini 3.5 Flash,True,
+django__django-13401,Gemini 3.5 Flash,True,
+django__django-13406,Gemini 3.5 Flash,False,
+django__django-13410,Gemini 3.5 Flash,True,
+django__django-13417,Gemini 3.5 Flash,True,
+django__django-13449,Gemini 3.5 Flash,True,
+django__django-13512,Gemini 3.5 Flash,False,
+django__django-13513,Gemini 3.5 Flash,False,
+django__django-13516,Gemini 3.5 Flash,True,
+django__django-13551,Gemini 3.5 Flash,True,
+django__django-13568,Gemini 3.5 Flash,True,
+django__django-13569,Gemini 3.5 Flash,True,
+django__django-13590,Gemini 3.5 Flash,True,
+django__django-13658,Gemini 3.5 Flash,True,
+django__django-13670,Gemini 3.5 Flash,True,
+django__django-13741,Gemini 3.5 Flash,True,
+django__django-13786,Gemini 3.5 Flash,True,
+django__django-13794,Gemini 3.5 Flash,False,
+django__django-13807,Gemini 3.5 Flash,True,
+django__django-13809,Gemini 3.5 Flash,True,
+django__django-13810,Gemini 3.5 Flash,True,
+django__django-13820,Gemini 3.5 Flash,True,
+django__django-13821,Gemini 3.5 Flash,True,
+django__django-13837,Gemini 3.5 Flash,True,
+django__django-13925,Gemini 3.5 Flash,True,
+django__django-13933,Gemini 3.5 Flash,True,
+django__django-13964,Gemini 3.5 Flash,True,
+django__django-14007,Gemini 3.5 Flash,True,
+django__django-14011,Gemini 3.5 Flash,False,
+django__django-14017,Gemini 3.5 Flash,True,
+django__django-14034,Gemini 3.5 Flash,False,
+django__django-14053,Gemini 3.5 Flash,True,
+django__django-14089,Gemini 3.5 Flash,True,
+django__django-14122,Gemini 3.5 Flash,True,
+django__django-14140,Gemini 3.5 Flash,False,
+django__django-14155,Gemini 3.5 Flash,False,
+django__django-14170,Gemini 3.5 Flash,False,
+django__django-14238,Gemini 3.5 Flash,True,
+django__django-14311,Gemini 3.5 Flash,True,
+django__django-14315,Gemini 3.5 Flash,False,
+django__django-14349,Gemini 3.5 Flash,True,
+django__django-14351,Gemini 3.5 Flash,True,
+django__django-14373,Gemini 3.5 Flash,True,
+django__django-14376,Gemini 3.5 Flash,True,
+django__django-14404,Gemini 3.5 Flash,True,
+django__django-14434,Gemini 3.5 Flash,True,
+django__django-14493,Gemini 3.5 Flash,True,
+django__django-14500,Gemini 3.5 Flash,True,
+django__django-14534,Gemini 3.5 Flash,False,
+django__django-14539,Gemini 3.5 Flash,True,
+django__django-14559,Gemini 3.5 Flash,True,
+django__django-14580,Gemini 3.5 Flash,True,
+django__django-14608,Gemini 3.5 Flash,True,
+django__django-14631,Gemini 3.5 Flash,True,
+django__django-14672,Gemini 3.5 Flash,True,
+django__django-14725,Gemini 3.5 Flash,True,
+django__django-14752,Gemini 3.5 Flash,True,
+django__django-14765,Gemini 3.5 Flash,True,
+django__django-14771,Gemini 3.5 Flash,False,
+django__django-14787,Gemini 3.5 Flash,True,
+django__django-14792,Gemini 3.5 Flash,False,
+django__django-14855,Gemini 3.5 Flash,True,
+django__django-14915,Gemini 3.5 Flash,True,
+django__django-14999,Gemini 3.5 Flash,True,
+django__django-15022,Gemini 3.5 Flash,False,
+django__django-15037,Gemini 3.5 Flash,True,
+django__django-15098,Gemini 3.5 Flash,False,
+django__django-15103,Gemini 3.5 Flash,True,
+django__django-15104,Gemini 3.5 Flash,True,
+django__django-15127,Gemini 3.5 Flash,True,
+django__django-15128,Gemini 3.5 Flash,True,
+django__django-15161,Gemini 3.5 Flash,True,
+django__django-15252,Gemini 3.5 Flash,False,
+django__django-15268,Gemini 3.5 Flash,True,
+django__django-15277,Gemini 3.5 Flash,True,
+django__django-15278,Gemini 3.5 Flash,True,
+django__django-15280,Gemini 3.5 Flash,True,
+django__django-15315,Gemini 3.5 Flash,True,
+django__django-15368,Gemini 3.5 Flash,True,
+django__django-15375,Gemini 3.5 Flash,True,
+django__django-15380,Gemini 3.5 Flash,True,
+django__django-15382,Gemini 3.5 Flash,True,
+django__django-15467,Gemini 3.5 Flash,True,
+django__django-15499,Gemini 3.5 Flash,True,
+django__django-15503,Gemini 3.5 Flash,True,
+django__django-15525,Gemini 3.5 Flash,True,
+django__django-15554,Gemini 3.5 Flash,True,
+django__django-15561,Gemini 3.5 Flash,True,
+django__django-15563,Gemini 3.5 Flash,False,
+django__django-15569,Gemini 3.5 Flash,True,
+django__django-15572,Gemini 3.5 Flash,True,
+django__django-15629,Gemini 3.5 Flash,False,
+django__django-15695,Gemini 3.5 Flash,False,
+django__django-15731,Gemini 3.5 Flash,True,
+django__django-15732,Gemini 3.5 Flash,True,
+django__django-15741,Gemini 3.5 Flash,True,
+django__django-15814,Gemini 3.5 Flash,True,
+django__django-15851,Gemini 3.5 Flash,True,
+django__django-15863,Gemini 3.5 Flash,True,
+django__django-15916,Gemini 3.5 Flash,True,
+django__django-15930,Gemini 3.5 Flash,True,
+django__django-15957,Gemini 3.5 Flash,False,
+django__django-15973,Gemini 3.5 Flash,False,
+django__django-15987,Gemini 3.5 Flash,True,
+django__django-16032,Gemini 3.5 Flash,True,
+django__django-16082,Gemini 3.5 Flash,True,
+django__django-16100,Gemini 3.5 Flash,True,
+django__django-16116,Gemini 3.5 Flash,True,
+django__django-16136,Gemini 3.5 Flash,True,
+django__django-16139,Gemini 3.5 Flash,True,
+django__django-16145,Gemini 3.5 Flash,True,
+django__django-16255,Gemini 3.5 Flash,True,
+django__django-16256,Gemini 3.5 Flash,True,
+django__django-16263,Gemini 3.5 Flash,False,
+django__django-16315,Gemini 3.5 Flash,True,
+django__django-16333,Gemini 3.5 Flash,True,
+django__django-16429,Gemini 3.5 Flash,True,
+django__django-16454,Gemini 3.5 Flash,True,
+django__django-16485,Gemini 3.5 Flash,True,
+django__django-16493,Gemini 3.5 Flash,True,
+django__django-16502,Gemini 3.5 Flash,False,
+django__django-16527,Gemini 3.5 Flash,True,
+django__django-16560,Gemini 3.5 Flash,False,
+django__django-16569,Gemini 3.5 Flash,True,
+django__django-16595,Gemini 3.5 Flash,True,
+django__django-16612,Gemini 3.5 Flash,True,
+django__django-16631,Gemini 3.5 Flash,False,
+django__django-16642,Gemini 3.5 Flash,True,
+django__django-16661,Gemini 3.5 Flash,True,
+django__django-16662,Gemini 3.5 Flash,True,
+django__django-16667,Gemini 3.5 Flash,False,
+django__django-16801,Gemini 3.5 Flash,True,
+django__django-16819,Gemini 3.5 Flash,True,
+django__django-16877,Gemini 3.5 Flash,True,
+django__django-16899,Gemini 3.5 Flash,True,
+django__django-16901,Gemini 3.5 Flash,True,
+django__django-16938,Gemini 3.5 Flash,True,
+django__django-16950,Gemini 3.5 Flash,False,
+django__django-17029,Gemini 3.5 Flash,True,
+django__django-17084,Gemini 3.5 Flash,True,
+django__django-17087,Gemini 3.5 Flash,True,
+django__django-7530,Gemini 3.5 Flash,True,
+django__django-9296,Gemini 3.5 Flash,True,
+matplotlib__matplotlib-13989,Gemini 3.5 Flash,True,
+matplotlib__matplotlib-14623,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-20488,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-20676,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-20826,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-20859,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-21568,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-22719,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-22865,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-22871,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-23299,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-23314,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-23412,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-23476,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-24026,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-24149,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-24177,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-24570,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-24627,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-24637,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-24870,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-24970,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-25122,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-25287,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-25311,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-25332,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-25479,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-25775,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-25960,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-26113,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-26208,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-26291,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-26342,Gemini 3.5 Flash,False,
+matplotlib__matplotlib-26466,Gemini 3.5 Flash,False,
+mwaskom__seaborn-3069,Gemini 3.5 Flash,False,
+mwaskom__seaborn-3187,Gemini 3.5 Flash,False,
+pallets__flask-5014,Gemini 3.5 Flash,True,
+psf__requests-1142,Gemini 3.5 Flash,True,
+psf__requests-1724,Gemini 3.5 Flash,True,
+psf__requests-1766,Gemini 3.5 Flash,True,
+psf__requests-1921,Gemini 3.5 Flash,True,
+psf__requests-2317,Gemini 3.5 Flash,True,
+psf__requests-2931,Gemini 3.5 Flash,True,
+psf__requests-5414,Gemini 3.5 Flash,True,
+psf__requests-6028,Gemini 3.5 Flash,True,
+pydata__xarray-2905,Gemini 3.5 Flash,False,
+pydata__xarray-3095,Gemini 3.5 Flash,True,
+pydata__xarray-3151,Gemini 3.5 Flash,True,
+pydata__xarray-3305,Gemini 3.5 Flash,True,
+pydata__xarray-3677,Gemini 3.5 Flash,True,
+pydata__xarray-3993,Gemini 3.5 Flash,True,
+pydata__xarray-4075,Gemini 3.5 Flash,True,
+pydata__xarray-4094,Gemini 3.5 Flash,True,
+pydata__xarray-4356,Gemini 3.5 Flash,True,
+pydata__xarray-4629,Gemini 3.5 Flash,True,
+pydata__xarray-4687,Gemini 3.5 Flash,True,
+pydata__xarray-4695,Gemini 3.5 Flash,True,
+pydata__xarray-4966,Gemini 3.5 Flash,True,
+pydata__xarray-6461,Gemini 3.5 Flash,False,
+pydata__xarray-6599,Gemini 3.5 Flash,False,
+pydata__xarray-6721,Gemini 3.5 Flash,False,
+pydata__xarray-6744,Gemini 3.5 Flash,False,
+pydata__xarray-6938,Gemini 3.5 Flash,False,
+pydata__xarray-6992,Gemini 3.5 Flash,False,
+pydata__xarray-7229,Gemini 3.5 Flash,False,
+pydata__xarray-7233,Gemini 3.5 Flash,False,
+pydata__xarray-7393,Gemini 3.5 Flash,False,
+pylint-dev__pylint-4551,Gemini 3.5 Flash,False,
+pylint-dev__pylint-4604,Gemini 3.5 Flash,False,
+pylint-dev__pylint-4661,Gemini 3.5 Flash,False,
+pylint-dev__pylint-4970,Gemini 3.5 Flash,False,
+pylint-dev__pylint-6386,Gemini 3.5 Flash,False,
+pylint-dev__pylint-6528,Gemini 3.5 Flash,False,
+pylint-dev__pylint-6903,Gemini 3.5 Flash,False,
+pylint-dev__pylint-7080,Gemini 3.5 Flash,False,
+pylint-dev__pylint-7277,Gemini 3.5 Flash,False,
+pylint-dev__pylint-8898,Gemini 3.5 Flash,False,
+pytest-dev__pytest-10051,Gemini 3.5 Flash,True,
+pytest-dev__pytest-10081,Gemini 3.5 Flash,True,
+pytest-dev__pytest-10356,Gemini 3.5 Flash,False,
+pytest-dev__pytest-5262,Gemini 3.5 Flash,True,
+pytest-dev__pytest-5631,Gemini 3.5 Flash,True,
+pytest-dev__pytest-5787,Gemini 3.5 Flash,True,
+pytest-dev__pytest-5809,Gemini 3.5 Flash,True,
+pytest-dev__pytest-5840,Gemini 3.5 Flash,False,
+pytest-dev__pytest-6197,Gemini 3.5 Flash,True,
+pytest-dev__pytest-6202,Gemini 3.5 Flash,True,
+pytest-dev__pytest-7205,Gemini 3.5 Flash,False,
+pytest-dev__pytest-7236,Gemini 3.5 Flash,True,
+pytest-dev__pytest-7324,Gemini 3.5 Flash,True,
+pytest-dev__pytest-7432,Gemini 3.5 Flash,True,
+pytest-dev__pytest-7490,Gemini 3.5 Flash,True,
+pytest-dev__pytest-7521,Gemini 3.5 Flash,True,
+pytest-dev__pytest-7571,Gemini 3.5 Flash,True,
+pytest-dev__pytest-7982,Gemini 3.5 Flash,True,
+pytest-dev__pytest-8399,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-10297,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-10844,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-10908,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-11310,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-11578,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-12585,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-12682,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-12973,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-13124,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-13135,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-13142,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-13328,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-13439,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-13496,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-13779,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-14053,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-14087,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-14141,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-14496,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-14629,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-14710,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-14894,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-14983,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-15100,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-25102,Gemini 3.5 Flash,False,
+scikit-learn__scikit-learn-25232,Gemini 3.5 Flash,False,
+scikit-learn__scikit-learn-25747,Gemini 3.5 Flash,False,
+scikit-learn__scikit-learn-25931,Gemini 3.5 Flash,False,
+scikit-learn__scikit-learn-25973,Gemini 3.5 Flash,False,
+scikit-learn__scikit-learn-26194,Gemini 3.5 Flash,False,
+scikit-learn__scikit-learn-26323,Gemini 3.5 Flash,True,
+scikit-learn__scikit-learn-9288,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-10323,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-10435,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-10449,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-10466,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-10614,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-10673,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-11445,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-11510,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-7440,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-7454,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-7462,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-7590,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-7748,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-7757,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-7889,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-7910,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-7985,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8035,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8056,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8120,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8265,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-8269,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8459,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8475,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8548,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8551,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8593,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8595,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8621,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8638,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-8721,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-9229,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-9230,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-9258,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-9281,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-9320,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-9367,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-9461,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-9591,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-9602,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-9658,Gemini 3.5 Flash,False,
+sphinx-doc__sphinx-9673,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-9698,Gemini 3.5 Flash,True,
+sphinx-doc__sphinx-9711,Gemini 3.5 Flash,True,
+sympy__sympy-11618,Gemini 3.5 Flash,True,
+sympy__sympy-12096,Gemini 3.5 Flash,True,
+sympy__sympy-12419,Gemini 3.5 Flash,False,
+sympy__sympy-12481,Gemini 3.5 Flash,True,
+sympy__sympy-12489,Gemini 3.5 Flash,True,
+sympy__sympy-13031,Gemini 3.5 Flash,True,
+sympy__sympy-13091,Gemini 3.5 Flash,True,
+sympy__sympy-13372,Gemini 3.5 Flash,True,
+sympy__sympy-13480,Gemini 3.5 Flash,True,
+sympy__sympy-13551,Gemini 3.5 Flash,True,
+sympy__sympy-13615,Gemini 3.5 Flash,True,
+sympy__sympy-13647,Gemini 3.5 Flash,True,
+sympy__sympy-13757,Gemini 3.5 Flash,True,
+sympy__sympy-13798,Gemini 3.5 Flash,False,
+sympy__sympy-13852,Gemini 3.5 Flash,False,
+sympy__sympy-13877,Gemini 3.5 Flash,True,
+sympy__sympy-13878,Gemini 3.5 Flash,True,
+sympy__sympy-13974,Gemini 3.5 Flash,True,
+sympy__sympy-14248,Gemini 3.5 Flash,False,
+sympy__sympy-14531,Gemini 3.5 Flash,True,
+sympy__sympy-14711,Gemini 3.5 Flash,True,
+sympy__sympy-14976,Gemini 3.5 Flash,True,
+sympy__sympy-15017,Gemini 3.5 Flash,True,
+sympy__sympy-15345,Gemini 3.5 Flash,True,
+sympy__sympy-15349,Gemini 3.5 Flash,True,
+sympy__sympy-15599,Gemini 3.5 Flash,True,
+sympy__sympy-15809,Gemini 3.5 Flash,True,
+sympy__sympy-15875,Gemini 3.5 Flash,False,
+sympy__sympy-15976,Gemini 3.5 Flash,True,
+sympy__sympy-16450,Gemini 3.5 Flash,True,
+sympy__sympy-16597,Gemini 3.5 Flash,True,
+sympy__sympy-16766,Gemini 3.5 Flash,True,
+sympy__sympy-16792,Gemini 3.5 Flash,True,
+sympy__sympy-16886,Gemini 3.5 Flash,True,
+sympy__sympy-17139,Gemini 3.5 Flash,True,
+sympy__sympy-17318,Gemini 3.5 Flash,False,
+sympy__sympy-17630,Gemini 3.5 Flash,True,
+sympy__sympy-17655,Gemini 3.5 Flash,True,
+sympy__sympy-18189,Gemini 3.5 Flash,True,
+sympy__sympy-18199,Gemini 3.5 Flash,False,
+sympy__sympy-18211,Gemini 3.5 Flash,False,
+sympy__sympy-18698,Gemini 3.5 Flash,False,
+sympy__sympy-18763,Gemini 3.5 Flash,False,
+sympy__sympy-19040,Gemini 3.5 Flash,True,
+sympy__sympy-19346,Gemini 3.5 Flash,True,
+sympy__sympy-19495,Gemini 3.5 Flash,False,
+sympy__sympy-19637,Gemini 3.5 Flash,True,
+sympy__sympy-19783,Gemini 3.5 Flash,True,
+sympy__sympy-19954,Gemini 3.5 Flash,True,
+sympy__sympy-20154,Gemini 3.5 Flash,True,
+sympy__sympy-20428,Gemini 3.5 Flash,False,
+sympy__sympy-20438,Gemini 3.5 Flash,False,
+sympy__sympy-20590,Gemini 3.5 Flash,True,
+sympy__sympy-20801,Gemini 3.5 Flash,True,
+sympy__sympy-20916,Gemini 3.5 Flash,False,
+sympy__sympy-21379,Gemini 3.5 Flash,True,
+sympy__sympy-21596,Gemini 3.5 Flash,False,
+sympy__sympy-21612,Gemini 3.5 Flash,True,
+sympy__sympy-21847,Gemini 3.5 Flash,True,
+sympy__sympy-21930,Gemini 3.5 Flash,False,
+sympy__sympy-22080,Gemini 3.5 Flash,False,
+sympy__sympy-22456,Gemini 3.5 Flash,True,
+sympy__sympy-22714,Gemini 3.5 Flash,True,
+sympy__sympy-22914,Gemini 3.5 Flash,True,
+sympy__sympy-23262,Gemini 3.5 Flash,True,
+sympy__sympy-23413,Gemini 3.5 Flash,True,
+sympy__sympy-23534,Gemini 3.5 Flash,True,
+sympy__sympy-23824,Gemini 3.5 Flash,True,
+sympy__sympy-23950,Gemini 3.5 Flash,False,
+sympy__sympy-24066,Gemini 3.5 Flash,True,
+sympy__sympy-24213,Gemini 3.5 Flash,True,
+sympy__sympy-24443,Gemini 3.5 Flash,True,
+sympy__sympy-24539,Gemini 3.5 Flash,True,
+sympy__sympy-24562,Gemini 3.5 Flash,True,
+sympy__sympy-24661,Gemini 3.5 Flash,True,
+astropy__astropy-12907,Gemini 3 Flash,True,0.1859356
+astropy__astropy-13033,Gemini 3 Flash,False,0.17083605000000004
+astropy__astropy-13236,Gemini 3 Flash,False,0.6264919499999999
+astropy__astropy-13398,Gemini 3 Flash,False,0.3726437
+astropy__astropy-13453,Gemini 3 Flash,True,0.3119719999999999
+astropy__astropy-13579,Gemini 3 Flash,True,0.24736065000000002
+astropy__astropy-13977,Gemini 3 Flash,False,0.43267475000000005
+astropy__astropy-14096,Gemini 3 Flash,True,0.39150379999999996
+astropy__astropy-14182,Gemini 3 Flash,False,0.3024911
+astropy__astropy-14309,Gemini 3 Flash,True,0.4452511000000002
+astropy__astropy-14365,Gemini 3 Flash,True,0.28456745
+astropy__astropy-14369,Gemini 3 Flash,False,0.4178814499999998
+astropy__astropy-14508,Gemini 3 Flash,True,0.4108658000000001
+astropy__astropy-14539,Gemini 3 Flash,True,0.34169524999999995
+astropy__astropy-14598,Gemini 3 Flash,False,0.47145005
+astropy__astropy-14995,Gemini 3 Flash,True,0.25645004999999993
+astropy__astropy-7166,Gemini 3 Flash,True,0.25415134999999994
+astropy__astropy-7336,Gemini 3 Flash,True,0.28053295
+astropy__astropy-7606,Gemini 3 Flash,False,0.28210225
+astropy__astropy-7671,Gemini 3 Flash,True,0.24816055000000004
+astropy__astropy-8707,Gemini 3 Flash,False,0.5859378499999999
+astropy__astropy-8872,Gemini 3 Flash,False,0.30029865
+django__django-10097,Gemini 3 Flash,False,0.2340063
+django__django-10554,Gemini 3 Flash,False,0.5971568499999999
+django__django-10880,Gemini 3 Flash,True,0.25316295000000005
+django__django-10914,Gemini 3 Flash,True,0.3632210999999999
+django__django-10973,Gemini 3 Flash,True,0.18428645000000005
+django__django-10999,Gemini 3 Flash,False,0.23652184999999995
+django__django-11066,Gemini 3 Flash,True,0.22262710000000002
+django__django-11087,Gemini 3 Flash,False,0.4500271
+django__django-11095,Gemini 3 Flash,True,0.41576565
+django__django-11099,Gemini 3 Flash,True,0.1917173
+django__django-11119,Gemini 3 Flash,True,0.254126
+django__django-11133,Gemini 3 Flash,True,0.31098985
+django__django-11138,Gemini 3 Flash,True,0.5599796000000002
+django__django-11141,Gemini 3 Flash,True,0.5210670000000001
+django__django-11149,Gemini 3 Flash,True,0.23857270000000005
+django__django-11163,Gemini 3 Flash,True,0.2985259
+django__django-11179,Gemini 3 Flash,True,0.20671620000000004
+django__django-11206,Gemini 3 Flash,True,0.26926265
+django__django-11211,Gemini 3 Flash,True,0.49792375000000016
+django__django-11239,Gemini 3 Flash,True,0.18442985
+django__django-11265,Gemini 3 Flash,False,0.3355493499999999
+django__django-11276,Gemini 3 Flash,True,0.52335845
+django__django-11292,Gemini 3 Flash,True,0.3938129
+django__django-11299,Gemini 3 Flash,True,0.2807304499999999
+django__django-11333,Gemini 3 Flash,True,0.27993865000000007
+django__django-11400,Gemini 3 Flash,True,0.29799985
+django__django-11433,Gemini 3 Flash,False,0.4915722
+django__django-11451,Gemini 3 Flash,True,0.18603094999999997
+django__django-11477,Gemini 3 Flash,False,0.3206328
+django__django-11490,Gemini 3 Flash,True,0.38759754999999996
+django__django-11532,Gemini 3 Flash,True,0.26747294999999993
+django__django-11551,Gemini 3 Flash,True,0.23105644999999997
+django__django-11555,Gemini 3 Flash,True,0.33706889999999995
+django__django-11603,Gemini 3 Flash,True,0.21703789999999998
+django__django-11728,Gemini 3 Flash,True,0.19272260000000002
+django__django-11734,Gemini 3 Flash,False,0.43368924999999997
+django__django-11740,Gemini 3 Flash,True,0.2756503
+django__django-11749,Gemini 3 Flash,True,0.2079682
+django__django-11790,Gemini 3 Flash,False,0.27453714999999995
+django__django-11815,Gemini 3 Flash,False,0.3300765499999999
+django__django-11820,Gemini 3 Flash,False,0.15731494999999998
+django__django-11848,Gemini 3 Flash,True,0.21160339999999997
+django__django-11880,Gemini 3 Flash,True,0.23014324999999997
+django__django-11885,Gemini 3 Flash,True,0.5213461
+django__django-11951,Gemini 3 Flash,True,0.2814392500000001
+django__django-11964,Gemini 3 Flash,True,0.52428555
+django__django-11999,Gemini 3 Flash,True,0.42788424999999997
+django__django-12039,Gemini 3 Flash,True,0.18052315000000002
+django__django-12050,Gemini 3 Flash,True,0.21330034999999997
+django__django-12125,Gemini 3 Flash,True,0.47908504999999996
+django__django-12143,Gemini 3 Flash,True,0.34022905000000003
+django__django-12155,Gemini 3 Flash,True,0.19693125000000003
+django__django-12193,Gemini 3 Flash,True,0.3709026499999999
+django__django-12209,Gemini 3 Flash,True,0.43260599999999994
+django__django-12262,Gemini 3 Flash,True,0.16440519999999997
+django__django-12273,Gemini 3 Flash,False,0.48165559999999996
+django__django-12276,Gemini 3 Flash,True,0.3106215999999999
+django__django-12304,Gemini 3 Flash,True,0.29126275000000007
+django__django-12308,Gemini 3 Flash,False,0.32896180000000014
+django__django-12325,Gemini 3 Flash,False,0.35088099999999994
+django__django-12406,Gemini 3 Flash,False,0.34494240000000004
+django__django-12419,Gemini 3 Flash,True,0.4953166500000001
+django__django-12663,Gemini 3 Flash,True,0.678924
+django__django-12708,Gemini 3 Flash,True,0.39852155000000006
+django__django-12713,Gemini 3 Flash,True,0.23326669999999997
+django__django-12741,Gemini 3 Flash,True,0.32291205000000006
+django__django-12754,Gemini 3 Flash,True,0.42839064999999993
+django__django-12774,Gemini 3 Flash,True,0.4128086
+django__django-12858,Gemini 3 Flash,True,0.42683930000000014
+django__django-12965,Gemini 3 Flash,True,0.36526645
+django__django-13012,Gemini 3 Flash,True,0.34862754999999995
+django__django-13023,Gemini 3 Flash,True,0.47898139999999995
+django__django-13028,Gemini 3 Flash,True,0.3333135999999999
+django__django-13033,Gemini 3 Flash,True,0.2844737
+django__django-13089,Gemini 3 Flash,True,0.23474
+django__django-13109,Gemini 3 Flash,True,0.3826331000000001
+django__django-13112,Gemini 3 Flash,False,0.5926871499999999
+django__django-13121,Gemini 3 Flash,True,0.4976219
+django__django-13128,Gemini 3 Flash,True,0.2693078000000001
+django__django-13158,Gemini 3 Flash,True,0.3985515
+django__django-13195,Gemini 3 Flash,False,0.3273954999999999
+django__django-13212,Gemini 3 Flash,False,0.3187635999999999
+django__django-13279,Gemini 3 Flash,True,0.25583805000000004
+django__django-13297,Gemini 3 Flash,True,0.2699764
+django__django-13315,Gemini 3 Flash,True,0.38532440000000007
+django__django-13343,Gemini 3 Flash,True,0.19663390000000006
+django__django-13344,Gemini 3 Flash,False,0.34088675000000007
+django__django-13346,Gemini 3 Flash,True,0.34731709999999993
+django__django-13363,Gemini 3 Flash,True,0.26452715
+django__django-13401,Gemini 3 Flash,True,0.3736735499999999
+django__django-13406,Gemini 3 Flash,False,0.6330444500000001
+django__django-13410,Gemini 3 Flash,True,0.17115775000000003
+django__django-13417,Gemini 3 Flash,True,0.5471642
+django__django-13449,Gemini 3 Flash,True,0.4641903
+django__django-13512,Gemini 3 Flash,True,0.33635345000000005
+django__django-13513,Gemini 3 Flash,False,0.7850957999999999
+django__django-13516,Gemini 3 Flash,True,0.40723594999999996
+django__django-13551,Gemini 3 Flash,True,0.2232115
+django__django-13568,Gemini 3 Flash,True,0.2823131
+django__django-13569,Gemini 3 Flash,True,0.3394087999999999
+django__django-13590,Gemini 3 Flash,True,0.26871420000000007
+django__django-13658,Gemini 3 Flash,True,0.36936065000000007
+django__django-13670,Gemini 3 Flash,True,0.24706384999999995
+django__django-13741,Gemini 3 Flash,True,0.25104560000000004
+django__django-13786,Gemini 3 Flash,True,0.2512492499999999
+django__django-13794,Gemini 3 Flash,False,0.35426384999999994
+django__django-13807,Gemini 3 Flash,True,0.3598810000000001
+django__django-13809,Gemini 3 Flash,True,0.4264311500000001
+django__django-13810,Gemini 3 Flash,True,0.29088725000000004
+django__django-13820,Gemini 3 Flash,True,0.2922396
+django__django-13821,Gemini 3 Flash,True,0.3359927
+django__django-13837,Gemini 3 Flash,True,0.29643444999999996
+django__django-13925,Gemini 3 Flash,True,0.39228935
+django__django-13933,Gemini 3 Flash,True,0.27984220000000004
+django__django-13964,Gemini 3 Flash,True,0.6843445499999999
+django__django-14007,Gemini 3 Flash,True,0.4523895499999999
+django__django-14011,Gemini 3 Flash,False,0.32833264999999995
+django__django-14017,Gemini 3 Flash,True,0.36891600000000013
+django__django-14034,Gemini 3 Flash,False,0.2747538
+django__django-14053,Gemini 3 Flash,True,0.3087730999999999
+django__django-14089,Gemini 3 Flash,True,0.1373327
+django__django-14122,Gemini 3 Flash,True,0.5107274
+django__django-14140,Gemini 3 Flash,False,0.2516247
+django__django-14155,Gemini 3 Flash,False,0.3318907
+django__django-14170,Gemini 3 Flash,False,0.4285334499999999
+django__django-14238,Gemini 3 Flash,True,0.29587205000000005
+django__django-14311,Gemini 3 Flash,True,0.32802879999999995
+django__django-14315,Gemini 3 Flash,False,0.3021431499999999
+django__django-14349,Gemini 3 Flash,True,0.33476495
+django__django-14351,Gemini 3 Flash,True,0.5622357499999999
+django__django-14373,Gemini 3 Flash,True,0.21942079999999997
+django__django-14376,Gemini 3 Flash,True,0.228193
+django__django-14404,Gemini 3 Flash,True,0.21181400000000006
+django__django-14434,Gemini 3 Flash,True,0.26303265000000003
+django__django-14493,Gemini 3 Flash,True,0.24499680000000004
+django__django-14500,Gemini 3 Flash,True,0.31994304999999995
+django__django-14534,Gemini 3 Flash,False,0.2681351500000001
+django__django-14539,Gemini 3 Flash,True,0.1312201
+django__django-14559,Gemini 3 Flash,True,0.2814224499999999
+django__django-14580,Gemini 3 Flash,True,0.18203995
+django__django-14608,Gemini 3 Flash,True,0.5336907999999998
+django__django-14631,Gemini 3 Flash,True,0.46022485000000013
+django__django-14672,Gemini 3 Flash,True,0.27617995
+django__django-14725,Gemini 3 Flash,False,0.40868885000000005
+django__django-14752,Gemini 3 Flash,True,0.1716021
+django__django-14765,Gemini 3 Flash,True,0.18288079999999998
+django__django-14771,Gemini 3 Flash,True,0.35382189999999997
+django__django-14787,Gemini 3 Flash,True,0.31312260000000003
+django__django-14792,Gemini 3 Flash,False,0.3933016000000001
+django__django-14855,Gemini 3 Flash,True,0.35106945
+django__django-14915,Gemini 3 Flash,True,0.25451105
+django__django-14999,Gemini 3 Flash,True,0.42621085
+django__django-15022,Gemini 3 Flash,True,0.31631080000000006
+django__django-15037,Gemini 3 Flash,True,0.18841979999999997
+django__django-15098,Gemini 3 Flash,False,0.7037020500000001
+django__django-15103,Gemini 3 Flash,True,0.31799689999999997
+django__django-15104,Gemini 3 Flash,True,0.24973534999999994
+django__django-15127,Gemini 3 Flash,True,0.21603314999999998
+django__django-15128,Gemini 3 Flash,True,0.3447662500000001
+django__django-15161,Gemini 3 Flash,True,0.43808679999999983
+django__django-15252,Gemini 3 Flash,False,0.24347624999999995
+django__django-15268,Gemini 3 Flash,True,0.25815504999999994
+django__django-15277,Gemini 3 Flash,True,0.3295163499999999
+django__django-15278,Gemini 3 Flash,True,0.30449630000000005
+django__django-15280,Gemini 3 Flash,True,0.383618
+django__django-15315,Gemini 3 Flash,True,0.35876705
+django__django-15368,Gemini 3 Flash,True,0.32885499999999995
+django__django-15375,Gemini 3 Flash,True,0.31877994999999987
+django__django-15380,Gemini 3 Flash,True,0.25263425
+django__django-15382,Gemini 3 Flash,True,0.5025896499999999
+django__django-15467,Gemini 3 Flash,True,0.21585024999999997
+django__django-15499,Gemini 3 Flash,True,0.25408420000000004
+django__django-15503,Gemini 3 Flash,True,0.320276
+django__django-15525,Gemini 3 Flash,True,0.25252620000000003
+django__django-15554,Gemini 3 Flash,True,0.2837979000000001
+django__django-15561,Gemini 3 Flash,True,0.4337178999999998
+django__django-15563,Gemini 3 Flash,True,0.3409906999999999
+django__django-15569,Gemini 3 Flash,True,0.30295089999999997
+django__django-15572,Gemini 3 Flash,True,0.23773465
+django__django-15629,Gemini 3 Flash,False,0.0091974
+django__django-15695,Gemini 3 Flash,False,0.42113825000000005
+django__django-15731,Gemini 3 Flash,False,0.0
+django__django-15732,Gemini 3 Flash,False,0.010844199999999998
+django__django-15741,Gemini 3 Flash,True,0.3355444499999999
+django__django-15814,Gemini 3 Flash,False,0.0
+django__django-15851,Gemini 3 Flash,True,0.26763734999999994
+django__django-15863,Gemini 3 Flash,True,0.32647400000000004
+django__django-15916,Gemini 3 Flash,True,0.26112104999999997
+django__django-15930,Gemini 3 Flash,True,0.27115115
+django__django-15957,Gemini 3 Flash,False,0.47599905000000003
+django__django-15973,Gemini 3 Flash,False,0.18318874999999998
+django__django-15987,Gemini 3 Flash,True,0.2973736
+django__django-16032,Gemini 3 Flash,True,0.53189605
+django__django-16082,Gemini 3 Flash,True,0.2969795999999999
+django__django-16100,Gemini 3 Flash,True,0.3146845
+django__django-16116,Gemini 3 Flash,True,0.3184612499999999
+django__django-16136,Gemini 3 Flash,True,0.18233425
+django__django-16139,Gemini 3 Flash,True,0.3155617999999999
+django__django-16145,Gemini 3 Flash,True,0.26755745000000003
+django__django-16255,Gemini 3 Flash,True,0.2882316
+django__django-16256,Gemini 3 Flash,True,0.37212075
+django__django-16263,Gemini 3 Flash,False,0.46180385
+django__django-16315,Gemini 3 Flash,True,0.41628450000000006
+django__django-16333,Gemini 3 Flash,True,0.2920526
+django__django-16429,Gemini 3 Flash,True,0.18880309999999997
+django__django-16454,Gemini 3 Flash,False,0.31882195
+django__django-16485,Gemini 3 Flash,True,0.18711339999999999
+django__django-16493,Gemini 3 Flash,True,0.20199174999999997
+django__django-16502,Gemini 3 Flash,False,0.21496565
+django__django-16527,Gemini 3 Flash,True,0.20730959999999996
+django__django-16560,Gemini 3 Flash,False,0.3596725499999999
+django__django-16569,Gemini 3 Flash,True,0.2366283
+django__django-16595,Gemini 3 Flash,True,0.31645385
+django__django-16612,Gemini 3 Flash,True,0.34085814999999997
+django__django-16631,Gemini 3 Flash,False,0.25559230000000005
+django__django-16642,Gemini 3 Flash,True,0.19303295000000004
+django__django-16661,Gemini 3 Flash,True,0.19558099999999992
+django__django-16662,Gemini 3 Flash,True,0.30367245000000004
+django__django-16667,Gemini 3 Flash,False,0.2784939499999999
+django__django-16801,Gemini 3 Flash,True,0.28063835000000004
+django__django-16819,Gemini 3 Flash,True,0.5304172500000001
+django__django-16877,Gemini 3 Flash,True,0.31182814999999997
+django__django-16899,Gemini 3 Flash,True,0.30087844999999996
+django__django-16901,Gemini 3 Flash,True,0.2426019
+django__django-16938,Gemini 3 Flash,True,0.26593380000000005
+django__django-16950,Gemini 3 Flash,True,0.6402868999999999
+django__django-17029,Gemini 3 Flash,True,0.28599225000000006
+django__django-17084,Gemini 3 Flash,True,0.2679192
+django__django-17087,Gemini 3 Flash,True,0.44761389999999995
+django__django-7530,Gemini 3 Flash,True,0.43990314999999997
+django__django-9296,Gemini 3 Flash,True,0.15196674999999998
+matplotlib__matplotlib-13989,Gemini 3 Flash,True,0.19919740000000005
+matplotlib__matplotlib-14623,Gemini 3 Flash,True,0.38375159999999997
+matplotlib__matplotlib-20488,Gemini 3 Flash,True,0.48288104999999987
+matplotlib__matplotlib-20676,Gemini 3 Flash,False,0.3901879000000001
+matplotlib__matplotlib-20826,Gemini 3 Flash,False,0.5427952500000001
+matplotlib__matplotlib-20859,Gemini 3 Flash,True,0.43580155000000004
+matplotlib__matplotlib-21568,Gemini 3 Flash,False,0.7636998499999998
+matplotlib__matplotlib-22719,Gemini 3 Flash,True,0.29997854999999995
+matplotlib__matplotlib-22865,Gemini 3 Flash,True,0.23281885
+matplotlib__matplotlib-22871,Gemini 3 Flash,True,0.2714727
+matplotlib__matplotlib-23299,Gemini 3 Flash,False,0.677579
+matplotlib__matplotlib-23314,Gemini 3 Flash,True,0.38289259999999997
+matplotlib__matplotlib-23412,Gemini 3 Flash,True,0.4739387500000001
+matplotlib__matplotlib-23476,Gemini 3 Flash,False,0.49349585000000007
+matplotlib__matplotlib-24026,Gemini 3 Flash,True,0.23625590000000002
+matplotlib__matplotlib-24149,Gemini 3 Flash,True,0.21094794999999994
+matplotlib__matplotlib-24177,Gemini 3 Flash,True,0.6781614499999997
+matplotlib__matplotlib-24570,Gemini 3 Flash,True,0.25357585
+matplotlib__matplotlib-24627,Gemini 3 Flash,True,0.6398531999999999
+matplotlib__matplotlib-24637,Gemini 3 Flash,True,0.5723135999999998
+matplotlib__matplotlib-24870,Gemini 3 Flash,False,0.3927715
+matplotlib__matplotlib-24970,Gemini 3 Flash,True,0.2835922
+matplotlib__matplotlib-25122,Gemini 3 Flash,True,0.3561904499999998
+matplotlib__matplotlib-25287,Gemini 3 Flash,True,0.42918865
+matplotlib__matplotlib-25311,Gemini 3 Flash,True,0.5650010999999999
+matplotlib__matplotlib-25332,Gemini 3 Flash,True,0.39233984999999993
+matplotlib__matplotlib-25479,Gemini 3 Flash,False,1.0216593500000002
+matplotlib__matplotlib-25775,Gemini 3 Flash,True,0.7110446499999997
+matplotlib__matplotlib-25960,Gemini 3 Flash,True,0.4381071999999999
+matplotlib__matplotlib-26113,Gemini 3 Flash,True,0.27858454999999993
+matplotlib__matplotlib-26208,Gemini 3 Flash,False,1.0684847000000002
+matplotlib__matplotlib-26291,Gemini 3 Flash,True,0.39705865000000007
+matplotlib__matplotlib-26342,Gemini 3 Flash,True,0.49628464999999994
+matplotlib__matplotlib-26466,Gemini 3 Flash,False,0.52402725
+mwaskom__seaborn-3069,Gemini 3 Flash,False,0.42291575
+mwaskom__seaborn-3187,Gemini 3 Flash,False,0.3510828999999999
+pallets__flask-5014,Gemini 3 Flash,True,0.3430434999999998
+psf__requests-1142,Gemini 3 Flash,True,0.27923245
+psf__requests-1724,Gemini 3 Flash,True,0.4076537499999998
+psf__requests-1766,Gemini 3 Flash,True,0.21588204999999996
+psf__requests-1921,Gemini 3 Flash,True,0.36525409999999997
+psf__requests-2317,Gemini 3 Flash,True,0.50827385
+psf__requests-2931,Gemini 3 Flash,True,0.3285477500000001
+psf__requests-5414,Gemini 3 Flash,True,0.33680570000000004
+psf__requests-6028,Gemini 3 Flash,False,0.2810046
+pydata__xarray-2905,Gemini 3 Flash,True,0.43005674999999993
+pydata__xarray-3095,Gemini 3 Flash,True,0.47962774999999996
+pydata__xarray-3151,Gemini 3 Flash,True,0.2079853
+pydata__xarray-3305,Gemini 3 Flash,True,0.3631912500000001
+pydata__xarray-3677,Gemini 3 Flash,True,0.3863996499999999
+pydata__xarray-3993,Gemini 3 Flash,False,0.21764405000000003
+pydata__xarray-4075,Gemini 3 Flash,True,0.27768380000000004
+pydata__xarray-4094,Gemini 3 Flash,True,0.30346464999999995
+pydata__xarray-4356,Gemini 3 Flash,True,0.31288569999999993
+pydata__xarray-4629,Gemini 3 Flash,True,0.2192968
+pydata__xarray-4687,Gemini 3 Flash,False,0.5659671
+pydata__xarray-4695,Gemini 3 Flash,True,0.4591847000000001
+pydata__xarray-4966,Gemini 3 Flash,True,0.2342735
+pydata__xarray-6461,Gemini 3 Flash,True,0.5302149500000001
+pydata__xarray-6599,Gemini 3 Flash,True,0.3472079
+pydata__xarray-6721,Gemini 3 Flash,True,0.5330511499999998
+pydata__xarray-6744,Gemini 3 Flash,True,0.2505609
+pydata__xarray-6938,Gemini 3 Flash,True,0.34423400000000004
+pydata__xarray-6992,Gemini 3 Flash,False,0.46942814999999977
+pydata__xarray-7229,Gemini 3 Flash,False,0.7374719
+pydata__xarray-7233,Gemini 3 Flash,True,0.2620190999999999
+pydata__xarray-7393,Gemini 3 Flash,True,0.4855722500000001
+pylint-dev__pylint-4551,Gemini 3 Flash,False,0.59263495
+pylint-dev__pylint-4604,Gemini 3 Flash,False,0.3975210499999998
+pylint-dev__pylint-4661,Gemini 3 Flash,False,0.30747825
+pylint-dev__pylint-4970,Gemini 3 Flash,True,0.34540860000000007
+pylint-dev__pylint-6386,Gemini 3 Flash,True,0.4779335999999999
+pylint-dev__pylint-6528,Gemini 3 Flash,False,0.5691955499999999
+pylint-dev__pylint-6903,Gemini 3 Flash,True,0.1368682
+pylint-dev__pylint-7080,Gemini 3 Flash,True,0.8522590000000001
+pylint-dev__pylint-7277,Gemini 3 Flash,False,0.3408729500000002
+pylint-dev__pylint-8898,Gemini 3 Flash,False,0.47594965
+pytest-dev__pytest-10051,Gemini 3 Flash,True,0.26417349999999995
+pytest-dev__pytest-10081,Gemini 3 Flash,True,0.19709055
+pytest-dev__pytest-10356,Gemini 3 Flash,False,0.3580870000000001
+pytest-dev__pytest-5262,Gemini 3 Flash,True,0.35884384999999996
+pytest-dev__pytest-5631,Gemini 3 Flash,True,0.3083206500000001
+pytest-dev__pytest-5787,Gemini 3 Flash,False,0.3097191500000001
+pytest-dev__pytest-5809,Gemini 3 Flash,True,0.19622970000000006
+pytest-dev__pytest-5840,Gemini 3 Flash,False,0.2431931
+pytest-dev__pytest-6197,Gemini 3 Flash,True,0.5245362999999998
+pytest-dev__pytest-6202,Gemini 3 Flash,True,0.22830599999999998
+pytest-dev__pytest-7205,Gemini 3 Flash,False,0.3403756
+pytest-dev__pytest-7236,Gemini 3 Flash,True,0.20944544999999998
+pytest-dev__pytest-7324,Gemini 3 Flash,True,0.27346355000000006
+pytest-dev__pytest-7432,Gemini 3 Flash,True,0.3325176
+pytest-dev__pytest-7490,Gemini 3 Flash,False,0.3302019
+pytest-dev__pytest-7521,Gemini 3 Flash,True,0.48439799999999994
+pytest-dev__pytest-7571,Gemini 3 Flash,True,0.21863625
+pytest-dev__pytest-7982,Gemini 3 Flash,True,0.3368753500000001
+pytest-dev__pytest-8399,Gemini 3 Flash,True,0.30754335
+scikit-learn__scikit-learn-10297,Gemini 3 Flash,True,0.2874794499999999
+scikit-learn__scikit-learn-10844,Gemini 3 Flash,True,0.28912865
+scikit-learn__scikit-learn-10908,Gemini 3 Flash,True,0.5495016
+scikit-learn__scikit-learn-11310,Gemini 3 Flash,True,0.33396815
+scikit-learn__scikit-learn-11578,Gemini 3 Flash,True,0.3380355499999999
+scikit-learn__scikit-learn-12585,Gemini 3 Flash,True,0.22648885000000002
+scikit-learn__scikit-learn-12682,Gemini 3 Flash,True,0.3571271499999998
+scikit-learn__scikit-learn-12973,Gemini 3 Flash,True,0.3305498999999999
+scikit-learn__scikit-learn-13124,Gemini 3 Flash,True,0.237673
+scikit-learn__scikit-learn-13135,Gemini 3 Flash,True,0.194733
+scikit-learn__scikit-learn-13142,Gemini 3 Flash,True,0.30379110000000004
+scikit-learn__scikit-learn-13328,Gemini 3 Flash,True,0.36784485
+scikit-learn__scikit-learn-13439,Gemini 3 Flash,True,0.25516675
+scikit-learn__scikit-learn-13496,Gemini 3 Flash,True,0.2644149
+scikit-learn__scikit-learn-13779,Gemini 3 Flash,True,0.3080038
+scikit-learn__scikit-learn-14053,Gemini 3 Flash,True,0.29015335
+scikit-learn__scikit-learn-14087,Gemini 3 Flash,False,0.22806305
+scikit-learn__scikit-learn-14141,Gemini 3 Flash,True,0.3052748000000001
+scikit-learn__scikit-learn-14496,Gemini 3 Flash,True,0.29643949999999997
+scikit-learn__scikit-learn-14629,Gemini 3 Flash,True,0.5706381999999999
+scikit-learn__scikit-learn-14710,Gemini 3 Flash,True,0.25726355000000006
+scikit-learn__scikit-learn-14894,Gemini 3 Flash,True,0.1784474
+scikit-learn__scikit-learn-14983,Gemini 3 Flash,True,0.22314299999999998
+scikit-learn__scikit-learn-15100,Gemini 3 Flash,True,0.38821229999999984
+scikit-learn__scikit-learn-25102,Gemini 3 Flash,False,0.581563
+scikit-learn__scikit-learn-25232,Gemini 3 Flash,True,0.22234880000000004
+scikit-learn__scikit-learn-25747,Gemini 3 Flash,False,0.33280465000000004
+scikit-learn__scikit-learn-25931,Gemini 3 Flash,True,0.2871204999999999
+scikit-learn__scikit-learn-25973,Gemini 3 Flash,True,0.2692938
+scikit-learn__scikit-learn-26194,Gemini 3 Flash,False,0.31320289999999995
+scikit-learn__scikit-learn-26323,Gemini 3 Flash,True,0.35954359999999985
+scikit-learn__scikit-learn-9288,Gemini 3 Flash,True,0.27567990000000003
+sphinx-doc__sphinx-10323,Gemini 3 Flash,True,0.3135482
+sphinx-doc__sphinx-10435,Gemini 3 Flash,False,0.30682225
+sphinx-doc__sphinx-10449,Gemini 3 Flash,True,0.44071730000000003
+sphinx-doc__sphinx-10466,Gemini 3 Flash,True,0.26855335
+sphinx-doc__sphinx-10614,Gemini 3 Flash,False,0.37653105
+sphinx-doc__sphinx-10673,Gemini 3 Flash,True,0.3798251
+sphinx-doc__sphinx-11445,Gemini 3 Flash,True,0.2908668499999999
+sphinx-doc__sphinx-11510,Gemini 3 Flash,False,0.34858625
+sphinx-doc__sphinx-7440,Gemini 3 Flash,True,0.28457414999999997
+sphinx-doc__sphinx-7454,Gemini 3 Flash,False,0.43943915000000006
+sphinx-doc__sphinx-7462,Gemini 3 Flash,False,0.26048889999999997
+sphinx-doc__sphinx-7590,Gemini 3 Flash,False,0.42334615
+sphinx-doc__sphinx-7748,Gemini 3 Flash,False,0.4134733999999998
+sphinx-doc__sphinx-7757,Gemini 3 Flash,True,0.19838095
+sphinx-doc__sphinx-7889,Gemini 3 Flash,True,0.09244754999999999
+sphinx-doc__sphinx-7910,Gemini 3 Flash,True,0.3755499
+sphinx-doc__sphinx-7985,Gemini 3 Flash,True,0.44056984999999993
+sphinx-doc__sphinx-8035,Gemini 3 Flash,True,0.45230240000000005
+sphinx-doc__sphinx-8056,Gemini 3 Flash,False,0.416722
+sphinx-doc__sphinx-8120,Gemini 3 Flash,True,0.36799689999999974
+sphinx-doc__sphinx-8265,Gemini 3 Flash,True,0.5107749499999998
+sphinx-doc__sphinx-8269,Gemini 3 Flash,True,0.36618439999999997
+sphinx-doc__sphinx-8459,Gemini 3 Flash,True,0.3410211000000001
+sphinx-doc__sphinx-8475,Gemini 3 Flash,True,0.16745444999999998
+sphinx-doc__sphinx-8548,Gemini 3 Flash,False,0.6154409000000001
+sphinx-doc__sphinx-8551,Gemini 3 Flash,True,0.46325045
+sphinx-doc__sphinx-8593,Gemini 3 Flash,True,0.4968758000000001
+sphinx-doc__sphinx-8595,Gemini 3 Flash,True,0.35428815
+sphinx-doc__sphinx-8621,Gemini 3 Flash,True,0.18321320000000002
+sphinx-doc__sphinx-8638,Gemini 3 Flash,False,0.49800200000000006
+sphinx-doc__sphinx-8721,Gemini 3 Flash,True,0.40828775
+sphinx-doc__sphinx-9229,Gemini 3 Flash,False,0.3889468
+sphinx-doc__sphinx-9230,Gemini 3 Flash,True,0.2440101999999999
+sphinx-doc__sphinx-9258,Gemini 3 Flash,True,0.3350204499999999
+sphinx-doc__sphinx-9281,Gemini 3 Flash,False,0.33821405
+sphinx-doc__sphinx-9320,Gemini 3 Flash,True,0.29190935000000007
+sphinx-doc__sphinx-9367,Gemini 3 Flash,True,0.22724190000000008
+sphinx-doc__sphinx-9461,Gemini 3 Flash,False,1.2710400499999992
+sphinx-doc__sphinx-9591,Gemini 3 Flash,True,0.3444711499999999
+sphinx-doc__sphinx-9602,Gemini 3 Flash,False,0.40783685000000003
+sphinx-doc__sphinx-9658,Gemini 3 Flash,True,0.33716685
+sphinx-doc__sphinx-9673,Gemini 3 Flash,True,0.21531375000000003
+sphinx-doc__sphinx-9698,Gemini 3 Flash,True,0.2807319
+sphinx-doc__sphinx-9711,Gemini 3 Flash,True,0.33938005
+sympy__sympy-11618,Gemini 3 Flash,True,0.33153160000000004
+sympy__sympy-12096,Gemini 3 Flash,True,0.5443497000000002
+sympy__sympy-12419,Gemini 3 Flash,True,0.5293431499999999
+sympy__sympy-12481,Gemini 3 Flash,True,0.4269092500000001
+sympy__sympy-12489,Gemini 3 Flash,True,0.62619715
+sympy__sympy-13031,Gemini 3 Flash,True,0.5658749999999999
+sympy__sympy-13091,Gemini 3 Flash,True,0.7383701000000001
+sympy__sympy-13372,Gemini 3 Flash,True,0.2645804
+sympy__sympy-13480,Gemini 3 Flash,True,0.33577835000000006
+sympy__sympy-13551,Gemini 3 Flash,True,0.28445315000000004
+sympy__sympy-13615,Gemini 3 Flash,True,0.33369939999999987
+sympy__sympy-13647,Gemini 3 Flash,True,0.31040414999999993
+sympy__sympy-13757,Gemini 3 Flash,True,0.5304138999999999
+sympy__sympy-13798,Gemini 3 Flash,False,0.36064625
+sympy__sympy-13852,Gemini 3 Flash,False,0.2965941
+sympy__sympy-13877,Gemini 3 Flash,True,0.3903407999999999
+sympy__sympy-13878,Gemini 3 Flash,True,0.6427697000000001
+sympy__sympy-13974,Gemini 3 Flash,False,0.38731869999999996
+sympy__sympy-14248,Gemini 3 Flash,True,0.82808985
+sympy__sympy-14531,Gemini 3 Flash,True,0.4268612499999999
+sympy__sympy-14711,Gemini 3 Flash,True,0.41754845
+sympy__sympy-14976,Gemini 3 Flash,False,0.3485054999999999
+sympy__sympy-15017,Gemini 3 Flash,True,0.29628435000000003
+sympy__sympy-15345,Gemini 3 Flash,True,0.3759546500000001
+sympy__sympy-15349,Gemini 3 Flash,True,0.21372304999999997
+sympy__sympy-15599,Gemini 3 Flash,True,0.28814649999999997
+sympy__sympy-15809,Gemini 3 Flash,True,0.30761875
+sympy__sympy-15875,Gemini 3 Flash,False,0.2238198
+sympy__sympy-15976,Gemini 3 Flash,True,0.3453041999999998
+sympy__sympy-16450,Gemini 3 Flash,True,0.4049269499999999
+sympy__sympy-16597,Gemini 3 Flash,False,0.7794591000000002
+sympy__sympy-16766,Gemini 3 Flash,True,0.48871229999999993
+sympy__sympy-16792,Gemini 3 Flash,True,0.47553805
+sympy__sympy-16886,Gemini 3 Flash,True,0.1655976
+sympy__sympy-17139,Gemini 3 Flash,True,0.3947143999999999
+sympy__sympy-17318,Gemini 3 Flash,False,0.1935276
+sympy__sympy-17630,Gemini 3 Flash,False,0.38132974999999997
+sympy__sympy-17655,Gemini 3 Flash,True,0.5801417000000001
+sympy__sympy-18189,Gemini 3 Flash,True,0.3233650999999999
+sympy__sympy-18199,Gemini 3 Flash,False,0.21291590000000002
+sympy__sympy-18211,Gemini 3 Flash,False,0.4248712
+sympy__sympy-18698,Gemini 3 Flash,False,0.4863457000000001
+sympy__sympy-18763,Gemini 3 Flash,False,0.38959095
+sympy__sympy-19040,Gemini 3 Flash,True,0.8617107499999997
+sympy__sympy-19346,Gemini 3 Flash,True,0.31151605
+sympy__sympy-19495,Gemini 3 Flash,True,0.3227483499999999
+sympy__sympy-19637,Gemini 3 Flash,True,0.26723905000000003
+sympy__sympy-19783,Gemini 3 Flash,True,0.5876483
+sympy__sympy-19954,Gemini 3 Flash,True,0.16349149999999998
+sympy__sympy-20154,Gemini 3 Flash,True,0.20828344999999998
+sympy__sympy-20428,Gemini 3 Flash,False,0.5283147
+sympy__sympy-20438,Gemini 3 Flash,False,0.59686795
+sympy__sympy-20590,Gemini 3 Flash,True,0.47295664999999976
+sympy__sympy-20801,Gemini 3 Flash,True,0.48045540000000003
+sympy__sympy-20916,Gemini 3 Flash,False,0.39965949999999983
+sympy__sympy-21379,Gemini 3 Flash,True,0.5069821
+sympy__sympy-21596,Gemini 3 Flash,False,0.33746219999999993
+sympy__sympy-21612,Gemini 3 Flash,False,0.4885133
+sympy__sympy-21847,Gemini 3 Flash,True,0.35975504999999997
+sympy__sympy-21930,Gemini 3 Flash,False,0.56566125
+sympy__sympy-22080,Gemini 3 Flash,False,0.5458038499999999
+sympy__sympy-22456,Gemini 3 Flash,True,0.9618326999999998
+sympy__sympy-22714,Gemini 3 Flash,True,0.40767985000000007
+sympy__sympy-22914,Gemini 3 Flash,True,0.36677355
+sympy__sympy-23262,Gemini 3 Flash,True,0.33159635
+sympy__sympy-23413,Gemini 3 Flash,True,0.28767355
+sympy__sympy-23534,Gemini 3 Flash,True,0.30161809999999994
+sympy__sympy-23824,Gemini 3 Flash,True,0.1724019
+sympy__sympy-23950,Gemini 3 Flash,False,0.35661495
+sympy__sympy-24066,Gemini 3 Flash,True,0.2426091
+sympy__sympy-24213,Gemini 3 Flash,True,0.28953039999999997
+sympy__sympy-24443,Gemini 3 Flash,True,0.34090595
+sympy__sympy-24539,Gemini 3 Flash,True,0.31905015
+sympy__sympy-24562,Gemini 3 Flash,True,0.22255945000000002
+sympy__sympy-24661,Gemini 3 Flash,True,0.3714143000000001

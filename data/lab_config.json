@@ -1,0 +1,11 @@
+{
+  "part1_run": "django__django-16263__r1",
+  "agent_model": "Gemini 3.5 Flash (mini-swe-agent 2.4.2)",
+  "price_in_per_million": 1.5,
+  "price_out_per_million": 9.0,
+  "price_note": "Google's list price for Gemini 3.5 Flash (Gemini API, standard tier, as of Nov 2026). The public runs recorded tokens, not dollars, so costs are tokens x this price.",
+  "source": "SWE-bench/experiments: evaluation/verified/20260901_mini-v2.4.2_gemini-3-5-flash",
+  "judge_model": "gemini-3.5-flash-lite",
+  "judge_price_in_per_million": 0.3,
+  "judge_price_out_per_million": 2.5
+}
